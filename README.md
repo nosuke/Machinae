@@ -6,7 +6,7 @@ Jeu vidéo mêlant infiltration et jeu de plates-formes.
 ******************************************************<br>
 
 <b>Matière :</b> Programmation de jeux vidéo (IFT-2103).<br>
-<b>Cadre :</b> Projet de session.<br>e
+<b>Cadre :</b> Projet de session.<br>
 <b>Moteur de jeu :</b> Unity.<br>
 <b>Langages :</b> C# et JavaScript.
 

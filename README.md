@@ -5,9 +5,9 @@ Jeu vidéo mêlant infiltration et jeu de plates-formes.
 ****** MATIÈRE ET DÉTAILS TECHNIQUES ******<br>
 ******************************************************<br>
 
-Matière : Programmation de jeux vidéo (IFT-2103).<br>
-Moteur de jeu : Unity.<br>
-Langages : C# et JavaScript.
+<b>Matière :</b> Programmation de jeux vidéo (IFT-2103).<br>
+<b>Moteur de jeu :</b> Unity.<br>
+<b>Langages :</b> C# et JavaScript.
 
 ******************************************<br>
 ****** DESCRIPTION DÉTAILLÉE ******<br>
@@ -19,9 +19,9 @@ Jeu vidéo reposant sur l'idée de la séparation en un monde réel (phases d'in
 ****** DATES, DURÉE ET ÉQUIPE ******<br>
 *******************************************<br>
 
-Quand ? Du 2 septembre au 18 décembre 2014.<br>
-Combien de temps ? 3 mois et demi.<br>
-Quelle équipe ? 4 membres :<br>
+<b>Quand ?</b> Du 2 septembre au 18 décembre 2014.<br>
+<b>Combien de temps ?</b> 3 mois et demi.<br>
+<b>Quelle équipe ?</b> 4 membres :<br>
 – Florent Lucet ;<br>
 – Jonathan Nau ;<br>
 – Sébastien Roynette ;<br>

@@ -1,0 +1,1873 @@
+fileFormatVersion: 2
+guid: 9c61a9a6724803b41b16661f13510f1a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robo (S) (Chrono Trigger)_0
+    21300002: Robo (S) (Chrono Trigger)_1
+    21300004: Robo (S) (Chrono Trigger)_2
+    21300006: Robo (S) (Chrono Trigger)_3
+    21300008: Robo (S) (Chrono Trigger)_4
+    21300010: Robo (S) (Chrono Trigger)_5
+    21300012: Robo (S) (Chrono Trigger)_6
+    21300014: Robo (S) (Chrono Trigger)_7
+    21300016: Robo (S) (Chrono Trigger)_8
+    21300018: Robo (S) (Chrono Trigger)_9
+    21300020: Robo (S) (Chrono Trigger)_10
+    21300022: Robo (S) (Chrono Trigger)_11
+    21300024: Robo (S) (Chrono Trigger)_12
+    21300026: Robo (S) (Chrono Trigger)_13
+    21300028: Robo (S) (Chrono Trigger)_14
+    21300030: Robo (S) (Chrono Trigger)_15
+    21300032: Robo (S) (Chrono Trigger)_16
+    21300034: Robo (S) (Chrono Trigger)_17
+    21300036: Robo (S) (Chrono Trigger)_18
+    21300038: Robo (S) (Chrono Trigger)_19
+    21300040: Robo (S) (Chrono Trigger)_20
+    21300042: Robo (S) (Chrono Trigger)_21
+    21300044: Robo (S) (Chrono Trigger)_22
+    21300046: Robo (S) (Chrono Trigger)_23
+    21300048: Robo (S) (Chrono Trigger)_24
+    21300050: Robo (S) (Chrono Trigger)_25
+    21300052: Robo (S) (Chrono Trigger)_26
+    21300054: Robo (S) (Chrono Trigger)_27
+    21300056: Robo (S) (Chrono Trigger)_28
+    21300058: Robo (S) (Chrono Trigger)_29
+    21300060: Robo (S) (Chrono Trigger)_30
+    21300062: Robo (S) (Chrono Trigger)_31
+    21300064: Robo (S) (Chrono Trigger)_32
+    21300066: Robo (S) (Chrono Trigger)_33
+    21300068: Robo (S) (Chrono Trigger)_34
+    21300070: Robo (S) (Chrono Trigger)_35
+    21300072: Robo (S) (Chrono Trigger)_36
+    21300074: Robo (S) (Chrono Trigger)_37
+    21300076: Robo (S) (Chrono Trigger)_38
+    21300078: Robo (S) (Chrono Trigger)_39
+    21300080: Robo (S) (Chrono Trigger)_40
+    21300082: Robo (S) (Chrono Trigger)_41
+    21300084: Robo (S) (Chrono Trigger)_42
+    21300086: Robo (S) (Chrono Trigger)_43
+    21300088: Robo (S) (Chrono Trigger)_44
+    21300090: Robo (S) (Chrono Trigger)_45
+    21300092: Robo (S) (Chrono Trigger)_46
+    21300094: Robo (S) (Chrono Trigger)_47
+    21300096: Robo (S) (Chrono Trigger)_48
+    21300098: Robo (S) (Chrono Trigger)_49
+    21300100: Robo (S) (Chrono Trigger)_50
+    21300102: Robo (S) (Chrono Trigger)_51
+    21300104: Robo (S) (Chrono Trigger)_52
+    21300106: Robo (S) (Chrono Trigger)_53
+    21300108: Robo (S) (Chrono Trigger)_54
+    21300110: Robo (S) (Chrono Trigger)_55
+    21300112: Robo (S) (Chrono Trigger)_56
+    21300114: Robo (S) (Chrono Trigger)_57
+    21300116: Robo (S) (Chrono Trigger)_58
+    21300118: Robo (S) (Chrono Trigger)_59
+    21300120: Robo (S) (Chrono Trigger)_60
+    21300122: Robo (S) (Chrono Trigger)_61
+    21300124: Robo (S) (Chrono Trigger)_62
+    21300126: Robo (S) (Chrono Trigger)_63
+    21300128: Robo (S) (Chrono Trigger)_64
+    21300130: Robo (S) (Chrono Trigger)_65
+    21300132: Robo (S) (Chrono Trigger)_66
+    21300134: Robo (S) (Chrono Trigger)_67
+    21300136: Robo (S) (Chrono Trigger)_68
+    21300138: Robo (S) (Chrono Trigger)_69
+    21300140: Robo (S) (Chrono Trigger)_70
+    21300142: Robo (S) (Chrono Trigger)_71
+    21300144: Robo (S) (Chrono Trigger)_72
+    21300146: Robo (S) (Chrono Trigger)_73
+    21300148: Robo (S) (Chrono Trigger)_74
+    21300150: Robo (S) (Chrono Trigger)_75
+    21300152: Robo (S) (Chrono Trigger)_76
+    21300154: Robo (S) (Chrono Trigger)_77
+    21300156: Robo (S) (Chrono Trigger)_78
+    21300158: Robo (S) (Chrono Trigger)_79
+    21300160: Robo (S) (Chrono Trigger)_80
+    21300162: Robo (S) (Chrono Trigger)_81
+    21300164: Robo (S) (Chrono Trigger)_82
+    21300166: Robo (S) (Chrono Trigger)_83
+    21300168: Robo (S) (Chrono Trigger)_84
+    21300170: Robo (S) (Chrono Trigger)_85
+    21300172: Robo (S) (Chrono Trigger)_86
+    21300174: Robo (S) (Chrono Trigger)_87
+    21300176: Robo (S) (Chrono Trigger)_88
+    21300178: Robo (S) (Chrono Trigger)_89
+    21300180: Robo (S) (Chrono Trigger)_90
+    21300182: Robo (S) (Chrono Trigger)_91
+    21300184: Robo (S) (Chrono Trigger)_92
+    21300186: Robo (S) (Chrono Trigger)_93
+    21300188: Robo (S) (Chrono Trigger)_94
+    21300190: Robo (S) (Chrono Trigger)_95
+    21300192: Robo (S) (Chrono Trigger)_96
+    21300194: Robo (S) (Chrono Trigger)_97
+    21300196: Robo (S) (Chrono Trigger)_98
+    21300198: Robo (S) (Chrono Trigger)_99
+    21300200: Robo (S) (Chrono Trigger)_100
+    21300202: Robo (S) (Chrono Trigger)_101
+    21300204: Robo (S) (Chrono Trigger)_102
+    21300206: Robo (S) (Chrono Trigger)_103
+    21300208: Robo (S) (Chrono Trigger)_104
+    21300210: Robo (S) (Chrono Trigger)_105
+    21300212: Robo (S) (Chrono Trigger)_106
+    21300214: Robo (S) (Chrono Trigger)_107
+    21300216: Robo (S) (Chrono Trigger)_108
+    21300218: Robo (S) (Chrono Trigger)_109
+    21300220: Robo (S) (Chrono Trigger)_110
+    21300222: Robo (S) (Chrono Trigger)_111
+    21300224: Robo (S) (Chrono Trigger)_112
+    21300226: Robo (S) (Chrono Trigger)_113
+    21300228: Robo (S) (Chrono Trigger)_114
+    21300230: Robo (S) (Chrono Trigger)_115
+    21300232: Robo (S) (Chrono Trigger)_116
+    21300234: Robo (S) (Chrono Trigger)_117
+    21300236: Robo (S) (Chrono Trigger)_118
+    21300238: Robo (S) (Chrono Trigger)_119
+    21300240: Robo (S) (Chrono Trigger)_120
+    21300242: Robo (S) (Chrono Trigger)_121
+    21300244: Robo (S) (Chrono Trigger)_122
+    21300246: Robo (S) (Chrono Trigger)_123
+    21300248: Robo (S) (Chrono Trigger)_124
+    21300250: Robo (S) (Chrono Trigger)_125
+    21300252: Robo (S) (Chrono Trigger)_126
+    21300254: Robo (S) (Chrono Trigger)_127
+    21300256: Robo (S) (Chrono Trigger)_128
+    21300258: Robo (S) (Chrono Trigger)_129
+    21300260: Robo (S) (Chrono Trigger)_130
+    21300262: Robo (S) (Chrono Trigger)_131
+    21300264: Robo (S) (Chrono Trigger)_132
+    21300266: Robo (S) (Chrono Trigger)_133
+    21300268: Robo (S) (Chrono Trigger)_134
+    21300270: Robo (S) (Chrono Trigger)_135
+    21300272: Robo (S) (Chrono Trigger)_136
+    21300274: Robo (S) (Chrono Trigger)_137
+    21300276: Robo (S) (Chrono Trigger)_138
+    21300278: Robo (S) (Chrono Trigger)_139
+    21300280: Robo (S) (Chrono Trigger)_140
+    21300282: Robo (S) (Chrono Trigger)_141
+    21300284: Robo (S) (Chrono Trigger)_142
+    21300286: Robo (S) (Chrono Trigger)_143
+    21300288: Robo (S) (Chrono Trigger)_144
+    21300290: Robo (S) (Chrono Trigger)_145
+    21300292: Robo (S) (Chrono Trigger)_146
+    21300294: Robo (S) (Chrono Trigger)_147
+    21300296: Robo (S) (Chrono Trigger)_148
+    21300298: Robo (S) (Chrono Trigger)_149
+    21300300: Robo (S) (Chrono Trigger)_150
+    21300302: Robo (S) (Chrono Trigger)_151
+    21300304: Robo (S) (Chrono Trigger)_152
+    21300306: Robo (S) (Chrono Trigger)_153
+    21300308: Robo (S) (Chrono Trigger)_154
+    21300310: Robo (S) (Chrono Trigger)_155
+    21300312: Robo (S) (Chrono Trigger)_156
+    21300314: Robo (S) (Chrono Trigger)_157
+    21300316: Robo (S) (Chrono Trigger)_158
+    21300318: Robo (S) (Chrono Trigger)_159
+    21300320: Robo (S) (Chrono Trigger)_160
+    21300322: Robo (S) (Chrono Trigger)_161
+    21300324: Robo (S) (Chrono Trigger)_162
+    21300326: Robo (S) (Chrono Trigger)_163
+    21300328: Robo (S) (Chrono Trigger)_164
+    21300330: Robo (S) (Chrono Trigger)_165
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Robo (S) (Chrono Trigger)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 284
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 304
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 304
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 304
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 304
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_5
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 303
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 304
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 303
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 304
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_10
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 304
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 305
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_15
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 305
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 305
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_20
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_21
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 305
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_22
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 305
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 267
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 267
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 268
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 268
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 269
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 269
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 269
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_30
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 270
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 270
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 270
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_33
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 269
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_34
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 269
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_35
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 269
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_36
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 269
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_37
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 269
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_38
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 269
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 269
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_40
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 269
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_41
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 269
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_42
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 269
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 233
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_44
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 233
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_45
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 233
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 234
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_47
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 235
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_48
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 234
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_49
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 232
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_50
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 232
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_51
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 232
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_52
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 232
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 232
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_54
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 232
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_55
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 232
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_56
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 232
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_57
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 232
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_58
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 232
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_59
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 197
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_60
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 198
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 198
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_62
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 199
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 199
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_64
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 198
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_65
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 198
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_66
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 198
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_67
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 198
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_68
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 198
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 198
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_70
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 198
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_71
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 198
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_72
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 198
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_73
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 198
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_74
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 161
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_75
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_76
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 161
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_77
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 162
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 162
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_79
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 162
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_80
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 164
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_82
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_83
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 163
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_84
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 163
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_85
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 162
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_86
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 161
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_87
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 161
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_88
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_89
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 157
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_90
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 157
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_91
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 157
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_92
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 123
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 123
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_94
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 123
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 126
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_96
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 126
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 126
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_98
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_99
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 127
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_100
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_101
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 127
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_102
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 127
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_103
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 126
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_104
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 125
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_105
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 124
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_106
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 124
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_107
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 122
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_108
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 122
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_109
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 122
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_110
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 81
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 81
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_112
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 82
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_113
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 82
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_114
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 82
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_115
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 83
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 84
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_117
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 84
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_118
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 84
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_119
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 85
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_120
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 85
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_121
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 85
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_122
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 85
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_123
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 85
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_124
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 85
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_125
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 85
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_126
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 85
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_127
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 85
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_128
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 45
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_129
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_130
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 45
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_131
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 45
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_132
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 45
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_133
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 45
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_134
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 45
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_135
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 46
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_136
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 46
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_137
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 45
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_138
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 45
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_139
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 45
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_140
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 45
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_141
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 46
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_142
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 46
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_143
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 46
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_144
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 46
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_145
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 46
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_146
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 46
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_147
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_148
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_149
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 8
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_150
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_151
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 25
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_152
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 22
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_153
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 25
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_154
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 25
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_155
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 13
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_156
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 13
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_157
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 10
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_158
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 13
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_159
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 13
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_160
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 13
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_161
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 6
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_162
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 6
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_163
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_164
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robo (S) (Chrono Trigger)_165
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

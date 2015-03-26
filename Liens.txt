@@ -1,0 +1,142 @@
+***************
+*** GÉNÉRAL ***
+***************
+
+http://perso.numericable.fr/ckckck/Langages.htm
+http://jeux.developpez.com/medias/
+http://www.pixelprospector.com/
+http://www.kaisirak.com/
+http://jessefreeman.com/
+http://higherorderfun.com/blog/
+http://www.raywenderlich.com/
+
+
+*************
+*** UNITY ***
+*************
+
+http://docs.unity3d.com/Manual/UnityHotkeys.html
+https://www.youtube.com/channel/UCzCi0J7KLywRZQeFSe1tuGg
+http://www.unity3d-france.com/unity/
+http://unitycoder.com/blog/
+http://www.unity3dstudent.com/
+http://learnunity2d.com/
+http://wiki.unity3d.com/index.php/Moving_and_Copying_Unity_Assets
+http://forum.unity3d.com/threads/why-unity-5-0-is-still-a-good-deal.235219/page-2#post-1562646
+http://www.demonixis.net/blog/
+http://cayou-prod.com/?cat=6&lang=fr
+Jeu de plates-formes à la troisième personne : http://www.youtube.com/playlist?list=PLKFvhfT4QOqlEReJ2lSZJk_APVq5sxZ-x
+Bonnes pratiques d'utilisation du logiciel pour la 2D : http://www.youtube.com/watch?v=HM17mAmLd7k
+Formats audio acceptés : http://docs.unity3d.com/Manual/AudioFiles.html
+
+
+*****************************
+*** SCRIPTS D'UN GAMEPLAY ***
+*****************************
+
+http://game-oldies.com/play-online/mega-man-zero-2-nintendo-game-boy-advance
+Script intégral d'un jeu de plates-formes 2D : https://github.com/cjddmut/Unity-2D-Player-Controller
+Script intégral d'un jeu de plates-formes 2D personnalisable : http://battlebrothers.io/acrocatic/
+Script intégral d'un jeu de plates-formes 2D (2) : https://github.com/joaokucera/unity-project-perere
+
+
+*****************************
+*** SCRIPTS DE MÉCANISMES ***
+*****************************
+
+http://pastebin.com/Q0fCVYDs
+https://www.youtube.com/watch?v=F6cc-ISeIPI
+Déplacement et animation d'un personnage en vue de dessus : http://www.teomaragakis.com/game-development/creating-2d-zelda-clone-unity/
+Caméra suivant le joueur : http://www.youtube.com/watch?v=u3I5YgtKNl4
+Bases de la création d'un jeu 2D en vue de dessus : http://unity3d.com/learn/tutorials/modules/beginner/live-training-archive/top-down-2d
+Création, pas à pas, d'un jeu 2D en vue de dessus : http://www.youtube.com/channel/UC3FLJZNhCPwm7ah7tNvDuhQ
+Intelligence artificielle de jeu d'infiltration : http://www.youtube.com/watch?v=TXVFxEpi248
+Menu principal : http://www.youtube.com/watch?v=QxRAIjXdfFU
+Inventaire : http://www.youtube.com/watch?v=6twPV3e4crE
+Système de GUI qui s'ouvre à l'entrée dans une zone au rayon particulier : http://www.unity3d-france.com/unity/phpBB3/viewtopic.php?f=7&t=7664
+Cône de détection : http://www.unity3d-france.com/unity/phpBB3/viewtopic.php?f=2&t=3409 et http://www.unity3d-france.com/unity/phpBB3/viewtopic.php?f=7&t=3209&p=18591
+Repérage du joueur : http://www.unity3d-france.com/unity/creation-dun-fps-basique/ et http://www.youtube.com/watch?v=KlvIkvH0x6I
+Tilemapper  : http://www.youtube.com/watch?v=_x0bMTxP7Yw
+Repérage du joueur (2) : http://unitycoder.com/blog/2012/02/15/raycast-realtime-visibility-2-0/
+Tilemapper (2) : http://jessefreeman.com/dev-diary/unity-2d-map-editor-done/
+Repérage du joueur (3) : http://www.youtube.com/watch?v=pSN2x3dPgYw
+Champ visuel : http://code.tutsplus.com/tutorials/use-vector-regions-to-implement-field-of-view-in-a-flash-game--active-10504
+Raycasting : http://www.unity3dstudent.com/2010/08/intermediate-i01-raycasting/
+Raycasting 2D : http://docs.unity3d.com/ScriptReference/Physics2D.Raycast.html
+Jeu de plates-formes : http://forum.unity3d.com/threads/unity-tutorial-creating-a-scroller-platformer-game.186908/
+Implantation d'un jeu de plates-formes en 2D vue de côté : http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/
+Tilemapper (3) : http://www.mapeditor.org/
+Chargement de niveaux dans Unity : http://www.demonixis.net/blog/charger-vos-niveaux-avec-des-parametres-dans-unity3d/
+Dash : http://forum.unity3d.com/threads/2d-platformer-mega-man-x-style-dash.228648/
+Tilemapper (4) : http://www.seanba.com/
+Barre de vie circulaire : http://answers.unity3d.com/questions/14770/creating-a-circular-progressbar-timer.html
+Dash (2) : http://answers.unity3d.com/questions/576793/how-do-i-get-my-dashing-animation-to-work.html
+Dash aérien : http://answers.unity3d.com/questions/544910/dashing-mechanic-with-lerp.html
+Dash et WaitForSeconds : http://forum.unity3d.com/threads/weird-problem-with-yields-and-waitforseconds.218470/
+Dash (3) : http://answers.unity3d.com/questions/132600/when-dashing-my-character-pass-thru-to-any-object.html
+Animation d'un jeu de plates-formes 2D : http://pixelnest.io/tutorials/2d-game-unity/animations-2/
+Tilemapper (5) : http://gamedevelopment.tutsplus.com/tutorials/introduction-to-tiled-map-editor--gamedev-2838
+Tilemapper (6) : http://www.raywenderlich.com/29460/collisions-and-collectables-how-to-make-a-tile-based-game-with-cocos2d-2-x-part-2
+Utilisation de Tiled : http://www.raywenderlich.com/30561/how-to-make-a-rpg
+Jeu 2D en vue de dessus : https://www.youtube.com/playlist?list=PLUCGcb0ogekiVGmdDbc-n4QBM421G7xtH
+Système de combat : http://www.gamasutra.com/view/feature/175950/the_fundamental_pillars_of_a_.php
+Système de combat de jeu 2D en vue de dessus : http://answers.unity3d.com/questions/647635/responsive-topdown-combat-2d-collider.html
+Collision dans A Link to the Past : http://gamedev.stackexchange.com/questions/8336/how-was-collision-detection-handled-in-the-legend-of-zelda-a-link-to-the-past
+Changement de direction dans Pac-Man : http://home.comcast.net/~jpittman2/pacman/pacmandossier.html#CH2_Cornering
+
+
+*****************************
+*** RESSOURCES GRAPHIQUES ***
+*****************************
+
+http://www.spriters-resource.com/
+http://www.sprites-inc.co.uk/files/ZX/
+http://www.sprites-inc.co.uk/vania/OtherHandheld/AoS/
+http://shyressources.shycomics.fr/
+http://spritedatabase.net/
+http://domoonworkshop.wordpress.com/
+http://www.videogamesprites.net/
+http://game-icons.net/
+http://www.castlevaniacrypt.com/games/cv/sprites.htm
+http://forum.rockmanpm.com/index.php?topic=6428.0
+http://wayofthepixel.net/index.php?action=profile;area=showposts;sa=topics;u=13050
+http://wayofthepixel.net/index.php
+https://www.youtube.com/playlist?list=PLC6937F155ABB6F70
+http://designrshub.com/2013/02/game-sprite-sheets.html
+http://market.envato.com/
+http://www.bghq.com/
+
+
+*****************************************
+*** SOURCES DES RESSOURCES GRAPHIQUES ***
+*****************************************
+
+Chrono Trigger – Robo (charset) : http://www.spriters-resource.com/snes/chronotrigger/sheet/3651/
+Chrono Trigger – R-Series (charset) : http://www.spriters-resource.com/snes/chronotrigger/sheet/31554/
+Final Fantasy VI – Soldat impérial (charset) : http://www.spriters-resource.com/snes/ff6/sheet/31561/
+Chrono Trigger – Bâtiments du futur (tileset) : http://www.spriters-resource.com/snes/chronotrigger/sheet/58028/
+Final Fantasy VI – Château impérial (tileset) : http://www.spriters-resource.com/snes/ff6/sheet/54735/
+Final Fantasy VI – Tour de Kefka (tileset) : http://www.spriters-resource.com/snes/ff6/sheet/54736/
+Final Fantasy VI – Tour du fanatique (tileset) : http://www.spriters-resource.com/snes/ff6/sheet/54731/
+Final Fantasy VI – Zozo (tileset) : http://www.spriters-resource.com/snes/ff6/sheet/54743/
+
+Megaman ZX – Modèle OX (charset) : http://www.sprites-inc.co.uk/files/ZX/Zx1/Model/Model_OX/
+Megaman Powered Up – Mode construction (tileset) : http://www.vg-resource.com/thread-18982.html
+Megaman 9 – Tuiles d'arrière-plan (tileset) : http://cutstuff.net/forum/viewtopic.php?f=47&t=5240
+Castlevania : Symphony of the Night – Alucard (charset) : http://spritedatabase.net/file/4904
+Castlevania : Order of Ecclesia – Ecclesia (tileset) : http://www.spriters-resource.com/ds/castlevaniaorderofecclesia/sheet/26471/
+Castlevania : Order of Ecclesia – Hall d'entrée (tileset) : http://www.spriters-resource.com/ds/castlevaniaorderofecclesia/sheet/19175/
+Super Metroid – Samus (charset) : http://www.spriters-resource.com/snes/smetroid/sheet/31613/
+Super Metroid – Tuiles d'arrière-plan (tileset) : http://www.spriters-resource.com/snes/smetroid/sheet/1718/
+Super Metroid – Colonie spatiale (fond) : http://spritedatabase.net/file/8620
+Super Metroid : Depths of Oblivion – Environnement inspiré de Super Metroid (tileset) : http://forum.metroidconstruction.com/index.php?topic=1877.0
+Environnement inspiré de Super Mario Bros. (tileset) : http://spriterdrag.deviantart.com/art/My-Fourth-Tileset-312594547
+
+
+**************************
+*** RESSOURCES SONORES ***
+**************************
+
+http://www.bfxr.net/
+http://www.linternaute.com/hightech/micro/dossier/tout-sur-les-formats-multimedia/tout-sur-les-formats-multimedia.shtml
+http://www.online-convert.com/fr

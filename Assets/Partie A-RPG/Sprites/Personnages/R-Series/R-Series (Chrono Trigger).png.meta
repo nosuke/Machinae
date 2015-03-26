@@ -1,0 +1,2170 @@
+fileFormatVersion: 2
+guid: 2b175bec5141d7a48a325d7ef5d13fa9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: R-Series (Chrono Trigger)_0
+    21300002: R-Series (Chrono Trigger)_1
+    21300004: R-Series (Chrono Trigger)_2
+    21300006: R-Series (Chrono Trigger)_3
+    21300008: R-Series (Chrono Trigger)_4
+    21300010: R-Series (Chrono Trigger)_5
+    21300012: R-Series (Chrono Trigger)_6
+    21300014: R-Series (Chrono Trigger)_7
+    21300016: R-Series (Chrono Trigger)_8
+    21300018: R-Series (Chrono Trigger)_9
+    21300020: R-Series (Chrono Trigger)_10
+    21300022: R-Series (Chrono Trigger)_11
+    21300024: R-Series (Chrono Trigger)_12
+    21300026: R-Series (Chrono Trigger)_13
+    21300028: R-Series (Chrono Trigger)_14
+    21300030: R-Series (Chrono Trigger)_15
+    21300032: R-Series (Chrono Trigger)_16
+    21300034: R-Series (Chrono Trigger)_17
+    21300036: R-Series (Chrono Trigger)_18
+    21300038: R-Series (Chrono Trigger)_19
+    21300040: R-Series (Chrono Trigger)_20
+    21300042: R-Series (Chrono Trigger)_21
+    21300044: R-Series (Chrono Trigger)_22
+    21300046: R-Series (Chrono Trigger)_23
+    21300048: R-Series (Chrono Trigger)_24
+    21300050: R-Series (Chrono Trigger)_25
+    21300052: R-Series (Chrono Trigger)_26
+    21300054: R-Series (Chrono Trigger)_27
+    21300056: R-Series (Chrono Trigger)_28
+    21300058: R-Series (Chrono Trigger)_29
+    21300060: R-Series (Chrono Trigger)_30
+    21300062: R-Series (Chrono Trigger)_31
+    21300064: R-Series (Chrono Trigger)_32
+    21300066: R-Series (Chrono Trigger)_33
+    21300068: R-Series (Chrono Trigger)_34
+    21300070: R-Series (Chrono Trigger)_35
+    21300072: R-Series (Chrono Trigger)_36
+    21300074: R-Series (Chrono Trigger)_37
+    21300076: R-Series (Chrono Trigger)_38
+    21300078: R-Series (Chrono Trigger)_39
+    21300080: R-Series (Chrono Trigger)_40
+    21300082: R-Series (Chrono Trigger)_41
+    21300084: R-Series (Chrono Trigger)_42
+    21300086: R-Series (Chrono Trigger)_43
+    21300088: R-Series (Chrono Trigger)_44
+    21300090: R-Series (Chrono Trigger)_45
+    21300092: R-Series (Chrono Trigger)_46
+    21300094: R-Series (Chrono Trigger)_47
+    21300096: R-Series (Chrono Trigger)_48
+    21300098: R-Series (Chrono Trigger)_49
+    21300100: R-Series (Chrono Trigger)_50
+    21300102: R-Series (Chrono Trigger)_51
+    21300104: R-Series (Chrono Trigger)_52
+    21300106: R-Series (Chrono Trigger)_53
+    21300108: R-Series (Chrono Trigger)_54
+    21300110: R-Series (Chrono Trigger)_55
+    21300112: R-Series (Chrono Trigger)_56
+    21300114: R-Series (Chrono Trigger)_57
+    21300116: R-Series (Chrono Trigger)_58
+    21300118: R-Series (Chrono Trigger)_59
+    21300120: R-Series (Chrono Trigger)_60
+    21300122: R-Series (Chrono Trigger)_61
+    21300124: R-Series (Chrono Trigger)_62
+    21300126: R-Series (Chrono Trigger)_63
+    21300128: R-Series (Chrono Trigger)_64
+    21300130: R-Series (Chrono Trigger)_65
+    21300132: R-Series (Chrono Trigger)_66
+    21300134: R-Series (Chrono Trigger)_67
+    21300136: R-Series (Chrono Trigger)_68
+    21300138: R-Series (Chrono Trigger)_69
+    21300140: R-Series (Chrono Trigger)_70
+    21300142: R-Series (Chrono Trigger)_71
+    21300144: R-Series (Chrono Trigger)_72
+    21300146: R-Series (Chrono Trigger)_73
+    21300148: R-Series (Chrono Trigger)_74
+    21300150: R-Series (Chrono Trigger)_75
+    21300152: R-Series (Chrono Trigger)_76
+    21300154: R-Series (Chrono Trigger)_77
+    21300156: R-Series (Chrono Trigger)_78
+    21300158: R-Series (Chrono Trigger)_79
+    21300160: R-Series (Chrono Trigger)_80
+    21300162: R-Series (Chrono Trigger)_81
+    21300164: R-Series (Chrono Trigger)_82
+    21300166: R-Series (Chrono Trigger)_83
+    21300168: R-Series (Chrono Trigger)_84
+    21300170: R-Series (Chrono Trigger)_85
+    21300172: R-Series (Chrono Trigger)_86
+    21300174: R-Series (Chrono Trigger)_87
+    21300176: R-Series (Chrono Trigger)_88
+    21300178: R-Series (Chrono Trigger)_89
+    21300180: R-Series (Chrono Trigger)_90
+    21300182: R-Series (Chrono Trigger)_91
+    21300184: R-Series (Chrono Trigger)_92
+    21300186: R-Series (Chrono Trigger)_93
+    21300188: R-Series (Chrono Trigger)_94
+    21300190: R-Series (Chrono Trigger)_95
+    21300192: R-Series (Chrono Trigger)_96
+    21300194: R-Series (Chrono Trigger)_97
+    21300196: R-Series (Chrono Trigger)_98
+    21300198: R-Series (Chrono Trigger)_99
+    21300200: R-Series (Chrono Trigger)_100
+    21300202: R-Series (Chrono Trigger)_101
+    21300204: R-Series (Chrono Trigger)_102
+    21300206: R-Series (Chrono Trigger)_103
+    21300208: R-Series (Chrono Trigger)_104
+    21300210: R-Series (Chrono Trigger)_105
+    21300212: R-Series (Chrono Trigger)_106
+    21300214: R-Series (Chrono Trigger)_107
+    21300216: R-Series (Chrono Trigger)_108
+    21300218: R-Series (Chrono Trigger)_109
+    21300220: R-Series (Chrono Trigger)_110
+    21300222: R-Series (Chrono Trigger)_111
+    21300224: R-Series (Chrono Trigger)_112
+    21300226: R-Series (Chrono Trigger)_113
+    21300228: R-Series (Chrono Trigger)_114
+    21300230: R-Series (Chrono Trigger)_115
+    21300232: R-Series (Chrono Trigger)_116
+    21300234: R-Series (Chrono Trigger)_117
+    21300236: R-Series (Chrono Trigger)_118
+    21300238: R-Series (Chrono Trigger)_119
+    21300240: R-Series (Chrono Trigger)_120
+    21300242: R-Series (Chrono Trigger)_121
+    21300244: R-Series (Chrono Trigger)_122
+    21300246: R-Series (Chrono Trigger)_123
+    21300248: R-Series (Chrono Trigger)_124
+    21300250: R-Series (Chrono Trigger)_125
+    21300252: R-Series (Chrono Trigger)_126
+    21300254: R-Series (Chrono Trigger)_127
+    21300256: R-Series (Chrono Trigger)_128
+    21300258: R-Series (Chrono Trigger)_129
+    21300260: R-Series (Chrono Trigger)_130
+    21300262: R-Series (Chrono Trigger)_131
+    21300264: R-Series (Chrono Trigger)_132
+    21300266: R-Series (Chrono Trigger)_133
+    21300268: R-Series (Chrono Trigger)_134
+    21300270: R-Series (Chrono Trigger)_135
+    21300272: R-Series (Chrono Trigger)_136
+    21300274: R-Series (Chrono Trigger)_137
+    21300276: R-Series (Chrono Trigger)_138
+    21300278: R-Series (Chrono Trigger)_139
+    21300280: R-Series (Chrono Trigger)_140
+    21300282: R-Series (Chrono Trigger)_141
+    21300284: R-Series (Chrono Trigger)_142
+    21300286: R-Series (Chrono Trigger)_143
+    21300288: R-Series (Chrono Trigger)_144
+    21300290: R-Series (Chrono Trigger)_145
+    21300292: R-Series (Chrono Trigger)_146
+    21300294: R-Series (Chrono Trigger)_147
+    21300296: R-Series (Chrono Trigger)_148
+    21300298: R-Series (Chrono Trigger)_149
+    21300300: R-Series (Chrono Trigger)_150
+    21300302: R-Series (Chrono Trigger)_151
+    21300304: R-Series (Chrono Trigger)_152
+    21300306: R-Series (Chrono Trigger)_153
+    21300308: R-Series (Chrono Trigger)_154
+    21300310: R-Series (Chrono Trigger)_155
+    21300312: R-Series (Chrono Trigger)_156
+    21300314: R-Series (Chrono Trigger)_157
+    21300316: R-Series (Chrono Trigger)_158
+    21300318: R-Series (Chrono Trigger)_159
+    21300320: R-Series (Chrono Trigger)_160
+    21300322: R-Series (Chrono Trigger)_161
+    21300324: R-Series (Chrono Trigger)_162
+    21300326: R-Series (Chrono Trigger)_163
+    21300328: R-Series (Chrono Trigger)_164
+    21300330: R-Series (Chrono Trigger)_165
+    21300332: R-Series (Chrono Trigger)_166
+    21300334: R-Series (Chrono Trigger)_167
+    21300336: R-Series (Chrono Trigger)_168
+    21300338: R-Series (Chrono Trigger)_169
+    21300340: R-Series (Chrono Trigger)_170
+    21300342: R-Series (Chrono Trigger)_171
+    21300344: R-Series (Chrono Trigger)_172
+    21300346: R-Series (Chrono Trigger)_173
+    21300348: R-Series (Chrono Trigger)_174
+    21300350: R-Series (Chrono Trigger)_175
+    21300352: R-Series (Chrono Trigger)_176
+    21300354: R-Series (Chrono Trigger)_177
+    21300356: R-Series (Chrono Trigger)_178
+    21300358: R-Series (Chrono Trigger)_179
+    21300360: R-Series (Chrono Trigger)_180
+    21300362: R-Series (Chrono Trigger)_181
+    21300364: R-Series (Chrono Trigger)_182
+    21300366: R-Series (Chrono Trigger)_183
+    21300368: R-Series (Chrono Trigger)_184
+    21300370: R-Series (Chrono Trigger)_185
+    21300372: R-Series (Chrono Trigger)_186
+    21300374: R-Series (Chrono Trigger)_187
+    21300376: R-Series (Chrono Trigger)_188
+    21300378: R-Series (Chrono Trigger)_189
+    21300380: R-Series (Chrono Trigger)_190
+    21300382: R-Series (Chrono Trigger)_191
+    21300384: R-Series (Chrono Trigger)_192
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: R-Series (Chrono Trigger)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 844
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 843
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 843
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 842
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 842
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 842
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 842
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_7
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 843
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_8
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 843
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 843
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 843
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 803
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 802
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 802
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 802
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 802
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 802
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 804
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_18
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 803
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_19
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 804
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 803
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 762
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 762
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_23
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 762
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 762
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 762
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 763
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 762
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 763
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 762
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 763
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_31
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 762
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 722
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 724
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 722
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 722
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 722
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 722
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_38
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 722
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 724
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 723
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 723
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 723
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_46
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 682
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 682
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 682
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 682
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_50
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 682
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_52
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 682
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 682
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_55
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 642
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 642
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_58
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 642
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 644
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_60
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 642
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_61
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 642
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_62
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 642
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 644
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_64
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 642
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 603
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_66
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 603
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 603
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_68
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 602
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_69
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 602
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_70
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 602
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_71
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 602
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_72
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 603
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_73
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 603
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_74
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 602
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_75
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 603
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 562
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_78
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 563
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_79
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 562
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_80
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 562
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_81
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 563
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_82
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 562
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_83
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 562
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_84
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 563
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_85
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 563
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 563
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 526
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_88
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 526
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_89
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 524
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_90
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 523
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_91
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_92
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 523
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_93
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 523
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_94
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 522
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_95
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 523
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_96
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 522
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_97
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 523
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_98
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 484
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_99
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 484
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_100
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 485
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_101
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 484
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_102
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 482
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_103
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 482
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_104
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 482
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_105
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 482
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_106
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 444
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_107
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 443
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_108
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 444
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_109
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 443
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_110
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 443
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_111
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 442
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_112
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 443
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_113
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 442
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_114
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 402
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_115
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 402
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_116
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 404
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_117
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 402
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_118
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 404
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_119
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 403
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_120
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 405
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_121
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 403
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_122
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 365
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_123
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 365
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_124
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 366
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_125
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 365
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_126
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_127
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 362
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_128
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 364
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 362
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_130
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 324
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_131
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 324
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_132
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 327
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_133
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 324
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_134
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 322
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_135
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 322
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_136
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 322
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_137
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 283
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_138
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 282
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_139
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 283
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_140
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 282
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_141
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 282
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_142
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 282
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_143
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 243
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 243
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_145
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 243
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_146
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 243
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_147
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 242
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_148
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 242
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_149
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 202
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_150
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 202
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_151
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 202
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_152
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 202
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_153
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 163
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_154
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 163
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_155
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 163
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_156
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 163
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_157
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 163
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_158
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 164
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_159
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 163
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_160
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 164
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_161
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 123
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_162
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 123
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_163
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 123
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_164
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 123
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_165
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 123
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 123
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_167
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 122
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_168
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 123
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_169
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 83
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_170
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 84
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_171
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 83
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_172
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 84
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_173
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 83
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_174
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 84
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_175
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 83
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_176
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 84
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_177
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 43
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_178
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 43
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_179
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_180
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 43
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_181
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 43
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_182
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 43
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_183
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 42
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_184
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 43
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_185
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_186
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_187
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_188
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_189
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_190
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_191
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R-Series (Chrono Trigger)_192
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 4
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,6306 @@
+fileFormatVersion: 2
+guid: 87ab9144d17b06e45963fbcb6dc9882c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_0"
+    21300002: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_1"
+    21300004: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_2"
+    21300006: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_3"
+    21300008: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_4"
+    21300010: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_5"
+    21300012: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_6"
+    21300014: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_7"
+    21300016: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_8"
+    21300018: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_9"
+    21300020: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_10"
+    21300022: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_11"
+    21300024: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_12"
+    21300026: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_13"
+    21300028: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_14"
+    21300030: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_15"
+    21300032: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_16"
+    21300034: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_17"
+    21300036: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_18"
+    21300038: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_19"
+    21300040: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_20"
+    21300042: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_21"
+    21300044: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_22"
+    21300046: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_23"
+    21300048: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_24"
+    21300050: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_25"
+    21300052: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_26"
+    21300054: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_27"
+    21300056: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_28"
+    21300058: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_29"
+    21300060: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_30"
+    21300062: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_31"
+    21300064: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_32"
+    21300066: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_33"
+    21300068: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_34"
+    21300070: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_35"
+    21300072: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_36"
+    21300074: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_37"
+    21300076: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_38"
+    21300078: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_39"
+    21300080: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_40"
+    21300082: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_41"
+    21300084: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_42"
+    21300086: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_43"
+    21300088: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_44"
+    21300090: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_45"
+    21300092: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_46"
+    21300094: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_47"
+    21300096: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_48"
+    21300098: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_49"
+    21300100: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_50"
+    21300102: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_51"
+    21300104: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_52"
+    21300106: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_53"
+    21300108: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_54"
+    21300110: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_55"
+    21300112: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_56"
+    21300114: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_57"
+    21300116: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_58"
+    21300118: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_59"
+    21300120: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_60"
+    21300122: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_61"
+    21300124: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_62"
+    21300126: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_63"
+    21300128: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_64"
+    21300130: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_65"
+    21300132: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_66"
+    21300134: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_67"
+    21300136: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_68"
+    21300138: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_69"
+    21300140: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_70"
+    21300142: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_71"
+    21300144: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_72"
+    21300146: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_73"
+    21300148: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_74"
+    21300150: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_75"
+    21300152: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_76"
+    21300154: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_77"
+    21300156: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_78"
+    21300158: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_79"
+    21300160: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_80"
+    21300162: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_81"
+    21300164: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_82"
+    21300166: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_83"
+    21300168: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_84"
+    21300170: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_85"
+    21300172: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_86"
+    21300174: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_87"
+    21300176: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_88"
+    21300178: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_89"
+    21300180: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_90"
+    21300182: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_91"
+    21300184: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_92"
+    21300186: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_93"
+    21300188: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_94"
+    21300190: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_95"
+    21300192: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_96"
+    21300194: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_97"
+    21300196: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_98"
+    21300198: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_99"
+    21300200: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_100"
+    21300202: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_101"
+    21300204: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_102"
+    21300206: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_103"
+    21300208: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_104"
+    21300210: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_105"
+    21300212: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_106"
+    21300214: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_107"
+    21300216: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_108"
+    21300218: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_109"
+    21300220: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_110"
+    21300222: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_111"
+    21300224: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_112"
+    21300226: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_113"
+    21300228: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_114"
+    21300230: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_115"
+    21300232: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_116"
+    21300234: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_117"
+    21300236: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_118"
+    21300238: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_119"
+    21300240: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_120"
+    21300242: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_121"
+    21300244: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_122"
+    21300246: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_123"
+    21300248: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_124"
+    21300250: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_125"
+    21300252: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_126"
+    21300254: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_127"
+    21300256: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_128"
+    21300258: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_129"
+    21300260: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_130"
+    21300262: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_131"
+    21300264: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_132"
+    21300266: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_133"
+    21300268: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_134"
+    21300270: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_135"
+    21300272: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_136"
+    21300274: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_137"
+    21300276: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_138"
+    21300278: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_139"
+    21300280: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_140"
+    21300282: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_141"
+    21300284: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_142"
+    21300286: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_143"
+    21300288: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_144"
+    21300290: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_145"
+    21300292: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_146"
+    21300294: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_147"
+    21300296: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_148"
+    21300298: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_149"
+    21300300: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_150"
+    21300302: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_151"
+    21300304: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_152"
+    21300306: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_153"
+    21300308: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_154"
+    21300310: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_155"
+    21300312: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_156"
+    21300314: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_157"
+    21300316: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_158"
+    21300318: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_159"
+    21300320: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_160"
+    21300322: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_161"
+    21300324: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_162"
+    21300326: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_163"
+    21300328: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_164"
+    21300330: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_165"
+    21300332: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_166"
+    21300334: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_167"
+    21300336: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_168"
+    21300338: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_169"
+    21300340: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_170"
+    21300342: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_171"
+    21300344: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_172"
+    21300346: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_173"
+    21300348: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_174"
+    21300350: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_175"
+    21300352: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_176"
+    21300354: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_177"
+    21300356: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_178"
+    21300358: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_179"
+    21300360: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_180"
+    21300362: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_181"
+    21300364: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_182"
+    21300366: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_183"
+    21300368: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_184"
+    21300370: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_185"
+    21300372: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_186"
+    21300374: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_187"
+    21300376: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_188"
+    21300378: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_189"
+    21300380: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_190"
+    21300382: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_191"
+    21300384: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_192"
+    21300386: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_193"
+    21300388: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_194"
+    21300390: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_195"
+    21300392: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_196"
+    21300394: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_197"
+    21300396: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_198"
+    21300398: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_199"
+    21300400: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_200"
+    21300402: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_201"
+    21300404: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_202"
+    21300406: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_203"
+    21300408: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_204"
+    21300410: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_205"
+    21300412: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_206"
+    21300414: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_207"
+    21300416: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_208"
+    21300418: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_209"
+    21300420: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_210"
+    21300422: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_211"
+    21300424: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_212"
+    21300426: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_213"
+    21300428: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_214"
+    21300430: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_215"
+    21300432: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_216"
+    21300434: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_217"
+    21300436: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_218"
+    21300438: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_219"
+    21300440: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_220"
+    21300442: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_221"
+    21300444: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_222"
+    21300446: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_223"
+    21300448: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_224"
+    21300450: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_225"
+    21300452: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_226"
+    21300454: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_227"
+    21300456: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_228"
+    21300458: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_229"
+    21300460: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_230"
+    21300462: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_231"
+    21300464: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_232"
+    21300466: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_233"
+    21300468: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_234"
+    21300470: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_235"
+    21300472: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_236"
+    21300474: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_237"
+    21300476: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_238"
+    21300478: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_239"
+    21300480: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_240"
+    21300482: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_241"
+    21300484: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_242"
+    21300486: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_243"
+    21300488: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_244"
+    21300490: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_245"
+    21300492: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_246"
+    21300494: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_247"
+    21300496: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_248"
+    21300498: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_249"
+    21300500: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_250"
+    21300502: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_251"
+    21300504: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_252"
+    21300506: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_253"
+    21300508: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_254"
+    21300510: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_255"
+    21300512: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_256"
+    21300514: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_257"
+    21300516: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_258"
+    21300518: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_259"
+    21300520: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_260"
+    21300522: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_261"
+    21300524: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_262"
+    21300526: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_263"
+    21300528: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_264"
+    21300530: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_265"
+    21300532: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_266"
+    21300534: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_267"
+    21300536: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_268"
+    21300538: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_269"
+    21300540: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_270"
+    21300542: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_271"
+    21300544: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_272"
+    21300546: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_273"
+    21300548: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_274"
+    21300550: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_275"
+    21300552: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_276"
+    21300554: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_277"
+    21300556: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_278"
+    21300558: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_279"
+    21300560: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_280"
+    21300562: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_281"
+    21300564: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_282"
+    21300566: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_283"
+    21300568: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_284"
+    21300570: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_285"
+    21300572: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_286"
+    21300574: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_287"
+    21300576: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_288"
+    21300578: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_289"
+    21300580: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_290"
+    21300582: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_291"
+    21300584: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_292"
+    21300586: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_293"
+    21300588: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_294"
+    21300590: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_295"
+    21300592: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_296"
+    21300594: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_297"
+    21300596: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_298"
+    21300598: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_299"
+    21300600: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_300"
+    21300602: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_301"
+    21300604: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_302"
+    21300606: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_303"
+    21300608: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_304"
+    21300610: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_305"
+    21300612: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_306"
+    21300614: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_307"
+    21300616: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_308"
+    21300618: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_309"
+    21300620: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_310"
+    21300622: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_311"
+    21300624: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_312"
+    21300626: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_313"
+    21300628: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_314"
+    21300630: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_315"
+    21300632: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_316"
+    21300634: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_317"
+    21300636: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_318"
+    21300638: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_319"
+    21300640: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_320"
+    21300642: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_321"
+    21300644: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_322"
+    21300646: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_323"
+    21300648: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_324"
+    21300650: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_325"
+    21300652: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_326"
+    21300654: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_327"
+    21300656: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_328"
+    21300658: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_329"
+    21300660: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_330"
+    21300662: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_331"
+    21300664: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_332"
+    21300666: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_333"
+    21300668: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_334"
+    21300670: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_335"
+    21300672: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_336"
+    21300674: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_337"
+    21300676: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_338"
+    21300678: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_339"
+    21300680: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_340"
+    21300682: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_341"
+    21300684: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_342"
+    21300686: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_343"
+    21300688: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_344"
+    21300690: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_345"
+    21300692: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_346"
+    21300694: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_347"
+    21300696: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_348"
+    21300698: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_349"
+    21300700: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_350"
+    21300702: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_351"
+    21300704: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_352"
+    21300706: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_353"
+    21300708: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_354"
+    21300710: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_355"
+    21300712: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_356"
+    21300714: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_357"
+    21300716: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_358"
+    21300718: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_359"
+    21300720: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_360"
+    21300722: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_361"
+    21300724: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_362"
+    21300726: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_363"
+    21300728: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_364"
+    21300730: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_365"
+    21300732: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_366"
+    21300734: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_367"
+    21300736: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_368"
+    21300738: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_369"
+    21300740: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_370"
+    21300742: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_371"
+    21300744: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_372"
+    21300746: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_373"
+    21300748: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_374"
+    21300750: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_375"
+    21300752: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_376"
+    21300754: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_377"
+    21300756: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_378"
+    21300758: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_379"
+    21300760: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_380"
+    21300762: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_381"
+    21300764: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_382"
+    21300766: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_383"
+    21300768: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_384"
+    21300770: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_385"
+    21300772: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_386"
+    21300774: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_387"
+    21300776: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_388"
+    21300778: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_389"
+    21300780: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_390"
+    21300782: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_391"
+    21300784: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_392"
+    21300786: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_393"
+    21300788: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_394"
+    21300790: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_395"
+    21300792: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_396"
+    21300794: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_397"
+    21300796: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_398"
+    21300798: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_399"
+    21300800: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_400"
+    21300802: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_401"
+    21300804: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_402"
+    21300806: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_403"
+    21300808: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_404"
+    21300810: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_405"
+    21300812: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_406"
+    21300814: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_407"
+    21300816: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_408"
+    21300818: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_409"
+    21300820: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_410"
+    21300822: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_411"
+    21300824: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_412"
+    21300826: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_413"
+    21300828: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_414"
+    21300830: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_415"
+    21300832: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_416"
+    21300834: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_417"
+    21300836: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_418"
+    21300838: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_419"
+    21300840: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_420"
+    21300842: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_421"
+    21300844: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_422"
+    21300846: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_423"
+    21300848: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_424"
+    21300850: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_425"
+    21300852: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_426"
+    21300854: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_427"
+    21300856: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_428"
+    21300858: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_429"
+    21300860: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_430"
+    21300862: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_431"
+    21300864: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_432"
+    21300866: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_433"
+    21300868: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_434"
+    21300870: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_435"
+    21300872: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_436"
+    21300874: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_437"
+    21300876: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_438"
+    21300878: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_439"
+    21300880: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_440"
+    21300882: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_441"
+    21300884: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_442"
+    21300886: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_443"
+    21300888: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_444"
+    21300890: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_445"
+    21300892: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_446"
+    21300894: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_447"
+    21300896: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_448"
+    21300898: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_449"
+    21300900: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_450"
+    21300902: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_451"
+    21300904: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_452"
+    21300906: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_453"
+    21300908: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_454"
+    21300910: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_455"
+    21300912: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_456"
+    21300914: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_457"
+    21300916: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_458"
+    21300918: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_459"
+    21300920: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_460"
+    21300922: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_461"
+    21300924: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_462"
+    21300926: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_463"
+    21300928: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_464"
+    21300930: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_465"
+    21300932: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_466"
+    21300934: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_467"
+    21300936: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_468"
+    21300938: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_469"
+    21300940: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_470"
+    21300942: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_471"
+    21300944: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_472"
+    21300946: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_473"
+    21300948: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_474"
+    21300950: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_475"
+    21300952: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_476"
+    21300954: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_477"
+    21300956: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_478"
+    21300958: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_479"
+    21300960: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_480"
+    21300962: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_481"
+    21300964: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_482"
+    21300966: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_483"
+    21300968: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_484"
+    21300970: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_485"
+    21300972: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_486"
+    21300974: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_487"
+    21300976: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_488"
+    21300978: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_489"
+    21300980: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_490"
+    21300982: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_491"
+    21300984: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_492"
+    21300986: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_493"
+    21300988: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_494"
+    21300990: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_495"
+    21300992: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_496"
+    21300994: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_497"
+    21300996: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_498"
+    21300998: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_499"
+    21301000: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_500"
+    21301002: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_501"
+    21301004: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_502"
+    21301006: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_503"
+    21301008: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_504"
+    21301010: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_505"
+    21301012: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_506"
+    21301014: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_507"
+    21301016: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_508"
+    21301018: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_509"
+    21301020: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_510"
+    21301022: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_511"
+    21301024: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_512"
+    21301026: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_513"
+    21301028: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_514"
+    21301030: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_515"
+    21301032: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_516"
+    21301034: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_517"
+    21301036: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_518"
+    21301038: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_519"
+    21301040: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_520"
+    21301042: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_521"
+    21301044: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_522"
+    21301046: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_523"
+    21301048: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_524"
+    21301050: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_525"
+    21301052: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_526"
+    21301054: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_527"
+    21301056: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_528"
+    21301058: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_529"
+    21301060: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_530"
+    21301062: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_531"
+    21301064: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_532"
+    21301066: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_533"
+    21301068: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_534"
+    21301070: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_535"
+    21301072: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_536"
+    21301074: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_537"
+    21301076: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_538"
+    21301078: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_539"
+    21301080: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_540"
+    21301082: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_541"
+    21301084: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_542"
+    21301086: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_543"
+    21301088: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_544"
+    21301090: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_545"
+    21301092: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_546"
+    21301094: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_547"
+    21301096: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_548"
+    21301098: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_549"
+    21301100: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_550"
+    21301102: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_551"
+    21301104: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_552"
+    21301106: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_553"
+    21301108: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_554"
+    21301110: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_555"
+    21301112: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_556"
+    21301114: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_557"
+    21301116: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_558"
+    21301118: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_559"
+    21301120: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_560"
+    21301122: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_561"
+    21301124: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_562"
+    21301126: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_563"
+    21301128: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_564"
+    21301130: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_565"
+    21301132: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_566"
+    21301134: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_567"
+    21301136: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_568"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_1"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_2"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_3"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_4"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_5"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_6"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_7"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_8"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_9"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_10"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_11"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_12"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_13"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_14"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 575
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_16"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_17"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_18"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_19"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_20"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_21"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_22"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_23"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_24"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_25"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_26"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_27"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_28"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_29"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_30"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 559
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_31"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_32"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_33"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_34"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_35"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_36"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_37"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_38"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_39"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_40"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_41"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_42"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_43"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_44"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_45"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 543
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_46"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_47"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_48"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_49"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_50"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_51"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_52"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_53"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_54"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_55"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_56"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_57"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_58"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_59"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_60"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 527
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_61"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_62"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_63"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_64"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_65"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_66"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_67"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_68"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_69"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_70"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_71"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_72"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_73"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_74"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_75"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_76"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 511
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_77"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_78"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_79"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_80"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_81"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_82"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_83"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_84"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_85"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_86"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_87"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_88"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_89"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_90"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_91"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_92"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 495
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_93"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_94"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_95"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_96"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_97"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_98"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_99"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_100"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_101"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_102"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_103"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_104"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_105"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_106"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_107"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_108"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 479
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_109"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_110"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_111"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_112"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_113"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_114"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_115"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_116"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_117"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_118"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_119"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_120"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_121"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_122"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_123"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_124"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 463
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_125"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_126"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_127"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_128"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_129"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_130"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_131"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_132"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_133"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_134"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_135"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_136"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_137"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_138"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_139"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_140"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 447
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_141"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_142"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_143"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_144"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_145"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_146"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_147"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_148"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_149"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_150"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_151"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_152"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_153"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_154"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_155"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_156"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 431
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_157"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_158"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_159"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_160"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_161"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_162"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_163"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_164"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_165"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_166"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_167"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_168"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_169"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_170"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_171"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_172"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 415
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_173"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_174"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_175"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_176"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_177"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_178"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_179"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_180"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_181"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_182"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_183"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_184"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_185"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_186"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_187"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_188"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 399
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_189"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_190"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_191"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_192"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_193"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_194"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_195"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_196"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_197"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_198"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_199"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_200"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_201"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_202"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_203"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_204"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 383
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_205"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_206"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_207"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_208"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_209"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_210"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_211"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_212"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_213"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_214"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_215"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_216"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_217"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_218"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_219"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_220"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_221"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_222"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_223"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_224"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_225"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_226"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_227"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_228"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_229"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_230"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_231"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_232"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_233"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_234"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_235"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_236"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 351
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_237"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_238"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_239"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_240"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_241"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_242"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_243"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_244"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_245"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_246"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_247"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_248"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_249"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_250"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_251"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_252"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 335
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_253"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_254"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_255"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_256"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_257"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_258"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_259"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_260"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_261"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_262"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_263"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_264"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_265"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_266"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_267"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_268"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 319
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_269"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_270"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_271"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_272"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_273"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_274"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_275"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_276"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_277"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_278"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_279"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_280"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_281"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_282"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_283"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_284"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 303
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_285"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_286"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_287"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_288"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_289"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_290"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_291"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_292"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_293"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_294"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_295"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_296"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_297"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_298"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_299"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_300"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 287
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_301"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_302"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_303"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_304"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_305"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_306"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_307"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_308"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_309"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_310"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_311"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_312"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_313"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_314"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_315"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_316"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 271
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_317"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_318"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_319"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_320"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_321"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_322"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_323"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_324"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_325"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_326"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_327"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_328"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_329"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_330"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_331"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_332"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 255
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_333"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_334"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_335"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_336"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_337"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_338"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_339"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_340"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_341"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_342"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_343"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_344"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_345"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_346"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_347"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_348"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 239
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_349"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_350"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_351"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_352"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_353"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_354"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_355"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_356"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_357"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_358"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_359"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_360"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_361"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_362"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_363"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_364"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 223
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_365"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_366"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_367"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_368"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_369"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_370"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_371"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_372"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_373"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_374"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_375"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_376"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_377"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_378"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_379"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 207
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_380"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_381"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_382"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_383"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_384"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_385"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_386"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_387"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_388"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_389"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_390"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_391"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_392"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_393"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_394"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_395"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 191
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_396"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_397"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_398"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_399"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_400"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_401"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_402"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_403"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_404"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_405"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_406"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_407"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_408"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_409"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_410"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_411"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_412"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_413"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_414"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_415"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_416"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_417"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_418"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_419"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_420"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_421"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_422"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_423"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_424"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_425"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_426"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_427"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 159
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_428"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_429"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_430"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_431"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_432"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_433"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_434"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_435"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_436"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_437"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_438"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_439"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_440"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_441"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_442"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_443"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 143
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_444"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_445"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_446"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_447"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_448"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_449"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_450"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_451"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_452"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_453"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_454"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_455"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_456"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_457"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_458"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_459"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 127
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_460"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_461"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_462"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_463"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_464"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_465"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_466"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_467"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_468"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_469"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_470"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_471"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_472"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_473"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_474"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_475"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 111
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_476"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_477"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_478"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_479"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_480"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_481"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_482"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_483"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_484"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_485"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_486"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_487"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_488"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_489"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_490"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_491"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 95
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_492"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_493"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_494"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_495"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_496"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_497"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_498"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_499"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_500"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_501"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_502"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_503"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_504"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_505"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_506"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_507"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 79
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_508"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_509"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_510"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_511"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_512"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_513"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_514"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_515"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_516"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_517"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_518"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_519"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_520"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_521"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_522"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_523"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 63
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_524"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_525"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_526"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_527"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_528"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_529"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_530"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_531"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_532"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_533"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_534"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_535"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_536"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 47
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_537"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_538"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_539"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_540"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_541"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_542"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_543"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_544"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_545"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_546"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_547"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_548"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_549"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_550"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_551"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_552"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 31
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_553"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_554"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_555"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_556"
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_557"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_558"
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_559"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_560"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_561"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_562"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_563"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_564"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_565"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_566"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_567"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Hall d'entr\xE9e 1 (Castlevania, Order of Ecclesia)_568"
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

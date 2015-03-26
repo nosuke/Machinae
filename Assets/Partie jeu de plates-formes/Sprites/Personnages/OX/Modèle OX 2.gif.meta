@@ -1,0 +1,1576 @@
+fileFormatVersion: 2
+guid: 020d65daf4b608c4195bbe7b157f114f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Mod\xE8le OX 2_0"
+    21300002: "Mod\xE8le OX 2_1"
+    21300004: "Mod\xE8le OX 2_2"
+    21300006: "Mod\xE8le OX 2_3"
+    21300008: "Mod\xE8le OX 2_4"
+    21300010: "Mod\xE8le OX 2_8"
+    21300012: "Mod\xE8le OX 2_10"
+    21300014: "Mod\xE8le OX 2_11"
+    21300016: "Mod\xE8le OX 2_13"
+    21300018: "Mod\xE8le OX 2_14"
+    21300020: "Mod\xE8le OX 2_15"
+    21300022: "Mod\xE8le OX 2_16"
+    21300024: "Mod\xE8le OX 2_19"
+    21300026: "Mod\xE8le OX 2_20"
+    21300028: "Mod\xE8le OX 2_21"
+    21300030: "Mod\xE8le OX 2_30"
+    21300032: "Mod\xE8le OX 2_31"
+    21300034: "Mod\xE8le OX 2_32"
+    21300036: "Mod\xE8le OX 2_33"
+    21300038: "Mod\xE8le OX 2_34"
+    21300040: "Mod\xE8le OX 2_35"
+    21300042: "Mod\xE8le OX 2_36"
+    21300044: "Mod\xE8le OX 2_37"
+    21300046: "Mod\xE8le OX 2_38"
+    21300048: "Mod\xE8le OX 2_39"
+    21300050: "Mod\xE8le OX 2_43"
+    21300052: "Mod\xE8le OX 2_49"
+    21300054: "Mod\xE8le OX 2_50"
+    21300056: "Mod\xE8le OX 2_51"
+    21300058: "Mod\xE8le OX 2_52"
+    21300060: "Mod\xE8le OX 2_54"
+    21300062: "Mod\xE8le OX 2_57"
+    21300064: "Mod\xE8le OX 2_63"
+    21300066: "Mod\xE8le OX 2_64"
+    21300068: "Mod\xE8le OX 2_66"
+    21300070: "Mod\xE8le OX 2_67"
+    21300072: "Mod\xE8le OX 2_68"
+    21300074: "Mod\xE8le OX 2_69"
+    21300076: "Mod\xE8le OX 2_71"
+    21300078: "Mod\xE8le OX 2_72"
+    21300080: "Mod\xE8le OX 2_73"
+    21300082: "Mod\xE8le OX 2_75"
+    21300084: "Mod\xE8le OX 2_76"
+    21300086: "Mod\xE8le OX 2_77"
+    21300088: "Mod\xE8le OX 2_78"
+    21300090: "Mod\xE8le OX 2_79"
+    21300092: "Mod\xE8le OX 2_80"
+    21300094: "Mod\xE8le OX 2_81"
+    21300096: "Mod\xE8le OX 2_83"
+    21300098: "Mod\xE8le OX 2_84"
+    21300100: "Mod\xE8le OX 2_85"
+    21300102: "Mod\xE8le OX 2_86"
+    21300104: "Mod\xE8le OX 2_88"
+    21300106: "Mod\xE8le OX 2_89"
+    21300108: "Mod\xE8le OX 2_90"
+    21300110: "Mod\xE8le OX 2_92"
+    21300112: "Mod\xE8le OX 2_93"
+    21300114: "Mod\xE8le OX 2_94"
+    21300116: "Mod\xE8le OX 2_95"
+    21300118: "Mod\xE8le OX 2_96"
+    21300120: "Mod\xE8le OX 2_97"
+    21300122: "Mod\xE8le OX 2_98"
+    21300124: "Mod\xE8le OX 2_99"
+    21300126: "Mod\xE8le OX 2_100"
+    21300128: "Mod\xE8le OX 2_101"
+    21300130: "Mod\xE8le OX 2_102"
+    21300132: "Mod\xE8le OX 2_103"
+    21300134: "Mod\xE8le OX 2_104"
+    21300136: "Mod\xE8le OX 2_105"
+    21300138: "Mod\xE8le OX 2_106"
+    21300140: "Mod\xE8le OX 2_107"
+    21300142: "Mod\xE8le OX 2_108"
+    21300144: "Mod\xE8le OX 2_109"
+    21300146: "Mod\xE8le OX 2_110"
+    21300148: "Mod\xE8le OX 2_111"
+    21300150: "Mod\xE8le OX 2_112"
+    21300152: "Mod\xE8le OX 2_113"
+    21300154: "Mod\xE8le OX 2_114"
+    21300156: "Mod\xE8le OX 2_115"
+    21300158: "Mod\xE8le OX 2_116"
+    21300160: "Mod\xE8le OX 2_117"
+    21300162: "Mod\xE8le OX 2_118"
+    21300164: "Mod\xE8le OX 2_119"
+    21300166: "Mod\xE8le OX 2_120"
+    21300168: "Mod\xE8le OX 2_121"
+    21300170: "Mod\xE8le OX 2_122"
+    21300172: "Mod\xE8le OX 2_123"
+    21300174: "Mod\xE8le OX 2_124"
+    21300176: "Mod\xE8le OX 2_125"
+    21300178: "Mod\xE8le OX 2_126"
+    21300180: "Mod\xE8le OX 2_127"
+    21300182: "Mod\xE8le OX 2_128"
+    21300184: "Mod\xE8le OX 2_129"
+    21300186: "Mod\xE8le OX 2_130"
+    21300188: "Mod\xE8le OX 2_131"
+    21300190: "Mod\xE8le OX 2_132"
+    21300192: "Mod\xE8le OX 2_133"
+    21300194: "Mod\xE8le OX 2_134"
+    21300196: "Mod\xE8le OX 2_135"
+    21300198: "Mod\xE8le OX 2_136"
+    21300200: "Mod\xE8le OX 2_137"
+    21300202: "Mod\xE8le OX 2_138"
+    21300204: "Mod\xE8le OX 2_139"
+    21300206: "Mod\xE8le OX 2_140"
+    21300208: "Mod\xE8le OX 2_141"
+    21300210: "Mod\xE8le OX 2_142"
+    21300212: "Mod\xE8le OX 2_143"
+    21300214: "Mod\xE8le OX 2_144"
+    21300216: "Mod\xE8le OX 2_145"
+    21300218: "Mod\xE8le OX 2_146"
+    21300220: "Mod\xE8le OX 2_147"
+    21300222: "Mod\xE8le OX 2_148"
+    21300224: "Mod\xE8le OX 2_149"
+    21300226: "Mod\xE8le OX 2_150"
+    21300228: "Mod\xE8le OX 2_151"
+    21300230: "Mod\xE8le OX 2_152"
+    21300232: "Mod\xE8le OX 2_153"
+    21300234: "Mod\xE8le OX 2_154"
+    21300236: "Mod\xE8le OX 2_155"
+    21300238: "Mod\xE8le OX 2_156"
+    21300240: "Mod\xE8le OX 2_157"
+    21300242: "Mod\xE8le OX 2_158"
+    21300244: "Mod\xE8le OX 2_159"
+    21300246: "Mod\xE8le OX 2_160"
+    21300248: "Mod\xE8le OX 2_161"
+    21300250: "Mod\xE8le OX 2_162"
+    21300252: "Mod\xE8le OX 2_163"
+    21300254: "Mod\xE8le OX 2_164"
+    21300256: "Mod\xE8le OX 2_165"
+    21300258: "Mod\xE8le OX 2_166"
+    21300260: "Mod\xE8le OX 2_167"
+    21300262: "Mod\xE8le OX 2_168"
+    21300264: "Mod\xE8le OX 2_169"
+    21300266: "Mod\xE8le OX 2_170"
+    21300268: "Mod\xE8le OX 2_171"
+    21300270: "Mod\xE8le OX 2_172"
+    21300272: "Mod\xE8le OX 2_173"
+    21300274: "Mod\xE8le OX 2_174"
+    21300276: "Mod\xE8le OX 2_175"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Mod\xE8le OX 2_0"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 691
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_1"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 691
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_2"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 691
+        width: 87
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_3"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 691
+        width: 85
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_4"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 691
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_8"
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 691
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_10"
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 691
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_11"
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 691
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_13"
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 691
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_14"
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 691
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_15"
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 691
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_16"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 691
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_19"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 596
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_20"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 596
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_21"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 596
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_30"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 601
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_31"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 596
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_32"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 596
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_33"
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 599
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_34"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 604
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_35"
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 604
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_36"
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 605
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_37"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 506
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_38"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 504
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_39"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 502
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_43"
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 502
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_49"
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 502
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_50"
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 506
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_51"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 507
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_52"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 402
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_54"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 402
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_57"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 402
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_63"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 402
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_64"
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 402
+        width: 77
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_66"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 402
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_67"
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 402
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_68"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 402
+        width: 74
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_69"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 404
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_71"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 319
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_72"
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 321
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_73"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 321
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_75"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 321
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_76"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 321
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_77"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 320
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_78"
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 320
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_79"
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 320
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_80"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 320
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_81"
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 320
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_83"
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 320
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_84"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 322
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_85"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_86"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 321
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_88"
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 321
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_89"
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 357
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_90"
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 322
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_92"
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 346
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_93"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 270
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_94"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 270
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_95"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 270
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_96"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 270
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_97"
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 270
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_98"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 270
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_99"
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 270
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_100"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 270
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_101"
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 270
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_102"
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 270
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_103"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 218
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_104"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 219
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_105"
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 219
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_106"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 219
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_107"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 219
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_108"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 219
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_109"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 219
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_110"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 219
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_111"
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 219
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_112"
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 219
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_113"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 219
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_114"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 219
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_115"
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 219
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_116"
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 219
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_117"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 172
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_118"
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 172
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_119"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 172
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_120"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 172
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_121"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 172
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_122"
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 172
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_123"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 172
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_124"
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 172
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_125"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 172
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_126"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 172
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_127"
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 172
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_128"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 127
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_129"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 127
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_130"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 127
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_131"
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 127
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_132"
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 127
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_133"
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 127
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_134"
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 127
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_135"
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 127
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_136"
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 127
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_137"
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 127
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_138"
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 127
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_139"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_140"
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 73
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_141"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 73
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_142"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 73
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_143"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 73
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_144"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 73
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_145"
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 73
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_146"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 73
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_147"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 73
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_148"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 73
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_149"
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 73
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_150"
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 73
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_151"
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 73
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_152"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 73
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_153"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 73
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_154"
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 73
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_155"
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 73
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_156"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 14
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_157"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 14
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_158"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 14
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_159"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 14
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_160"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 14
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_161"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 14
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_162"
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 14
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_163"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 14
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_164"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 14
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_165"
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 14
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_166"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 15
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_167"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 15
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_168"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 15
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_169"
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 15
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_170"
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 15
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_171"
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_172"
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_173"
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 15
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_174"
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Mod\xE8le OX 2_175"
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

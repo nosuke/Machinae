@@ -1,0 +1,2379 @@
+fileFormatVersion: 2
+guid: 87e91762ad14702499a4cf9266f4a361
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_0"
+    21300002: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_1"
+    21300004: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_2"
+    21300006: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_3"
+    21300008: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_4"
+    21300010: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_5"
+    21300012: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_6"
+    21300014: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_7"
+    21300016: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_8"
+    21300018: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_9"
+    21300020: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_10"
+    21300022: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_11"
+    21300024: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_12"
+    21300026: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_13"
+    21300028: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_14"
+    21300030: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_15"
+    21300032: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_16"
+    21300034: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_17"
+    21300036: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_18"
+    21300038: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_19"
+    21300040: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_20"
+    21300042: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_21"
+    21300044: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_22"
+    21300046: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_23"
+    21300048: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_24"
+    21300050: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_25"
+    21300052: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_26"
+    21300054: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_27"
+    21300056: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_28"
+    21300058: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_29"
+    21300060: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_30"
+    21300062: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_31"
+    21300064: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_32"
+    21300066: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_33"
+    21300068: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_34"
+    21300070: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_35"
+    21300072: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_36"
+    21300074: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_37"
+    21300076: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_38"
+    21300078: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_39"
+    21300080: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_40"
+    21300082: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_41"
+    21300084: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_42"
+    21300086: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_43"
+    21300088: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_44"
+    21300090: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_45"
+    21300092: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_46"
+    21300094: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_47"
+    21300096: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_48"
+    21300098: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_49"
+    21300100: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_50"
+    21300102: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_51"
+    21300104: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_52"
+    21300106: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_53"
+    21300108: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_54"
+    21300110: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_55"
+    21300112: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_56"
+    21300114: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_57"
+    21300116: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_58"
+    21300118: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_59"
+    21300120: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_60"
+    21300122: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_61"
+    21300124: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_62"
+    21300126: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_63"
+    21300128: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_64"
+    21300130: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_65"
+    21300132: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_66"
+    21300134: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_67"
+    21300136: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_68"
+    21300138: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_69"
+    21300140: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_70"
+    21300142: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_71"
+    21300144: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_72"
+    21300146: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_73"
+    21300148: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_74"
+    21300150: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_75"
+    21300152: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_76"
+    21300154: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_77"
+    21300156: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_78"
+    21300158: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_79"
+    21300160: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_80"
+    21300162: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_81"
+    21300164: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_82"
+    21300166: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_83"
+    21300168: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_84"
+    21300170: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_85"
+    21300172: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_86"
+    21300174: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_87"
+    21300176: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_88"
+    21300178: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_89"
+    21300180: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_90"
+    21300182: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_91"
+    21300184: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_92"
+    21300186: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_93"
+    21300188: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_94"
+    21300190: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_95"
+    21300192: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_96"
+    21300194: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_97"
+    21300196: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_98"
+    21300198: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_99"
+    21300200: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_100"
+    21300202: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_101"
+    21300204: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_102"
+    21300206: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_103"
+    21300208: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_104"
+    21300210: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_105"
+    21300212: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_106"
+    21300214: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_107"
+    21300216: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_108"
+    21300218: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_109"
+    21300220: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_110"
+    21300222: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_111"
+    21300224: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_112"
+    21300226: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_113"
+    21300228: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_114"
+    21300230: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_115"
+    21300232: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_116"
+    21300234: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_117"
+    21300236: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_118"
+    21300238: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_119"
+    21300240: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_120"
+    21300242: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_121"
+    21300244: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_122"
+    21300246: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_123"
+    21300248: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_124"
+    21300250: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_125"
+    21300252: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_126"
+    21300254: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_127"
+    21300256: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_128"
+    21300258: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_129"
+    21300260: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_130"
+    21300262: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_131"
+    21300264: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_132"
+    21300266: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_133"
+    21300268: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_134"
+    21300270: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_135"
+    21300272: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_136"
+    21300274: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_137"
+    21300276: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_138"
+    21300278: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_139"
+    21300280: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_140"
+    21300282: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_141"
+    21300284: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_142"
+    21300286: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_143"
+    21300288: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_144"
+    21300290: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_145"
+    21300292: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_146"
+    21300294: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_147"
+    21300296: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_148"
+    21300298: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_149"
+    21300300: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_150"
+    21300302: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_151"
+    21300304: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_152"
+    21300306: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_153"
+    21300308: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_154"
+    21300310: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_155"
+    21300312: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_156"
+    21300314: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_157"
+    21300316: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_158"
+    21300318: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_159"
+    21300320: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_160"
+    21300322: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_161"
+    21300324: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_162"
+    21300326: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_163"
+    21300328: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_164"
+    21300330: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_165"
+    21300332: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_166"
+    21300334: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_167"
+    21300336: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_168"
+    21300338: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_169"
+    21300340: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_170"
+    21300342: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_171"
+    21300344: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_172"
+    21300346: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_173"
+    21300348: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_174"
+    21300350: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_175"
+    21300352: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_176"
+    21300354: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_177"
+    21300356: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_178"
+    21300358: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_179"
+    21300360: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_180"
+    21300362: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_181"
+    21300364: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_182"
+    21300366: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_183"
+    21300368: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_184"
+    21300370: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_185"
+    21300372: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_186"
+    21300374: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_187"
+    21300376: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_188"
+    21300378: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_189"
+    21300380: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_190"
+    21300382: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_191"
+    21300384: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_192"
+    21300386: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_193"
+    21300388: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_194"
+    21300390: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_195"
+    21300392: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_196"
+    21300394: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_197"
+    21300396: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_198"
+    21300398: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_199"
+    21300400: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_200"
+    21300402: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_201"
+    21300404: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_202"
+    21300406: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_203"
+    21300408: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_204"
+    21300410: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_205"
+    21300412: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_206"
+    21300414: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_207"
+    21300416: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_208"
+    21300418: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_209"
+    21300420: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_210"
+    21300422: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_211"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_1"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_2"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_3"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_4"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_6"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_7"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_8"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_9"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_10"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_11"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_12"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_13"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_14"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_15"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_16"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_17"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_18"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_19"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_20"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_21"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_22"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_23"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_24"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_25"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_26"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_27"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_28"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_29"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_30"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_31"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_32"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_33"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_34"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_35"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_36"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_37"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_38"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_39"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_40"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_41"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_42"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_43"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_44"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_45"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_46"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_47"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_48"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_49"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_50"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_51"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_52"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_53"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_54"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_55"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_56"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_57"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_58"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_59"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_60"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_61"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_62"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_63"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_64"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_65"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_66"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_67"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_68"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_69"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_70"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_71"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_72"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_73"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_74"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_75"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_76"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_77"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_78"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_79"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_80"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_81"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_82"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_83"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_84"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_85"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_86"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_87"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_88"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_89"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_90"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_91"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_92"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_93"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_94"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_95"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_96"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_97"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_98"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_99"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_100"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_101"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_102"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_103"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_104"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_105"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_106"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_107"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_108"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_109"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_110"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_111"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_112"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_113"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_114"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_115"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_116"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_117"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_118"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_119"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_120"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_121"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_122"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_123"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_124"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_125"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_126"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_127"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_128"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_129"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_130"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_131"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_132"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_133"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_134"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_135"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_136"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_137"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_138"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_139"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_140"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_141"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_142"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_143"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_144"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_145"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_146"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_147"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_148"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_149"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_150"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_151"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_152"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_153"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_154"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_155"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_156"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_157"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_158"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_159"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_160"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_161"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_162"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_163"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_164"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_165"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_166"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_167"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_168"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_169"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_170"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_171"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_172"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_173"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_174"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_175"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_176"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_177"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_178"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_179"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_180"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_181"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_182"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_183"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_184"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_185"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_186"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_187"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_188"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_189"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_190"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_191"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_192"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_193"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_194"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_195"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_196"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_197"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_198"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_199"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_200"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_201"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_202"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_203"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_204"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_205"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_206"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_207"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_208"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_209"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_210"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Ch\xE2teau imp\xE9rial 2 (Final Fantasy VI)_211"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

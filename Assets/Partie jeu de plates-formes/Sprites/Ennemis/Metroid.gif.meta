@@ -1,0 +1,1532 @@
+fileFormatVersion: 2
+guid: e44d857adb9517941ba48dc3de0f5621
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Metroid_0
+    21300002: Metroid_1
+    21300004: Metroid_2
+    21300006: Metroid_3
+    21300008: Metroid_4
+    21300010: Metroid_5
+    21300012: Metroid_6
+    21300014: Metroid_7
+    21300016: Metroid_8
+    21300018: Metroid_9
+    21300020: Metroid_10
+    21300022: Metroid_11
+    21300024: Metroid_12
+    21300026: Metroid_13
+    21300028: Metroid_14
+    21300030: Metroid_15
+    21300032: Metroid_16
+    21300034: Metroid_17
+    21300036: Metroid_18
+    21300038: Metroid_19
+    21300040: Metroid_20
+    21300042: Metroid_21
+    21300044: Metroid_22
+    21300046: Metroid_23
+    21300048: Metroid_24
+    21300050: Metroid_25
+    21300052: Metroid_26
+    21300054: Metroid_27
+    21300056: Metroid_28
+    21300058: Metroid_29
+    21300060: Metroid_30
+    21300062: Metroid_31
+    21300064: Metroid_32
+    21300066: Metroid_33
+    21300068: Metroid_34
+    21300070: Metroid_35
+    21300072: Metroid_36
+    21300074: Metroid_37
+    21300076: Metroid_38
+    21300078: Metroid_39
+    21300080: Metroid_40
+    21300082: Metroid_41
+    21300084: Metroid_42
+    21300086: Metroid_43
+    21300088: Metroid_44
+    21300090: Metroid_45
+    21300092: Metroid_46
+    21300094: Metroid_47
+    21300096: Metroid_48
+    21300098: Metroid_49
+    21300100: Metroid_50
+    21300102: Metroid_51
+    21300104: Metroid_52
+    21300106: Metroid_53
+    21300108: Metroid_54
+    21300110: Metroid_55
+    21300112: Metroid_56
+    21300114: Metroid_57
+    21300116: Metroid_58
+    21300118: Metroid_59
+    21300120: Metroid_60
+    21300122: Metroid_61
+    21300124: Metroid_62
+    21300126: Metroid_63
+    21300128: Metroid_64
+    21300130: Metroid_65
+    21300132: Metroid_66
+    21300134: Metroid_67
+    21300136: Metroid_68
+    21300138: Metroid_69
+    21300140: Metroid_70
+    21300142: Metroid_71
+    21300144: Metroid_72
+    21300146: Metroid_73
+    21300148: Metroid_74
+    21300150: Metroid_75
+    21300152: Metroid_76
+    21300154: Metroid_77
+    21300156: Metroid_78
+    21300158: Metroid_79
+    21300160: Metroid_80
+    21300162: Metroid_81
+    21300164: Metroid_82
+    21300166: Metroid_83
+    21300168: Metroid_84
+    21300170: Metroid_85
+    21300172: Metroid_86
+    21300174: Metroid_87
+    21300176: Metroid_88
+    21300178: Metroid_89
+    21300180: Metroid_90
+    21300182: Metroid_91
+    21300184: Metroid_92
+    21300186: Metroid_93
+    21300188: Metroid_94
+    21300190: Metroid_95
+    21300192: Metroid_96
+    21300194: Metroid_97
+    21300196: Metroid_98
+    21300198: Metroid_99
+    21300200: Metroid_100
+    21300202: Metroid_101
+    21300204: Metroid_102
+    21300206: Metroid_103
+    21300208: Metroid_104
+    21300210: Metroid_105
+    21300212: Metroid_106
+    21300214: Metroid_107
+    21300216: Metroid_108
+    21300218: Metroid_109
+    21300220: Metroid_110
+    21300222: Metroid_111
+    21300224: Metroid_112
+    21300226: Metroid_113
+    21300228: Metroid_114
+    21300230: Metroid_115
+    21300232: Metroid_116
+    21300234: Metroid_117
+    21300236: Metroid_118
+    21300238: Metroid_119
+    21300240: Metroid_120
+    21300242: Metroid_121
+    21300244: Metroid_122
+    21300246: Metroid_123
+    21300248: Metroid_124
+    21300250: Metroid_125
+    21300252: Metroid_126
+    21300254: Metroid_127
+    21300256: Metroid_128
+    21300258: Metroid_129
+    21300260: Metroid_130
+    21300262: Metroid_131
+    21300264: Metroid_132
+    21300266: Metroid_133
+    21300268: Metroid_134
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Metroid_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 402
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 399
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 402
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 398
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 395
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 395
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 395
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 333
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 333
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 333
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 334
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 334
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 334
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 267
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 271
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 268
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 269
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 270
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 271
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 270
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_20
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 271
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_21
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 270
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 269
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 268
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_24
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 267
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_25
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 268
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_26
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 267
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 136
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 138
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 133
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_30
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 133
+        width: 78
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_31
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 135
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_32
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 132
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_33
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 134
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_34
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 132
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 97
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_38
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 97
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_40
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 97
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_43
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 97
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_44
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 97
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 97
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_49
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 97
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 68
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_51
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 68
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 68
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_55
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 65
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 68
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 68
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_59
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_61
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 68
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_62
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 68
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_65
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 68
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_67
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 68
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_68
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 68
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_69
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 65
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 65
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_72
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 68
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_73
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 68
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_74
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_75
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 68
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_76
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 68
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_78
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 68
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_79
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_80
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 68
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_81
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_82
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 68
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_83
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_84
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_86
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_87
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_88
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_89
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 50
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_92
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 50
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_94
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_95
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 50
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_96
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_97
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 50
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_98
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 50
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_99
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 50
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_100
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 47
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_103
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_104
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 50
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_105
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 50
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_106
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 50
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 50
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_108
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_110
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 11
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_111
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_112
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_113
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 14
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_114
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_115
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_116
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_117
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_118
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_120
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 14
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_121
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_122
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 14
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_123
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_124
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 11
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_125
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_126
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_127
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 14
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_128
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 14
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_129
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 14
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_131
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 14
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_132
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_133
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Metroid_134
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 14
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

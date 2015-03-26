@@ -1,0 +1,1631 @@
+fileFormatVersion: 2
+guid: 9331e67eb8f544630b839354e3305c98
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SuperMetroidSheet3_0
+    21300002: SuperMetroidSheet3_1
+    21300004: SuperMetroidSheet3_2
+    21300006: SuperMetroidSheet3_3
+    21300008: SuperMetroidSheet3_4
+    21300010: SuperMetroidSheet3_5
+    21300012: SuperMetroidSheet3_6
+    21300014: SuperMetroidSheet3_7
+    21300016: SuperMetroidSheet3_8
+    21300018: SuperMetroidSheet3_9
+    21300020: SuperMetroidSheet3_10
+    21300022: SuperMetroidSheet3_11
+    21300024: SuperMetroidSheet3_12
+    21300026: SuperMetroidSheet3_13
+    21300028: SuperMetroidSheet3_14
+    21300030: SuperMetroidSheet3_15
+    21300032: SuperMetroidSheet3_16
+    21300034: SuperMetroidSheet3_17
+    21300036: SuperMetroidSheet3_18
+    21300038: SuperMetroidSheet3_19
+    21300040: SuperMetroidSheet3_20
+    21300042: SuperMetroidSheet3_21
+    21300044: SuperMetroidSheet3_22
+    21300046: SuperMetroidSheet3_23
+    21300048: SuperMetroidSheet3_24
+    21300050: SuperMetroidSheet3_25
+    21300052: SuperMetroidSheet3_26
+    21300054: SuperMetroidSheet3_27
+    21300056: SuperMetroidSheet3_28
+    21300058: SuperMetroidSheet3_29
+    21300060: SuperMetroidSheet3_30
+    21300062: SuperMetroidSheet3_31
+    21300064: SuperMetroidSheet3_32
+    21300066: SuperMetroidSheet3_33
+    21300068: SuperMetroidSheet3_34
+    21300070: SuperMetroidSheet3_35
+    21300072: SuperMetroidSheet3_36
+    21300074: SuperMetroidSheet3_37
+    21300076: SuperMetroidSheet3_38
+    21300078: SuperMetroidSheet3_39
+    21300080: SuperMetroidSheet3_40
+    21300082: SuperMetroidSheet3_41
+    21300084: SuperMetroidSheet3_42
+    21300086: SuperMetroidSheet3_43
+    21300088: SuperMetroidSheet3_44
+    21300090: SuperMetroidSheet3_45
+    21300092: SuperMetroidSheet3_46
+    21300094: SuperMetroidSheet3_47
+    21300096: SuperMetroidSheet3_48
+    21300098: SuperMetroidSheet3_49
+    21300100: SuperMetroidSheet3_50
+    21300102: SuperMetroidSheet3_51
+    21300104: SuperMetroidSheet3_52
+    21300106: SuperMetroidSheet3_53
+    21300108: SuperMetroidSheet3_54
+    21300110: SuperMetroidSheet3_55
+    21300112: SuperMetroidSheet3_56
+    21300114: SuperMetroidSheet3_57
+    21300116: SuperMetroidSheet3_58
+    21300118: SuperMetroidSheet3_59
+    21300120: SuperMetroidSheet3_60
+    21300122: SuperMetroidSheet3_61
+    21300124: SuperMetroidSheet3_62
+    21300126: SuperMetroidSheet3_63
+    21300128: SuperMetroidSheet3_64
+    21300130: SuperMetroidSheet3_65
+    21300132: SuperMetroidSheet3_66
+    21300134: SuperMetroidSheet3_67
+    21300136: SuperMetroidSheet3_68
+    21300138: SuperMetroidSheet3_69
+    21300140: SuperMetroidSheet3_70
+    21300142: SuperMetroidSheet3_71
+    21300144: SuperMetroidSheet3_72
+    21300146: SuperMetroidSheet3_73
+    21300148: SuperMetroidSheet3_74
+    21300150: SuperMetroidSheet3_75
+    21300152: SuperMetroidSheet3_76
+    21300154: SuperMetroidSheet3_77
+    21300156: SuperMetroidSheet3_78
+    21300158: SuperMetroidSheet3_79
+    21300160: SuperMetroidSheet3_80
+    21300162: SuperMetroidSheet3_81
+    21300164: SuperMetroidSheet3_82
+    21300166: SuperMetroidSheet3_83
+    21300168: SuperMetroidSheet3_84
+    21300170: SuperMetroidSheet3_85
+    21300172: SuperMetroidSheet3_86
+    21300174: SuperMetroidSheet3_87
+    21300176: SuperMetroidSheet3_88
+    21300178: SuperMetroidSheet3_89
+    21300180: SuperMetroidSheet3_90
+    21300182: SuperMetroidSheet3_91
+    21300184: SuperMetroidSheet3_92
+    21300186: SuperMetroidSheet3_93
+    21300188: SuperMetroidSheet3_94
+    21300190: SuperMetroidSheet3_95
+    21300192: SuperMetroidSheet3_96
+    21300194: SuperMetroidSheet3_97
+    21300196: SuperMetroidSheet3_98
+    21300198: SuperMetroidSheet3_99
+    21300200: SuperMetroidSheet3_100
+    21300202: SuperMetroidSheet3_101
+    21300204: SuperMetroidSheet3_102
+    21300206: SuperMetroidSheet3_103
+    21300208: SuperMetroidSheet3_104
+    21300210: SuperMetroidSheet3_105
+    21300212: SuperMetroidSheet3_106
+    21300214: SuperMetroidSheet3_107
+    21300216: SuperMetroidSheet3_108
+    21300218: SuperMetroidSheet3_109
+    21300220: SuperMetroidSheet3_110
+    21300222: SuperMetroidSheet3_111
+    21300224: SuperMetroidSheet3_112
+    21300226: SuperMetroidSheet3_113
+    21300228: SuperMetroidSheet3_114
+    21300230: SuperMetroidSheet3_115
+    21300232: SuperMetroidSheet3_116
+    21300234: SuperMetroidSheet3_117
+    21300236: SuperMetroidSheet3_118
+    21300238: SuperMetroidSheet3_119
+    21300240: SuperMetroidSheet3_120
+    21300242: SuperMetroidSheet3_121
+    21300244: SuperMetroidSheet3_122
+    21300246: SuperMetroidSheet3_123
+    21300248: SuperMetroidSheet3_124
+    21300250: SuperMetroidSheet3_125
+    21300252: SuperMetroidSheet3_126
+    21300254: SuperMetroidSheet3_127
+    21300256: SuperMetroidSheet3_128
+    21300258: SuperMetroidSheet3_129
+    21300260: SuperMetroidSheet3_130
+    21300262: SuperMetroidSheet3_131
+    21300264: SuperMetroidSheet3_132
+    21300266: SuperMetroidSheet3_133
+    21300268: SuperMetroidSheet3_134
+    21300270: SuperMetroidSheet3_135
+    21300272: SuperMetroidSheet3_136
+    21300274: SuperMetroidSheet3_137
+    21300276: SuperMetroidSheet3_138
+    21300278: SuperMetroidSheet3_139
+    21300280: SuperMetroidSheet3_140
+    21300282: SuperMetroidSheet3_141
+    21300284: SuperMetroidSheet3_142
+    21300286: SuperMetroidSheet3_143
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SuperMetroidSheet3_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1036
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1036
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1036
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1036
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1036
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1036
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1036
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1036
+        width: 25
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1036
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1036
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1036
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1036
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1036
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_13
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1036
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1036
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1036
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 970
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 970
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_18
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 970
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_19
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 970
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 970
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 970
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 970
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_23
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 970
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 970
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 970
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 970
+        width: 28
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_27
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 970
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 888
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_29
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 888
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 888
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_31
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 888
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 888
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 888
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 849
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_35
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 801
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 707
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 707
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 707
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 707
+        width: 173
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 667
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_41
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 667
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_42
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 667
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_43
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 667
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_44
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 667
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 667
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 611
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 611
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 611
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 611
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 611
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 611
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 554
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_53
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 554
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 554
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 554
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_56
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 554
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_57
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 554
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 554
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_59
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 554
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_60
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 554
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 554
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 502
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 502
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_64
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 502
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_65
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 502
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_66
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 502
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_67
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 502
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_68
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 502
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 502
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 502
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_71
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 502
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_72
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 502
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_73
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 502
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_74
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 385
+        width: 29
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_75
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 385
+        width: 29
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_76
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 443
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 443
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 443
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_79
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 443
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_80
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 443
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_81
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 443
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_82
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 443
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_83
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 443
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_84
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 443
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_85
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 443
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_86
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 443
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_87
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 443
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_88
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 385
+        width: 29
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_89
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 385
+        width: 29
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_90
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 385
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_91
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 385
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 385
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 385
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 385
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_95
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 385
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_96
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 385
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_97
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 385
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 385
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_99
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 385
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_100
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 385
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_101
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 385
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_104
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_105
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_106
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_107
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 342
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_108
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_109
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_110
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_111
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_112
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_113
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 342
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_114
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 299
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_115
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 299
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_116
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 299
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 234
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_118
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 234
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 299
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_120
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 299
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_121
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 299
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_122
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 162
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_123
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 162
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 162
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_125
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 162
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 162
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_127
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 162
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_128
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 93
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_129
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 93
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 93
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_131
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 93
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_132
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 93
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_133
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 93
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_134
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 57
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_135
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 57
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_136
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 57
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_137
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_138
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 57
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_139
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 57
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_140
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 5
+        width: 14
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_141
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 5
+        width: 12
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_142
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 5
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SuperMetroidSheet3_143
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 5
+        width: 6
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

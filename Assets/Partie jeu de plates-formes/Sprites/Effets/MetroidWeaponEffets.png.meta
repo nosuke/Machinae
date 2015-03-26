@@ -1,0 +1,1642 @@
+fileFormatVersion: 2
+guid: e81a6d16b17964fb5bf60fbca581c280
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MetroidWeaponEffets_0
+    21300002: MetroidWeaponEffets_1
+    21300004: MetroidWeaponEffets_2
+    21300006: MetroidWeaponEffets_3
+    21300008: MetroidWeaponEffets_4
+    21300010: MetroidWeaponEffets_5
+    21300012: MetroidWeaponEffets_6
+    21300014: MetroidWeaponEffets_7
+    21300016: MetroidWeaponEffets_8
+    21300018: MetroidWeaponEffets_9
+    21300020: MetroidWeaponEffets_10
+    21300022: MetroidWeaponEffets_11
+    21300024: MetroidWeaponEffets_12
+    21300026: MetroidWeaponEffets_13
+    21300028: MetroidWeaponEffets_14
+    21300030: MetroidWeaponEffets_15
+    21300032: MetroidWeaponEffets_16
+    21300034: MetroidWeaponEffets_17
+    21300036: MetroidWeaponEffets_18
+    21300038: MetroidWeaponEffets_19
+    21300040: MetroidWeaponEffets_20
+    21300042: MetroidWeaponEffets_21
+    21300044: MetroidWeaponEffets_22
+    21300046: MetroidWeaponEffets_23
+    21300048: MetroidWeaponEffets_24
+    21300050: MetroidWeaponEffets_25
+    21300052: MetroidWeaponEffets_26
+    21300054: MetroidWeaponEffets_27
+    21300056: MetroidWeaponEffets_28
+    21300058: MetroidWeaponEffets_29
+    21300060: MetroidWeaponEffets_30
+    21300062: MetroidWeaponEffets_31
+    21300064: MetroidWeaponEffets_32
+    21300066: MetroidWeaponEffets_33
+    21300068: MetroidWeaponEffets_34
+    21300070: MetroidWeaponEffets_35
+    21300072: MetroidWeaponEffets_36
+    21300074: MetroidWeaponEffets_37
+    21300076: MetroidWeaponEffets_38
+    21300078: MetroidWeaponEffets_39
+    21300080: MetroidWeaponEffets_40
+    21300082: MetroidWeaponEffets_41
+    21300084: MetroidWeaponEffets_42
+    21300086: MetroidWeaponEffets_43
+    21300088: MetroidWeaponEffets_44
+    21300090: MetroidWeaponEffets_45
+    21300092: MetroidWeaponEffets_46
+    21300094: MetroidWeaponEffets_47
+    21300096: MetroidWeaponEffets_48
+    21300098: MetroidWeaponEffets_49
+    21300100: MetroidWeaponEffets_50
+    21300102: MetroidWeaponEffets_51
+    21300104: MetroidWeaponEffets_52
+    21300106: MetroidWeaponEffets_53
+    21300108: MetroidWeaponEffets_54
+    21300110: MetroidWeaponEffets_55
+    21300112: MetroidWeaponEffets_56
+    21300114: MetroidWeaponEffets_57
+    21300116: MetroidWeaponEffets_58
+    21300118: MetroidWeaponEffets_59
+    21300120: MetroidWeaponEffets_60
+    21300122: MetroidWeaponEffets_61
+    21300124: MetroidWeaponEffets_62
+    21300126: MetroidWeaponEffets_63
+    21300128: MetroidWeaponEffets_64
+    21300130: MetroidWeaponEffets_65
+    21300132: MetroidWeaponEffets_66
+    21300134: MetroidWeaponEffets_67
+    21300136: MetroidWeaponEffets_68
+    21300138: MetroidWeaponEffets_69
+    21300140: MetroidWeaponEffets_70
+    21300142: MetroidWeaponEffets_71
+    21300144: MetroidWeaponEffets_72
+    21300146: MetroidWeaponEffets_73
+    21300148: MetroidWeaponEffets_74
+    21300150: MetroidWeaponEffets_75
+    21300152: MetroidWeaponEffets_76
+    21300154: MetroidWeaponEffets_77
+    21300156: MetroidWeaponEffets_78
+    21300158: MetroidWeaponEffets_79
+    21300160: MetroidWeaponEffets_80
+    21300162: MetroidWeaponEffets_81
+    21300164: MetroidWeaponEffets_82
+    21300166: MetroidWeaponEffets_83
+    21300168: MetroidWeaponEffets_84
+    21300170: MetroidWeaponEffets_85
+    21300172: MetroidWeaponEffets_86
+    21300174: MetroidWeaponEffets_87
+    21300176: MetroidWeaponEffets_88
+    21300178: MetroidWeaponEffets_89
+    21300180: MetroidWeaponEffets_90
+    21300182: MetroidWeaponEffets_91
+    21300184: MetroidWeaponEffets_92
+    21300186: MetroidWeaponEffets_93
+    21300188: MetroidWeaponEffets_94
+    21300190: MetroidWeaponEffets_95
+    21300192: MetroidWeaponEffets_96
+    21300194: MetroidWeaponEffets_97
+    21300196: MetroidWeaponEffets_98
+    21300198: MetroidWeaponEffets_99
+    21300200: MetroidWeaponEffets_100
+    21300202: MetroidWeaponEffets_101
+    21300204: MetroidWeaponEffets_102
+    21300206: MetroidWeaponEffets_103
+    21300208: MetroidWeaponEffets_104
+    21300210: MetroidWeaponEffets_105
+    21300212: MetroidWeaponEffets_106
+    21300214: MetroidWeaponEffets_107
+    21300216: MetroidWeaponEffets_108
+    21300218: MetroidWeaponEffets_109
+    21300220: MetroidWeaponEffets_110
+    21300222: MetroidWeaponEffets_111
+    21300224: MetroidWeaponEffets_112
+    21300226: MetroidLongShoot_1
+    21300228: MetroidLongShoot_2
+    21300230: MetroidLongShoot_3
+    21300232: MetroidLongShoot_4
+    21300234: MetroidLongShoot_5
+    21300236: MetroidLongShoot_6
+    21300238: MetroidWeaponEffets_119
+    21300240: MetroidWeaponEffets_120
+    21300242: MetroidWeaponEffets_121
+    21300244: MetroidWeaponEffets_122
+    21300246: MetroidWeaponEffets_123
+    21300248: MetroidWeaponEffets_124
+    21300250: MetroidWeaponEffets_125
+    21300252: MetroidWeaponEffets_126
+    21300254: MetroidWeaponEffets_127
+    21300256: MetroidWeaponEffets_128
+    21300258: MetroidWeaponEffets_129
+    21300260: MetroidWeaponEffets_130
+    21300262: MetroidWeaponEffets_131
+    21300264: MetroidWeaponEffets_132
+    21300266: MetroidWeaponEffets_133
+    21300268: MetroidWeaponEffets_134
+    21300270: MetroidWeaponEffets_135
+    21300272: MetroidWeaponEffets_136
+    21300274: MetroidWeaponEffets_137
+    21300276: MetroidWeaponEffets_138
+    21300278: MetroidWeaponEffets_139
+    21300280: MetroidWeaponEffets_140
+    21300282: MetroidWeaponEffets_141
+    21300284: MetroidWeaponEffets_142
+    21300286: MetroidWeaponEffets_143
+    21300288: MetroidWeaponEffets_144
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MetroidWeaponEffets_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1153
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1151
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1153
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1151
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1153
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1156
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1155
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_8
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1156
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1155
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_10
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1150
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1157
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1135
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1137
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1126
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1126
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1126
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1126
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_19
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1125
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1125
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1116
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1093
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1092
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1093
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1093
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_27
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1092
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_28
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1093
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1096
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_30
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1094
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_31
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1096
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1094
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_33
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1100
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1096
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_35
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1044
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1028
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1028
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_38
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1028
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1044
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1051
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1033
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1033
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1033
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1051
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1005
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1005
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_47
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1002
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1002
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 989
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 989
+        width: 26
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 986
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_52
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 986
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_53
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 972
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 972
+        width: 26
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_55
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 970
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_56
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 970
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 943
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 928
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 928
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_60
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 928
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 944
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_62
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 931
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_63
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 913
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 913
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_65
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 913
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 931
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 870
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 866
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_69
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 866
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_70
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 866
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_71
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 866
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_72
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 870
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_73
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 866
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_74
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 820
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_75
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 816
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_76
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 812
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_77
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 810
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 808
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 818
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_80
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 809
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_81
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 806
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_82
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 768
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_83
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 766
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_84
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 759
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_85
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 758
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_86
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 758
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_87
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 751
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_88
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 750
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_89
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 720
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 716
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 716
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_92
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 716
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 716
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_94
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 709
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 708
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_96
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 708
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 644
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_98
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 642
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_99
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 640
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_100
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 637
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 610
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_102
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 603
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_103
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 516
+        width: 10
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_104
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 504
+        width: 11
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_105
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 610
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_106
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 603
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 516
+        width: 10
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_108
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 504
+        width: 11
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_109
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 508
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_110
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 496
+        width: 18
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 508
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_112
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 496
+        width: 18
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidLongShoot_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 460
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidLongShoot_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 460
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidLongShoot_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 456
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidLongShoot_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 456
+        width: 78
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidLongShoot_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 460
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidLongShoot_6
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 460
+        width: 121
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_119
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 410
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_120
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 410
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_121
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 406
+        width: 54
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_122
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 406
+        width: 78
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_123
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 410
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 410
+        width: 121
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 360
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_126
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 316
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_127
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 309
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_128
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 299
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_129
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 299
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_130
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 260
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_131
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 216
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_132
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 209
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_133
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 200
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_134
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 199
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_135
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_136
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 116
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_137
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 109
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_138
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 100
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_139
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 99
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_140
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_141
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 15
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_142
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 9
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_143
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MetroidWeaponEffets_144
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

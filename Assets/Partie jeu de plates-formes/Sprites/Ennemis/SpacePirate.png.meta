@@ -1,0 +1,1763 @@
+fileFormatVersion: 2
+guid: 9770bba93c3bc4bd0b804506eaf4147c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpacePirate_0
+    21300002: SpacePirate_1
+    21300004: SpacePirate_2
+    21300006: SpacePirate_3
+    21300008: SpacePirate_4
+    21300010: SpacePirate_5
+    21300012: SpacePirate_6
+    21300014: SpacePirate_7
+    21300016: SpacePirate_8
+    21300018: SpacePirate_9
+    21300020: SpacePirate_10
+    21300022: SpacePirate_11
+    21300024: SpacePirate_12
+    21300026: SpacePirate_13
+    21300028: SpacePirate_14
+    21300030: SpacePirate_15
+    21300032: SpacePirate_16
+    21300034: SpacePirate_17
+    21300036: SpacePirate_18
+    21300038: SpacePirate_19
+    21300040: SpacePirate_20
+    21300042: SpacePirate_21
+    21300044: SpacePirate_22
+    21300046: SpacePirate_23
+    21300048: SpacePirate_24
+    21300050: SpacePirate_25
+    21300052: SpacePirate_26
+    21300054: SpacePirate_27
+    21300056: SpacePirate_28
+    21300058: SpacePirate_29
+    21300060: SpacePirate_30
+    21300062: SpacePirate_31
+    21300064: SpacePirate_32
+    21300066: SpacePirate_33
+    21300068: SpacePirate_34
+    21300070: SpacePirate_35
+    21300072: SpacePirate_36
+    21300074: SpacePirate_37
+    21300076: SpacePirate_38
+    21300078: SpacePirate_39
+    21300080: SpacePirate_40
+    21300082: SpacePirate_41
+    21300084: SpacePirate_42
+    21300086: SpacePirate_43
+    21300088: SpacePirate_44
+    21300090: SpacePirate_45
+    21300092: SpacePirate_46
+    21300094: SpacePirate_47
+    21300096: SpacePirate_48
+    21300098: SpacePirate_49
+    21300100: SpacePirate_50
+    21300102: SpacePirate_51
+    21300104: SpacePirate_52
+    21300106: SpacePirate_53
+    21300108: SpacePirate_54
+    21300110: SpacePirate_55
+    21300112: SpacePirate_56
+    21300114: SpacePirate_57
+    21300116: SpacePirate_58
+    21300118: SpacePirate_59
+    21300120: SpacePirate_60
+    21300122: SpacePirate_61
+    21300124: SpacePirate_62
+    21300126: SpacePirate_63
+    21300128: SpacePirate_64
+    21300130: SpacePirate_65
+    21300132: SpacePirate_66
+    21300134: SpacePirate_67
+    21300136: SpacePirate_68
+    21300138: SpacePirate_69
+    21300140: SpacePirate_70
+    21300142: SpacePirate_71
+    21300144: SpacePirate_72
+    21300146: SpacePirate_73
+    21300148: SpacePirate_74
+    21300150: SpacePirate_75
+    21300152: SpacePirate_76
+    21300154: SpacePirate_77
+    21300156: SpacePirate_78
+    21300158: SpacePirate_79
+    21300160: SpacePirate_80
+    21300162: SpacePirate_81
+    21300164: SpacePirate_82
+    21300166: SpacePirate_83
+    21300168: SpacePirate_84
+    21300170: SpacePirate_85
+    21300172: SpacePirate_86
+    21300174: SpacePirate_87
+    21300176: SpacePirate_88
+    21300178: SpacePirate_89
+    21300180: SpacePirate_90
+    21300182: SpacePirate_91
+    21300184: SpacePirate_92
+    21300186: SpacePirate_93
+    21300188: SpacePirate_94
+    21300190: SpacePirate_106
+    21300192: SpacePirate_101
+    21300194: SpacePirate_102
+    21300196: SpacePirate_103
+    21300198: SpacePirate_104
+    21300200: SpacePirate_105
+    21300202: SpacePirate_107
+    21300204: SpacePirate_108
+    21300206: SpacePirate_109
+    21300208: SpacePirate_110
+    21300210: SpacePirate_111
+    21300212: SpacePirate_112
+    21300214: SpacePirate_112
+    21300216: SpacePirate_113
+    21300218: SpacePirate_114
+    21300220: SpacePirate_115
+    21300222: SpacePirate_116
+    21300224: SpacePirate_117
+    21300226: SpacePirate_118
+    21300228: SpacePirate_119
+    21300230: SpacePirate_120
+    21300232: SpacePirate_121
+    21300234: SpacePirate_122
+    21300236: SpacePirate_123
+    21300238: SpacePirate_124
+    21300240: SpacePirate_125
+    21300242: SpacePirate_126
+    21300244: SpacePirate_127
+    21300246: SpacePirate_128
+    21300248: SpacePirate_129
+    21300250: SpacePirate_130
+    21300252: SpacePirate_131
+    21300254: SpacePirate_132
+    21300256: SpacePirate_133
+    21300258: SpacePirate_134
+    21300260: SpacePirate_135
+    21300262: SpacePirate_136
+    21300264: SpacePirate_137
+    21300266: SpacePirate_138
+    21300268: SpacePirate_139
+    21300270: SpacePirate_140
+    21300272: SpacePirate_141
+    21300274: SpacePirate_142
+    21300276: SpacePirate_143
+    21300278: SpacePirate_144
+    21300280: SpacePirate_145
+    21300282: SpacePirate_146
+    21300284: SpacePirate_147
+    21300286: SpacePirate_148
+    21300288: SpacePirate_149
+    21300290: SpacePirate_150
+    21300292: SpacePirate_151
+    21300294: SpacePirate_152
+    21300296: SpacePirate_153
+    21300298: SpacePirate_154
+    21300300: SpacePirate_155
+    21300302: SpacePirate_156
+    21300304: SpacePirate_157
+    21300306: SpacePirate_158
+    21300308: SpacePirate_159
+    21300310: SpacePirate_160
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SpacePirate_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 921
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 921
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 921
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 921
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 921
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 921
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 921
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 921
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 921
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 878
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_10
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 877
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_11
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 901
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 901
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 901
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 901
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 877
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_16
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 901
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_17
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 877
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_18
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 901
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_19
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 878
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 901
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 878
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 901
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 890
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_24
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 879
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 879
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_26
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 801
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 801
+        width: 31
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 801
+        width: 31
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 801
+        width: 31
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_30
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 802
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_31
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 803
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_32
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 801
+        width: 45
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_33
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 801
+        width: 42
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_34
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 801
+        width: 39
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 801
+        width: 41
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_36
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 801
+        width: 44
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_37
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 801
+        width: 42
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_38
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 801
+        width: 39
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_39
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 732
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_40
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 732
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 732
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_42
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 732
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_43
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 732
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_44
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 732
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_45
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 731
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_46
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 732
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_47
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 732
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_48
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 691
+        width: 69
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_49
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 716
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_50
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 717
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_51
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 713
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 696
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_53
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 694
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_54
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 690
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 695
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_56
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 695
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 694
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 695
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_59
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 694
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 695
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_61
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 694
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 695
+        width: 35
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 694
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_64
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 695
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 602
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_66
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 610
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_67
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 609
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_68
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 601
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_69
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 609
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_70
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 610
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_71
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 602
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_72
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 595
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_73
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 603
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_74
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 623
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_75
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 603
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_76
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 603
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_77
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 605
+        width: 170
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_78
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 605
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_79
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 605
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_80
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 520
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_81
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 517
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_82
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 546
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 544
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 540
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 545
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_86
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 545
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_87
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 544
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_88
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 545
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_89
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 544
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_90
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 545
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_91
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 544
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_92
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 545
+        width: 35
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_93
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 544
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_94
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 545
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_106
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 404
+        width: 34
+        height: 73
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 404
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 404
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_103
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 405
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_104
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 405
+        width: 40
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_105
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 405
+        width: 42
+        height: 51
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_107
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 404
+        width: 38
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_108
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 404
+        width: 36
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_109
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 403
+        width: 33
+        height: 50
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_110
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 421
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_111
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 415
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_112
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 417
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_112
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 381
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_113
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 381
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_114
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 381
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_115
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 381
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_116
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 381
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_117
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 319
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_118
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 319
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_119
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 320
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_120
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 330
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_121
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 333
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_122
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 323
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_123
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 322
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_124
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 318
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_125
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 318
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_126
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 319
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_127
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 317
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_128
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 317
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_129
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 236
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_130
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 236
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_131
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 237
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_132
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 235
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_133
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 235
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_134
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 235
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_135
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 235
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_136
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 235
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_137
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 234
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_138
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 234
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_139
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 199
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 199
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_141
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 199
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_142
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 199
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_143
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 199
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_144
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 115
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_145
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 116
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_146
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 117
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_147
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_148
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 114
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_149
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 115
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_150
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 35
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_151
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 34
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_152
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 35
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_153
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_154
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 33
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_155
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 36
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_156
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 24
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_157
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 24
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_158
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 25
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_159
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 24
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpacePirate_160
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 23
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

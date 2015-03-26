@@ -1,0 +1,5679 @@
+fileFormatVersion: 2
+guid: 2047c9e5b5d7c4b49b37c6a49ea028c0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "B\xE2timents du futur 1 (Chrono Trigger)_0"
+    21300002: "B\xE2timents du futur 1 (Chrono Trigger)_1"
+    21300004: "B\xE2timents du futur 1 (Chrono Trigger)_2"
+    21300006: "B\xE2timents du futur 1 (Chrono Trigger)_3"
+    21300008: "B\xE2timents du futur 1 (Chrono Trigger)_4"
+    21300010: "B\xE2timents du futur 1 (Chrono Trigger)_5"
+    21300012: "B\xE2timents du futur 1 (Chrono Trigger)_6"
+    21300014: "B\xE2timents du futur 1 (Chrono Trigger)_7"
+    21300016: "B\xE2timents du futur 1 (Chrono Trigger)_8"
+    21300018: "B\xE2timents du futur 1 (Chrono Trigger)_9"
+    21300020: "B\xE2timents du futur 1 (Chrono Trigger)_10"
+    21300022: "B\xE2timents du futur 1 (Chrono Trigger)_11"
+    21300024: "B\xE2timents du futur 1 (Chrono Trigger)_12"
+    21300026: "B\xE2timents du futur 1 (Chrono Trigger)_13"
+    21300028: "B\xE2timents du futur 1 (Chrono Trigger)_14"
+    21300030: "B\xE2timents du futur 1 (Chrono Trigger)_15"
+    21300032: "B\xE2timents du futur 1 (Chrono Trigger)_16"
+    21300034: "B\xE2timents du futur 1 (Chrono Trigger)_17"
+    21300036: "B\xE2timents du futur 1 (Chrono Trigger)_18"
+    21300038: "B\xE2timents du futur 1 (Chrono Trigger)_19"
+    21300040: "B\xE2timents du futur 1 (Chrono Trigger)_20"
+    21300042: "B\xE2timents du futur 1 (Chrono Trigger)_21"
+    21300044: "B\xE2timents du futur 1 (Chrono Trigger)_22"
+    21300046: "B\xE2timents du futur 1 (Chrono Trigger)_23"
+    21300048: "B\xE2timents du futur 1 (Chrono Trigger)_24"
+    21300050: "B\xE2timents du futur 1 (Chrono Trigger)_25"
+    21300052: "B\xE2timents du futur 1 (Chrono Trigger)_26"
+    21300054: "B\xE2timents du futur 1 (Chrono Trigger)_27"
+    21300056: "B\xE2timents du futur 1 (Chrono Trigger)_28"
+    21300058: "B\xE2timents du futur 1 (Chrono Trigger)_29"
+    21300060: "B\xE2timents du futur 1 (Chrono Trigger)_30"
+    21300062: "B\xE2timents du futur 1 (Chrono Trigger)_31"
+    21300064: "B\xE2timents du futur 1 (Chrono Trigger)_32"
+    21300066: "B\xE2timents du futur 1 (Chrono Trigger)_33"
+    21300068: "B\xE2timents du futur 1 (Chrono Trigger)_34"
+    21300070: "B\xE2timents du futur 1 (Chrono Trigger)_35"
+    21300072: "B\xE2timents du futur 1 (Chrono Trigger)_36"
+    21300074: "B\xE2timents du futur 1 (Chrono Trigger)_37"
+    21300076: "B\xE2timents du futur 1 (Chrono Trigger)_38"
+    21300078: "B\xE2timents du futur 1 (Chrono Trigger)_39"
+    21300080: "B\xE2timents du futur 1 (Chrono Trigger)_40"
+    21300082: "B\xE2timents du futur 1 (Chrono Trigger)_41"
+    21300084: "B\xE2timents du futur 1 (Chrono Trigger)_42"
+    21300086: "B\xE2timents du futur 1 (Chrono Trigger)_43"
+    21300088: "B\xE2timents du futur 1 (Chrono Trigger)_44"
+    21300090: "B\xE2timents du futur 1 (Chrono Trigger)_45"
+    21300092: "B\xE2timents du futur 1 (Chrono Trigger)_46"
+    21300094: "B\xE2timents du futur 1 (Chrono Trigger)_47"
+    21300096: "B\xE2timents du futur 1 (Chrono Trigger)_48"
+    21300098: "B\xE2timents du futur 1 (Chrono Trigger)_49"
+    21300100: "B\xE2timents du futur 1 (Chrono Trigger)_50"
+    21300102: "B\xE2timents du futur 1 (Chrono Trigger)_51"
+    21300104: "B\xE2timents du futur 1 (Chrono Trigger)_52"
+    21300106: "B\xE2timents du futur 1 (Chrono Trigger)_53"
+    21300108: "B\xE2timents du futur 1 (Chrono Trigger)_54"
+    21300110: "B\xE2timents du futur 1 (Chrono Trigger)_55"
+    21300112: "B\xE2timents du futur 1 (Chrono Trigger)_56"
+    21300114: "B\xE2timents du futur 1 (Chrono Trigger)_57"
+    21300116: "B\xE2timents du futur 1 (Chrono Trigger)_58"
+    21300118: "B\xE2timents du futur 1 (Chrono Trigger)_59"
+    21300120: "B\xE2timents du futur 1 (Chrono Trigger)_60"
+    21300122: "B\xE2timents du futur 1 (Chrono Trigger)_61"
+    21300124: "B\xE2timents du futur 1 (Chrono Trigger)_62"
+    21300126: "B\xE2timents du futur 1 (Chrono Trigger)_63"
+    21300128: "B\xE2timents du futur 1 (Chrono Trigger)_64"
+    21300130: "B\xE2timents du futur 1 (Chrono Trigger)_65"
+    21300132: "B\xE2timents du futur 1 (Chrono Trigger)_66"
+    21300134: "B\xE2timents du futur 1 (Chrono Trigger)_67"
+    21300136: "B\xE2timents du futur 1 (Chrono Trigger)_68"
+    21300138: "B\xE2timents du futur 1 (Chrono Trigger)_69"
+    21300140: "B\xE2timents du futur 1 (Chrono Trigger)_70"
+    21300142: "B\xE2timents du futur 1 (Chrono Trigger)_71"
+    21300144: "B\xE2timents du futur 1 (Chrono Trigger)_72"
+    21300146: "B\xE2timents du futur 1 (Chrono Trigger)_73"
+    21300148: "B\xE2timents du futur 1 (Chrono Trigger)_74"
+    21300150: "B\xE2timents du futur 1 (Chrono Trigger)_75"
+    21300152: "B\xE2timents du futur 1 (Chrono Trigger)_76"
+    21300154: "B\xE2timents du futur 1 (Chrono Trigger)_77"
+    21300156: "B\xE2timents du futur 1 (Chrono Trigger)_78"
+    21300158: "B\xE2timents du futur 1 (Chrono Trigger)_79"
+    21300160: "B\xE2timents du futur 1 (Chrono Trigger)_80"
+    21300162: "B\xE2timents du futur 1 (Chrono Trigger)_81"
+    21300164: "B\xE2timents du futur 1 (Chrono Trigger)_82"
+    21300166: "B\xE2timents du futur 1 (Chrono Trigger)_83"
+    21300168: "B\xE2timents du futur 1 (Chrono Trigger)_84"
+    21300170: "B\xE2timents du futur 1 (Chrono Trigger)_85"
+    21300172: "B\xE2timents du futur 1 (Chrono Trigger)_86"
+    21300174: "B\xE2timents du futur 1 (Chrono Trigger)_87"
+    21300176: "B\xE2timents du futur 1 (Chrono Trigger)_88"
+    21300178: "B\xE2timents du futur 1 (Chrono Trigger)_89"
+    21300180: "B\xE2timents du futur 1 (Chrono Trigger)_90"
+    21300182: "B\xE2timents du futur 1 (Chrono Trigger)_91"
+    21300184: "B\xE2timents du futur 1 (Chrono Trigger)_92"
+    21300186: "B\xE2timents du futur 1 (Chrono Trigger)_93"
+    21300188: "B\xE2timents du futur 1 (Chrono Trigger)_94"
+    21300190: "B\xE2timents du futur 1 (Chrono Trigger)_95"
+    21300192: "B\xE2timents du futur 1 (Chrono Trigger)_96"
+    21300194: "B\xE2timents du futur 1 (Chrono Trigger)_97"
+    21300196: "B\xE2timents du futur 1 (Chrono Trigger)_98"
+    21300198: "B\xE2timents du futur 1 (Chrono Trigger)_99"
+    21300200: "B\xE2timents du futur 1 (Chrono Trigger)_100"
+    21300202: "B\xE2timents du futur 1 (Chrono Trigger)_101"
+    21300204: "B\xE2timents du futur 1 (Chrono Trigger)_102"
+    21300206: "B\xE2timents du futur 1 (Chrono Trigger)_103"
+    21300208: "B\xE2timents du futur 1 (Chrono Trigger)_104"
+    21300210: "B\xE2timents du futur 1 (Chrono Trigger)_105"
+    21300212: "B\xE2timents du futur 1 (Chrono Trigger)_106"
+    21300214: "B\xE2timents du futur 1 (Chrono Trigger)_107"
+    21300216: "B\xE2timents du futur 1 (Chrono Trigger)_108"
+    21300218: "B\xE2timents du futur 1 (Chrono Trigger)_109"
+    21300220: "B\xE2timents du futur 1 (Chrono Trigger)_110"
+    21300222: "B\xE2timents du futur 1 (Chrono Trigger)_111"
+    21300224: "B\xE2timents du futur 1 (Chrono Trigger)_112"
+    21300226: "B\xE2timents du futur 1 (Chrono Trigger)_113"
+    21300228: "B\xE2timents du futur 1 (Chrono Trigger)_114"
+    21300230: "B\xE2timents du futur 1 (Chrono Trigger)_115"
+    21300232: "B\xE2timents du futur 1 (Chrono Trigger)_116"
+    21300234: "B\xE2timents du futur 1 (Chrono Trigger)_117"
+    21300236: "B\xE2timents du futur 1 (Chrono Trigger)_118"
+    21300238: "B\xE2timents du futur 1 (Chrono Trigger)_119"
+    21300240: "B\xE2timents du futur 1 (Chrono Trigger)_120"
+    21300242: "B\xE2timents du futur 1 (Chrono Trigger)_121"
+    21300244: "B\xE2timents du futur 1 (Chrono Trigger)_122"
+    21300246: "B\xE2timents du futur 1 (Chrono Trigger)_123"
+    21300248: "B\xE2timents du futur 1 (Chrono Trigger)_124"
+    21300250: "B\xE2timents du futur 1 (Chrono Trigger)_125"
+    21300252: "B\xE2timents du futur 1 (Chrono Trigger)_126"
+    21300254: "B\xE2timents du futur 1 (Chrono Trigger)_127"
+    21300256: "B\xE2timents du futur 1 (Chrono Trigger)_128"
+    21300258: "B\xE2timents du futur 1 (Chrono Trigger)_129"
+    21300260: "B\xE2timents du futur 1 (Chrono Trigger)_130"
+    21300262: "B\xE2timents du futur 1 (Chrono Trigger)_131"
+    21300264: "B\xE2timents du futur 1 (Chrono Trigger)_132"
+    21300266: "B\xE2timents du futur 1 (Chrono Trigger)_133"
+    21300268: "B\xE2timents du futur 1 (Chrono Trigger)_134"
+    21300270: "B\xE2timents du futur 1 (Chrono Trigger)_135"
+    21300272: "B\xE2timents du futur 1 (Chrono Trigger)_136"
+    21300274: "B\xE2timents du futur 1 (Chrono Trigger)_137"
+    21300276: "B\xE2timents du futur 1 (Chrono Trigger)_138"
+    21300278: "B\xE2timents du futur 1 (Chrono Trigger)_139"
+    21300280: "B\xE2timents du futur 1 (Chrono Trigger)_140"
+    21300282: "B\xE2timents du futur 1 (Chrono Trigger)_141"
+    21300284: "B\xE2timents du futur 1 (Chrono Trigger)_142"
+    21300286: "B\xE2timents du futur 1 (Chrono Trigger)_143"
+    21300288: "B\xE2timents du futur 1 (Chrono Trigger)_144"
+    21300290: "B\xE2timents du futur 1 (Chrono Trigger)_145"
+    21300292: "B\xE2timents du futur 1 (Chrono Trigger)_146"
+    21300294: "B\xE2timents du futur 1 (Chrono Trigger)_147"
+    21300296: "B\xE2timents du futur 1 (Chrono Trigger)_148"
+    21300298: "B\xE2timents du futur 1 (Chrono Trigger)_149"
+    21300300: "B\xE2timents du futur 1 (Chrono Trigger)_150"
+    21300302: "B\xE2timents du futur 1 (Chrono Trigger)_151"
+    21300304: "B\xE2timents du futur 1 (Chrono Trigger)_152"
+    21300306: "B\xE2timents du futur 1 (Chrono Trigger)_153"
+    21300308: "B\xE2timents du futur 1 (Chrono Trigger)_154"
+    21300310: "B\xE2timents du futur 1 (Chrono Trigger)_155"
+    21300312: "B\xE2timents du futur 1 (Chrono Trigger)_156"
+    21300314: "B\xE2timents du futur 1 (Chrono Trigger)_157"
+    21300316: "B\xE2timents du futur 1 (Chrono Trigger)_158"
+    21300318: "B\xE2timents du futur 1 (Chrono Trigger)_159"
+    21300320: "B\xE2timents du futur 1 (Chrono Trigger)_160"
+    21300322: "B\xE2timents du futur 1 (Chrono Trigger)_161"
+    21300324: "B\xE2timents du futur 1 (Chrono Trigger)_162"
+    21300326: "B\xE2timents du futur 1 (Chrono Trigger)_163"
+    21300328: "B\xE2timents du futur 1 (Chrono Trigger)_164"
+    21300330: "B\xE2timents du futur 1 (Chrono Trigger)_165"
+    21300332: "B\xE2timents du futur 1 (Chrono Trigger)_166"
+    21300334: "B\xE2timents du futur 1 (Chrono Trigger)_167"
+    21300336: "B\xE2timents du futur 1 (Chrono Trigger)_168"
+    21300338: "B\xE2timents du futur 1 (Chrono Trigger)_169"
+    21300340: "B\xE2timents du futur 1 (Chrono Trigger)_170"
+    21300342: "B\xE2timents du futur 1 (Chrono Trigger)_171"
+    21300344: "B\xE2timents du futur 1 (Chrono Trigger)_172"
+    21300346: "B\xE2timents du futur 1 (Chrono Trigger)_173"
+    21300348: "B\xE2timents du futur 1 (Chrono Trigger)_174"
+    21300350: "B\xE2timents du futur 1 (Chrono Trigger)_175"
+    21300352: "B\xE2timents du futur 1 (Chrono Trigger)_176"
+    21300354: "B\xE2timents du futur 1 (Chrono Trigger)_177"
+    21300356: "B\xE2timents du futur 1 (Chrono Trigger)_178"
+    21300358: "B\xE2timents du futur 1 (Chrono Trigger)_179"
+    21300360: "B\xE2timents du futur 1 (Chrono Trigger)_180"
+    21300362: "B\xE2timents du futur 1 (Chrono Trigger)_181"
+    21300364: "B\xE2timents du futur 1 (Chrono Trigger)_182"
+    21300366: "B\xE2timents du futur 1 (Chrono Trigger)_183"
+    21300368: "B\xE2timents du futur 1 (Chrono Trigger)_184"
+    21300370: "B\xE2timents du futur 1 (Chrono Trigger)_185"
+    21300372: "B\xE2timents du futur 1 (Chrono Trigger)_186"
+    21300374: "B\xE2timents du futur 1 (Chrono Trigger)_187"
+    21300376: "B\xE2timents du futur 1 (Chrono Trigger)_188"
+    21300378: "B\xE2timents du futur 1 (Chrono Trigger)_189"
+    21300380: "B\xE2timents du futur 1 (Chrono Trigger)_190"
+    21300382: "B\xE2timents du futur 1 (Chrono Trigger)_191"
+    21300384: "B\xE2timents du futur 1 (Chrono Trigger)_192"
+    21300386: "B\xE2timents du futur 1 (Chrono Trigger)_193"
+    21300388: "B\xE2timents du futur 1 (Chrono Trigger)_194"
+    21300390: "B\xE2timents du futur 1 (Chrono Trigger)_195"
+    21300392: "B\xE2timents du futur 1 (Chrono Trigger)_196"
+    21300394: "B\xE2timents du futur 1 (Chrono Trigger)_197"
+    21300396: "B\xE2timents du futur 1 (Chrono Trigger)_198"
+    21300398: "B\xE2timents du futur 1 (Chrono Trigger)_199"
+    21300400: "B\xE2timents du futur 1 (Chrono Trigger)_200"
+    21300402: "B\xE2timents du futur 1 (Chrono Trigger)_201"
+    21300404: "B\xE2timents du futur 1 (Chrono Trigger)_202"
+    21300406: "B\xE2timents du futur 1 (Chrono Trigger)_203"
+    21300408: "B\xE2timents du futur 1 (Chrono Trigger)_204"
+    21300410: "B\xE2timents du futur 1 (Chrono Trigger)_205"
+    21300412: "B\xE2timents du futur 1 (Chrono Trigger)_206"
+    21300414: "B\xE2timents du futur 1 (Chrono Trigger)_207"
+    21300416: "B\xE2timents du futur 1 (Chrono Trigger)_208"
+    21300418: "B\xE2timents du futur 1 (Chrono Trigger)_209"
+    21300420: "B\xE2timents du futur 1 (Chrono Trigger)_210"
+    21300422: "B\xE2timents du futur 1 (Chrono Trigger)_211"
+    21300424: "B\xE2timents du futur 1 (Chrono Trigger)_212"
+    21300426: "B\xE2timents du futur 1 (Chrono Trigger)_213"
+    21300428: "B\xE2timents du futur 1 (Chrono Trigger)_214"
+    21300430: "B\xE2timents du futur 1 (Chrono Trigger)_215"
+    21300432: "B\xE2timents du futur 1 (Chrono Trigger)_216"
+    21300434: "B\xE2timents du futur 1 (Chrono Trigger)_217"
+    21300436: "B\xE2timents du futur 1 (Chrono Trigger)_218"
+    21300438: "B\xE2timents du futur 1 (Chrono Trigger)_219"
+    21300440: "B\xE2timents du futur 1 (Chrono Trigger)_220"
+    21300442: "B\xE2timents du futur 1 (Chrono Trigger)_221"
+    21300444: "B\xE2timents du futur 1 (Chrono Trigger)_222"
+    21300446: "B\xE2timents du futur 1 (Chrono Trigger)_223"
+    21300448: "B\xE2timents du futur 1 (Chrono Trigger)_224"
+    21300450: "B\xE2timents du futur 1 (Chrono Trigger)_225"
+    21300452: "B\xE2timents du futur 1 (Chrono Trigger)_226"
+    21300454: "B\xE2timents du futur 1 (Chrono Trigger)_227"
+    21300456: "B\xE2timents du futur 1 (Chrono Trigger)_228"
+    21300458: "B\xE2timents du futur 1 (Chrono Trigger)_229"
+    21300460: "B\xE2timents du futur 1 (Chrono Trigger)_230"
+    21300462: "B\xE2timents du futur 1 (Chrono Trigger)_231"
+    21300464: "B\xE2timents du futur 1 (Chrono Trigger)_232"
+    21300466: "B\xE2timents du futur 1 (Chrono Trigger)_233"
+    21300468: "B\xE2timents du futur 1 (Chrono Trigger)_234"
+    21300470: "B\xE2timents du futur 1 (Chrono Trigger)_235"
+    21300472: "B\xE2timents du futur 1 (Chrono Trigger)_236"
+    21300474: "B\xE2timents du futur 1 (Chrono Trigger)_237"
+    21300476: "B\xE2timents du futur 1 (Chrono Trigger)_238"
+    21300478: "B\xE2timents du futur 1 (Chrono Trigger)_239"
+    21300480: "B\xE2timents du futur 1 (Chrono Trigger)_240"
+    21300482: "B\xE2timents du futur 1 (Chrono Trigger)_241"
+    21300484: "B\xE2timents du futur 1 (Chrono Trigger)_242"
+    21300486: "B\xE2timents du futur 1 (Chrono Trigger)_243"
+    21300488: "B\xE2timents du futur 1 (Chrono Trigger)_244"
+    21300490: "B\xE2timents du futur 1 (Chrono Trigger)_245"
+    21300492: "B\xE2timents du futur 1 (Chrono Trigger)_246"
+    21300494: "B\xE2timents du futur 1 (Chrono Trigger)_247"
+    21300496: "B\xE2timents du futur 1 (Chrono Trigger)_248"
+    21300498: "B\xE2timents du futur 1 (Chrono Trigger)_249"
+    21300500: "B\xE2timents du futur 1 (Chrono Trigger)_250"
+    21300502: "B\xE2timents du futur 1 (Chrono Trigger)_251"
+    21300504: "B\xE2timents du futur 1 (Chrono Trigger)_252"
+    21300506: "B\xE2timents du futur 1 (Chrono Trigger)_253"
+    21300508: "B\xE2timents du futur 1 (Chrono Trigger)_254"
+    21300510: "B\xE2timents du futur 1 (Chrono Trigger)_255"
+    21300512: "B\xE2timents du futur 1 (Chrono Trigger)_256"
+    21300514: "B\xE2timents du futur 1 (Chrono Trigger)_257"
+    21300516: "B\xE2timents du futur 1 (Chrono Trigger)_258"
+    21300518: "B\xE2timents du futur 1 (Chrono Trigger)_259"
+    21300520: "B\xE2timents du futur 1 (Chrono Trigger)_260"
+    21300522: "B\xE2timents du futur 1 (Chrono Trigger)_261"
+    21300524: "B\xE2timents du futur 1 (Chrono Trigger)_262"
+    21300526: "B\xE2timents du futur 1 (Chrono Trigger)_263"
+    21300528: "B\xE2timents du futur 1 (Chrono Trigger)_264"
+    21300530: "B\xE2timents du futur 1 (Chrono Trigger)_265"
+    21300532: "B\xE2timents du futur 1 (Chrono Trigger)_266"
+    21300534: "B\xE2timents du futur 1 (Chrono Trigger)_267"
+    21300536: "B\xE2timents du futur 1 (Chrono Trigger)_268"
+    21300538: "B\xE2timents du futur 1 (Chrono Trigger)_269"
+    21300540: "B\xE2timents du futur 1 (Chrono Trigger)_270"
+    21300542: "B\xE2timents du futur 1 (Chrono Trigger)_271"
+    21300544: "B\xE2timents du futur 1 (Chrono Trigger)_272"
+    21300546: "B\xE2timents du futur 1 (Chrono Trigger)_273"
+    21300548: "B\xE2timents du futur 1 (Chrono Trigger)_274"
+    21300550: "B\xE2timents du futur 1 (Chrono Trigger)_275"
+    21300552: "B\xE2timents du futur 1 (Chrono Trigger)_276"
+    21300554: "B\xE2timents du futur 1 (Chrono Trigger)_277"
+    21300556: "B\xE2timents du futur 1 (Chrono Trigger)_278"
+    21300558: "B\xE2timents du futur 1 (Chrono Trigger)_279"
+    21300560: "B\xE2timents du futur 1 (Chrono Trigger)_280"
+    21300562: "B\xE2timents du futur 1 (Chrono Trigger)_281"
+    21300564: "B\xE2timents du futur 1 (Chrono Trigger)_282"
+    21300566: "B\xE2timents du futur 1 (Chrono Trigger)_283"
+    21300568: "B\xE2timents du futur 1 (Chrono Trigger)_284"
+    21300570: "B\xE2timents du futur 1 (Chrono Trigger)_285"
+    21300572: "B\xE2timents du futur 1 (Chrono Trigger)_286"
+    21300574: "B\xE2timents du futur 1 (Chrono Trigger)_287"
+    21300576: "B\xE2timents du futur 1 (Chrono Trigger)_288"
+    21300578: "B\xE2timents du futur 1 (Chrono Trigger)_289"
+    21300580: "B\xE2timents du futur 1 (Chrono Trigger)_290"
+    21300582: "B\xE2timents du futur 1 (Chrono Trigger)_291"
+    21300584: "B\xE2timents du futur 1 (Chrono Trigger)_292"
+    21300586: "B\xE2timents du futur 1 (Chrono Trigger)_293"
+    21300588: "B\xE2timents du futur 1 (Chrono Trigger)_294"
+    21300590: "B\xE2timents du futur 1 (Chrono Trigger)_295"
+    21300592: "B\xE2timents du futur 1 (Chrono Trigger)_296"
+    21300594: "B\xE2timents du futur 1 (Chrono Trigger)_297"
+    21300596: "B\xE2timents du futur 1 (Chrono Trigger)_298"
+    21300598: "B\xE2timents du futur 1 (Chrono Trigger)_299"
+    21300600: "B\xE2timents du futur 1 (Chrono Trigger)_300"
+    21300602: "B\xE2timents du futur 1 (Chrono Trigger)_301"
+    21300604: "B\xE2timents du futur 1 (Chrono Trigger)_302"
+    21300606: "B\xE2timents du futur 1 (Chrono Trigger)_303"
+    21300608: "B\xE2timents du futur 1 (Chrono Trigger)_304"
+    21300610: "B\xE2timents du futur 1 (Chrono Trigger)_305"
+    21300612: "B\xE2timents du futur 1 (Chrono Trigger)_306"
+    21300614: "B\xE2timents du futur 1 (Chrono Trigger)_307"
+    21300616: "B\xE2timents du futur 1 (Chrono Trigger)_308"
+    21300618: "B\xE2timents du futur 1 (Chrono Trigger)_309"
+    21300620: "B\xE2timents du futur 1 (Chrono Trigger)_310"
+    21300622: "B\xE2timents du futur 1 (Chrono Trigger)_311"
+    21300624: "B\xE2timents du futur 1 (Chrono Trigger)_312"
+    21300626: "B\xE2timents du futur 1 (Chrono Trigger)_313"
+    21300628: "B\xE2timents du futur 1 (Chrono Trigger)_314"
+    21300630: "B\xE2timents du futur 1 (Chrono Trigger)_315"
+    21300632: "B\xE2timents du futur 1 (Chrono Trigger)_316"
+    21300634: "B\xE2timents du futur 1 (Chrono Trigger)_317"
+    21300636: "B\xE2timents du futur 1 (Chrono Trigger)_318"
+    21300638: "B\xE2timents du futur 1 (Chrono Trigger)_319"
+    21300640: "B\xE2timents du futur 1 (Chrono Trigger)_320"
+    21300642: "B\xE2timents du futur 1 (Chrono Trigger)_321"
+    21300644: "B\xE2timents du futur 1 (Chrono Trigger)_322"
+    21300646: "B\xE2timents du futur 1 (Chrono Trigger)_323"
+    21300648: "B\xE2timents du futur 1 (Chrono Trigger)_324"
+    21300650: "B\xE2timents du futur 1 (Chrono Trigger)_325"
+    21300652: "B\xE2timents du futur 1 (Chrono Trigger)_326"
+    21300654: "B\xE2timents du futur 1 (Chrono Trigger)_327"
+    21300656: "B\xE2timents du futur 1 (Chrono Trigger)_328"
+    21300658: "B\xE2timents du futur 1 (Chrono Trigger)_329"
+    21300660: "B\xE2timents du futur 1 (Chrono Trigger)_330"
+    21300662: "B\xE2timents du futur 1 (Chrono Trigger)_331"
+    21300664: "B\xE2timents du futur 1 (Chrono Trigger)_332"
+    21300666: "B\xE2timents du futur 1 (Chrono Trigger)_333"
+    21300668: "B\xE2timents du futur 1 (Chrono Trigger)_334"
+    21300670: "B\xE2timents du futur 1 (Chrono Trigger)_335"
+    21300672: "B\xE2timents du futur 1 (Chrono Trigger)_336"
+    21300674: "B\xE2timents du futur 1 (Chrono Trigger)_337"
+    21300676: "B\xE2timents du futur 1 (Chrono Trigger)_338"
+    21300678: "B\xE2timents du futur 1 (Chrono Trigger)_339"
+    21300680: "B\xE2timents du futur 1 (Chrono Trigger)_340"
+    21300682: "B\xE2timents du futur 1 (Chrono Trigger)_341"
+    21300684: "B\xE2timents du futur 1 (Chrono Trigger)_342"
+    21300686: "B\xE2timents du futur 1 (Chrono Trigger)_343"
+    21300688: "B\xE2timents du futur 1 (Chrono Trigger)_344"
+    21300690: "B\xE2timents du futur 1 (Chrono Trigger)_345"
+    21300692: "B\xE2timents du futur 1 (Chrono Trigger)_346"
+    21300694: "B\xE2timents du futur 1 (Chrono Trigger)_347"
+    21300696: "B\xE2timents du futur 1 (Chrono Trigger)_348"
+    21300698: "B\xE2timents du futur 1 (Chrono Trigger)_349"
+    21300700: "B\xE2timents du futur 1 (Chrono Trigger)_350"
+    21300702: "B\xE2timents du futur 1 (Chrono Trigger)_351"
+    21300704: "B\xE2timents du futur 1 (Chrono Trigger)_352"
+    21300706: "B\xE2timents du futur 1 (Chrono Trigger)_353"
+    21300708: "B\xE2timents du futur 1 (Chrono Trigger)_354"
+    21300710: "B\xE2timents du futur 1 (Chrono Trigger)_355"
+    21300712: "B\xE2timents du futur 1 (Chrono Trigger)_356"
+    21300714: "B\xE2timents du futur 1 (Chrono Trigger)_357"
+    21300716: "B\xE2timents du futur 1 (Chrono Trigger)_358"
+    21300718: "B\xE2timents du futur 1 (Chrono Trigger)_359"
+    21300720: "B\xE2timents du futur 1 (Chrono Trigger)_360"
+    21300722: "B\xE2timents du futur 1 (Chrono Trigger)_361"
+    21300724: "B\xE2timents du futur 1 (Chrono Trigger)_362"
+    21300726: "B\xE2timents du futur 1 (Chrono Trigger)_363"
+    21300728: "B\xE2timents du futur 1 (Chrono Trigger)_364"
+    21300730: "B\xE2timents du futur 1 (Chrono Trigger)_365"
+    21300732: "B\xE2timents du futur 1 (Chrono Trigger)_366"
+    21300734: "B\xE2timents du futur 1 (Chrono Trigger)_367"
+    21300736: "B\xE2timents du futur 1 (Chrono Trigger)_368"
+    21300738: "B\xE2timents du futur 1 (Chrono Trigger)_369"
+    21300740: "B\xE2timents du futur 1 (Chrono Trigger)_370"
+    21300742: "B\xE2timents du futur 1 (Chrono Trigger)_371"
+    21300744: "B\xE2timents du futur 1 (Chrono Trigger)_372"
+    21300746: "B\xE2timents du futur 1 (Chrono Trigger)_373"
+    21300748: "B\xE2timents du futur 1 (Chrono Trigger)_374"
+    21300750: "B\xE2timents du futur 1 (Chrono Trigger)_375"
+    21300752: "B\xE2timents du futur 1 (Chrono Trigger)_376"
+    21300754: "B\xE2timents du futur 1 (Chrono Trigger)_377"
+    21300756: "B\xE2timents du futur 1 (Chrono Trigger)_378"
+    21300758: "B\xE2timents du futur 1 (Chrono Trigger)_379"
+    21300760: "B\xE2timents du futur 1 (Chrono Trigger)_380"
+    21300762: "B\xE2timents du futur 1 (Chrono Trigger)_381"
+    21300764: "B\xE2timents du futur 1 (Chrono Trigger)_382"
+    21300766: "B\xE2timents du futur 1 (Chrono Trigger)_383"
+    21300768: "B\xE2timents du futur 1 (Chrono Trigger)_384"
+    21300770: "B\xE2timents du futur 1 (Chrono Trigger)_385"
+    21300772: "B\xE2timents du futur 1 (Chrono Trigger)_386"
+    21300774: "B\xE2timents du futur 1 (Chrono Trigger)_387"
+    21300776: "B\xE2timents du futur 1 (Chrono Trigger)_388"
+    21300778: "B\xE2timents du futur 1 (Chrono Trigger)_389"
+    21300780: "B\xE2timents du futur 1 (Chrono Trigger)_390"
+    21300782: "B\xE2timents du futur 1 (Chrono Trigger)_391"
+    21300784: "B\xE2timents du futur 1 (Chrono Trigger)_392"
+    21300786: "B\xE2timents du futur 1 (Chrono Trigger)_393"
+    21300788: "B\xE2timents du futur 1 (Chrono Trigger)_394"
+    21300790: "B\xE2timents du futur 1 (Chrono Trigger)_395"
+    21300792: "B\xE2timents du futur 1 (Chrono Trigger)_396"
+    21300794: "B\xE2timents du futur 1 (Chrono Trigger)_397"
+    21300796: "B\xE2timents du futur 1 (Chrono Trigger)_398"
+    21300798: "B\xE2timents du futur 1 (Chrono Trigger)_399"
+    21300800: "B\xE2timents du futur 1 (Chrono Trigger)_400"
+    21300802: "B\xE2timents du futur 1 (Chrono Trigger)_401"
+    21300804: "B\xE2timents du futur 1 (Chrono Trigger)_402"
+    21300806: "B\xE2timents du futur 1 (Chrono Trigger)_403"
+    21300808: "B\xE2timents du futur 1 (Chrono Trigger)_404"
+    21300810: "B\xE2timents du futur 1 (Chrono Trigger)_405"
+    21300812: "B\xE2timents du futur 1 (Chrono Trigger)_406"
+    21300814: "B\xE2timents du futur 1 (Chrono Trigger)_407"
+    21300816: "B\xE2timents du futur 1 (Chrono Trigger)_408"
+    21300818: "B\xE2timents du futur 1 (Chrono Trigger)_409"
+    21300820: "B\xE2timents du futur 1 (Chrono Trigger)_410"
+    21300822: "B\xE2timents du futur 1 (Chrono Trigger)_411"
+    21300824: "B\xE2timents du futur 1 (Chrono Trigger)_412"
+    21300826: "B\xE2timents du futur 1 (Chrono Trigger)_413"
+    21300828: "B\xE2timents du futur 1 (Chrono Trigger)_414"
+    21300830: "B\xE2timents du futur 1 (Chrono Trigger)_415"
+    21300832: "B\xE2timents du futur 1 (Chrono Trigger)_416"
+    21300834: "B\xE2timents du futur 1 (Chrono Trigger)_417"
+    21300836: "B\xE2timents du futur 1 (Chrono Trigger)_418"
+    21300838: "B\xE2timents du futur 1 (Chrono Trigger)_419"
+    21300840: "B\xE2timents du futur 1 (Chrono Trigger)_420"
+    21300842: "B\xE2timents du futur 1 (Chrono Trigger)_421"
+    21300844: "B\xE2timents du futur 1 (Chrono Trigger)_422"
+    21300846: "B\xE2timents du futur 1 (Chrono Trigger)_423"
+    21300848: "B\xE2timents du futur 1 (Chrono Trigger)_424"
+    21300850: "B\xE2timents du futur 1 (Chrono Trigger)_425"
+    21300852: "B\xE2timents du futur 1 (Chrono Trigger)_426"
+    21300854: "B\xE2timents du futur 1 (Chrono Trigger)_427"
+    21300856: "B\xE2timents du futur 1 (Chrono Trigger)_428"
+    21300858: "B\xE2timents du futur 1 (Chrono Trigger)_429"
+    21300860: "B\xE2timents du futur 1 (Chrono Trigger)_430"
+    21300862: "B\xE2timents du futur 1 (Chrono Trigger)_431"
+    21300864: "B\xE2timents du futur 1 (Chrono Trigger)_432"
+    21300866: "B\xE2timents du futur 1 (Chrono Trigger)_433"
+    21300868: "B\xE2timents du futur 1 (Chrono Trigger)_434"
+    21300870: "B\xE2timents du futur 1 (Chrono Trigger)_435"
+    21300872: "B\xE2timents du futur 1 (Chrono Trigger)_436"
+    21300874: "B\xE2timents du futur 1 (Chrono Trigger)_437"
+    21300876: "B\xE2timents du futur 1 (Chrono Trigger)_438"
+    21300878: "B\xE2timents du futur 1 (Chrono Trigger)_439"
+    21300880: "B\xE2timents du futur 1 (Chrono Trigger)_440"
+    21300882: "B\xE2timents du futur 1 (Chrono Trigger)_441"
+    21300884: "B\xE2timents du futur 1 (Chrono Trigger)_442"
+    21300886: "B\xE2timents du futur 1 (Chrono Trigger)_443"
+    21300888: "B\xE2timents du futur 1 (Chrono Trigger)_444"
+    21300890: "B\xE2timents du futur 1 (Chrono Trigger)_445"
+    21300892: "B\xE2timents du futur 1 (Chrono Trigger)_446"
+    21300894: "B\xE2timents du futur 1 (Chrono Trigger)_447"
+    21300896: "B\xE2timents du futur 1 (Chrono Trigger)_448"
+    21300898: "B\xE2timents du futur 1 (Chrono Trigger)_449"
+    21300900: "B\xE2timents du futur 1 (Chrono Trigger)_450"
+    21300902: "B\xE2timents du futur 1 (Chrono Trigger)_451"
+    21300904: "B\xE2timents du futur 1 (Chrono Trigger)_452"
+    21300906: "B\xE2timents du futur 1 (Chrono Trigger)_453"
+    21300908: "B\xE2timents du futur 1 (Chrono Trigger)_454"
+    21300910: "B\xE2timents du futur 1 (Chrono Trigger)_455"
+    21300912: "B\xE2timents du futur 1 (Chrono Trigger)_456"
+    21300914: "B\xE2timents du futur 1 (Chrono Trigger)_457"
+    21300916: "B\xE2timents du futur 1 (Chrono Trigger)_458"
+    21300918: "B\xE2timents du futur 1 (Chrono Trigger)_459"
+    21300920: "B\xE2timents du futur 1 (Chrono Trigger)_460"
+    21300922: "B\xE2timents du futur 1 (Chrono Trigger)_461"
+    21300924: "B\xE2timents du futur 1 (Chrono Trigger)_462"
+    21300926: "B\xE2timents du futur 1 (Chrono Trigger)_463"
+    21300928: "B\xE2timents du futur 1 (Chrono Trigger)_464"
+    21300930: "B\xE2timents du futur 1 (Chrono Trigger)_465"
+    21300932: "B\xE2timents du futur 1 (Chrono Trigger)_466"
+    21300934: "B\xE2timents du futur 1 (Chrono Trigger)_467"
+    21300936: "B\xE2timents du futur 1 (Chrono Trigger)_468"
+    21300938: "B\xE2timents du futur 1 (Chrono Trigger)_469"
+    21300940: "B\xE2timents du futur 1 (Chrono Trigger)_470"
+    21300942: "B\xE2timents du futur 1 (Chrono Trigger)_471"
+    21300944: "B\xE2timents du futur 1 (Chrono Trigger)_472"
+    21300946: "B\xE2timents du futur 1 (Chrono Trigger)_473"
+    21300948: "B\xE2timents du futur 1 (Chrono Trigger)_474"
+    21300950: "B\xE2timents du futur 1 (Chrono Trigger)_475"
+    21300952: "B\xE2timents du futur 1 (Chrono Trigger)_476"
+    21300954: "B\xE2timents du futur 1 (Chrono Trigger)_477"
+    21300956: "B\xE2timents du futur 1 (Chrono Trigger)_478"
+    21300958: "B\xE2timents du futur 1 (Chrono Trigger)_479"
+    21300960: "B\xE2timents du futur 1 (Chrono Trigger)_480"
+    21300962: "B\xE2timents du futur 1 (Chrono Trigger)_481"
+    21300964: "B\xE2timents du futur 1 (Chrono Trigger)_482"
+    21300966: "B\xE2timents du futur 1 (Chrono Trigger)_483"
+    21300968: "B\xE2timents du futur 1 (Chrono Trigger)_484"
+    21300970: "B\xE2timents du futur 1 (Chrono Trigger)_485"
+    21300972: "B\xE2timents du futur 1 (Chrono Trigger)_486"
+    21300974: "B\xE2timents du futur 1 (Chrono Trigger)_487"
+    21300976: "B\xE2timents du futur 1 (Chrono Trigger)_488"
+    21300978: "B\xE2timents du futur 1 (Chrono Trigger)_489"
+    21300980: "B\xE2timents du futur 1 (Chrono Trigger)_490"
+    21300982: "B\xE2timents du futur 1 (Chrono Trigger)_491"
+    21300984: "B\xE2timents du futur 1 (Chrono Trigger)_492"
+    21300986: "B\xE2timents du futur 1 (Chrono Trigger)_493"
+    21300988: "B\xE2timents du futur 1 (Chrono Trigger)_494"
+    21300990: "B\xE2timents du futur 1 (Chrono Trigger)_495"
+    21300992: "B\xE2timents du futur 1 (Chrono Trigger)_496"
+    21300994: "B\xE2timents du futur 1 (Chrono Trigger)_497"
+    21300996: "B\xE2timents du futur 1 (Chrono Trigger)_498"
+    21300998: "B\xE2timents du futur 1 (Chrono Trigger)_499"
+    21301000: "B\xE2timents du futur 1 (Chrono Trigger)_500"
+    21301002: "B\xE2timents du futur 1 (Chrono Trigger)_501"
+    21301004: "B\xE2timents du futur 1 (Chrono Trigger)_502"
+    21301006: "B\xE2timents du futur 1 (Chrono Trigger)_503"
+    21301008: "B\xE2timents du futur 1 (Chrono Trigger)_504"
+    21301010: "B\xE2timents du futur 1 (Chrono Trigger)_505"
+    21301012: "B\xE2timents du futur 1 (Chrono Trigger)_506"
+    21301014: "B\xE2timents du futur 1 (Chrono Trigger)_507"
+    21301016: "B\xE2timents du futur 1 (Chrono Trigger)_508"
+    21301018: "B\xE2timents du futur 1 (Chrono Trigger)_509"
+    21301020: "B\xE2timents du futur 1 (Chrono Trigger)_510"
+    21301022: "B\xE2timents du futur 1 (Chrono Trigger)_511"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_1"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_2"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_3"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_4"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_5"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_6"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_7"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_8"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_9"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_10"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_11"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_12"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_13"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_14"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_15"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 496
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_17"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_18"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_19"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_20"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_21"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_22"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_23"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_24"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_25"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_26"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_27"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_28"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_29"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_30"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_31"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_33"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_34"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_35"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_36"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_37"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_38"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_39"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_40"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_41"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_42"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_43"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_44"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_45"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_46"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_47"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 464
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_49"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_50"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_51"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_52"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_53"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_54"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_55"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_56"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_57"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_58"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_59"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_60"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_61"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_62"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_63"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_64"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_65"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_66"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_67"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_68"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_69"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_70"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_71"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_72"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_73"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_74"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_75"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_76"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_77"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_78"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_79"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_80"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_81"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_82"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_83"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_84"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_85"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_86"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_87"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_88"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_89"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_90"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_91"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_92"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_93"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_94"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_95"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 416
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_96"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_97"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_98"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_99"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_100"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_101"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_102"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_103"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_104"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_105"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_106"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_107"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_108"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_109"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_110"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_111"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_112"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_113"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_114"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_115"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_116"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_117"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_118"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_119"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_120"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_121"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_122"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_123"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_124"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_125"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_126"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_127"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_128"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_129"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_130"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_131"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_132"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_133"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_134"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_135"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_136"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_137"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_138"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_139"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_140"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_141"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_142"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_143"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_144"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_145"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_146"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_147"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_148"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_149"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_150"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_151"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_152"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_153"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_154"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_155"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_156"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_157"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_158"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_159"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_160"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_161"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_162"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_163"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_164"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_165"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_166"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_167"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_168"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_169"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_170"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_171"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_172"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_173"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_174"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_175"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_176"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_177"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_178"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_179"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_180"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_181"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_182"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_183"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_184"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_185"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_186"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_187"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_188"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_189"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_190"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_191"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_192"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_193"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_194"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_195"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_196"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_197"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_198"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_199"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_200"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_201"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_202"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_203"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_204"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_205"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_206"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_207"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_208"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_209"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_210"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_211"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_212"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_213"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_214"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_215"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_216"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_217"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_218"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_219"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_220"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_221"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_222"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_223"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_224"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_225"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_226"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_227"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_228"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_229"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_230"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_231"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_232"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_233"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_234"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_235"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_236"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_237"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_238"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_239"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_240"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_241"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_242"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_243"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_244"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_245"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_246"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_247"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_248"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_249"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_250"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_251"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_252"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_253"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_254"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_255"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_256"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_257"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_258"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_259"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_260"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_261"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_262"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_263"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_264"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_265"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_266"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_267"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_268"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_269"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_270"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_271"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_272"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_273"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_274"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_275"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_276"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_277"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_278"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_279"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_280"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_281"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_282"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_283"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_284"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_285"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_286"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_287"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_288"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_289"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_290"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_291"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_292"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_293"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_294"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_295"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_296"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_297"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_298"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_299"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_300"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_301"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_302"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_303"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_304"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_305"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_306"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_307"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_308"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_309"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_310"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_311"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_312"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_313"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_314"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_315"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_316"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_317"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_318"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_319"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_320"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_321"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_322"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_323"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_324"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_325"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_326"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_327"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_328"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_329"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_330"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_331"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_332"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_333"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_334"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_335"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_336"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_337"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_338"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_339"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_340"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_341"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_342"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_343"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_344"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_345"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_346"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_347"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_348"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_349"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_350"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_351"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_352"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_353"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_354"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_355"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_356"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_357"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_358"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_359"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_360"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_361"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_362"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_363"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_364"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_365"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_366"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_367"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_368"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_369"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_370"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_371"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_372"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_373"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_374"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_375"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_376"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_377"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_378"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_379"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_380"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_381"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_382"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_383"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_384"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_385"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_386"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_387"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_388"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_389"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_390"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_391"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_392"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_393"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_394"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_395"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_396"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_397"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_398"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_399"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_400"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_401"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_402"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_403"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_404"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_405"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_406"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_407"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_408"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_409"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_410"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_411"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_412"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_413"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_414"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_415"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_416"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_417"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_418"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_419"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_420"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_421"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_422"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_423"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_424"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_425"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_426"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_427"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_428"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_429"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_430"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_431"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_432"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_433"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_434"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_435"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_436"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_437"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_438"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_439"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_440"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_441"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_442"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_443"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_444"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_445"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_446"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_447"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_448"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_449"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_450"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_451"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_452"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_453"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_454"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_455"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_456"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_457"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_458"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_459"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_460"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_461"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_462"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_463"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_464"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_465"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_466"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_467"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_468"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_469"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_470"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_471"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_472"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_473"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_474"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_475"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_476"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_477"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_478"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_479"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_480"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_481"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_482"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_483"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_484"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_485"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_486"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_487"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_488"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_489"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_490"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_491"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_492"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_493"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_494"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_495"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_496"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_497"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_498"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_499"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_500"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_501"
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_502"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_503"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_504"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_505"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_506"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_507"
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_508"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_509"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_510"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "B\xE2timents du futur 1 (Chrono Trigger)_511"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

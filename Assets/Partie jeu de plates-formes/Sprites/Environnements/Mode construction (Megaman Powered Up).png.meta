@@ -1,0 +1,6823 @@
+fileFormatVersion: 2
+guid: 8c28ae117c82bcb49b58449789f89864
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mode construction (Megaman Powered Up)_0
+    21300002: Mode construction (Megaman Powered Up)_1
+    21300004: Mode construction (Megaman Powered Up)_2
+    21300006: Mode construction (Megaman Powered Up)_3
+    21300008: Mode construction (Megaman Powered Up)_4
+    21300010: Mode construction (Megaman Powered Up)_5
+    21300012: Mode construction (Megaman Powered Up)_6
+    21300014: Mode construction (Megaman Powered Up)_7
+    21300016: Mode construction (Megaman Powered Up)_8
+    21300018: Mode construction (Megaman Powered Up)_9
+    21300020: Mode construction (Megaman Powered Up)_10
+    21300022: Mode construction (Megaman Powered Up)_11
+    21300024: Mode construction (Megaman Powered Up)_12
+    21300026: Mode construction (Megaman Powered Up)_13
+    21300028: Mode construction (Megaman Powered Up)_14
+    21300030: Mode construction (Megaman Powered Up)_15
+    21300032: Mode construction (Megaman Powered Up)_16
+    21300034: Mode construction (Megaman Powered Up)_17
+    21300036: Mode construction (Megaman Powered Up)_18
+    21300038: Mode construction (Megaman Powered Up)_19
+    21300040: Mode construction (Megaman Powered Up)_20
+    21300042: Mode construction (Megaman Powered Up)_21
+    21300044: Mode construction (Megaman Powered Up)_22
+    21300046: Mode construction (Megaman Powered Up)_23
+    21300048: Mode construction (Megaman Powered Up)_24
+    21300050: Mode construction (Megaman Powered Up)_25
+    21300052: Mode construction (Megaman Powered Up)_26
+    21300054: Mode construction (Megaman Powered Up)_27
+    21300056: Mode construction (Megaman Powered Up)_28
+    21300058: Mode construction (Megaman Powered Up)_29
+    21300060: Mode construction (Megaman Powered Up)_30
+    21300062: Mode construction (Megaman Powered Up)_31
+    21300064: Mode construction (Megaman Powered Up)_32
+    21300066: Mode construction (Megaman Powered Up)_33
+    21300068: Mode construction (Megaman Powered Up)_34
+    21300070: Mode construction (Megaman Powered Up)_35
+    21300072: Mode construction (Megaman Powered Up)_36
+    21300074: Mode construction (Megaman Powered Up)_37
+    21300076: Mode construction (Megaman Powered Up)_38
+    21300078: Mode construction (Megaman Powered Up)_39
+    21300080: Mode construction (Megaman Powered Up)_40
+    21300082: Mode construction (Megaman Powered Up)_41
+    21300084: Mode construction (Megaman Powered Up)_42
+    21300086: Mode construction (Megaman Powered Up)_43
+    21300088: Mode construction (Megaman Powered Up)_44
+    21300090: Mode construction (Megaman Powered Up)_45
+    21300092: Mode construction (Megaman Powered Up)_46
+    21300094: Mode construction (Megaman Powered Up)_47
+    21300096: Mode construction (Megaman Powered Up)_48
+    21300098: Mode construction (Megaman Powered Up)_49
+    21300100: Mode construction (Megaman Powered Up)_50
+    21300102: Mode construction (Megaman Powered Up)_51
+    21300104: Mode construction (Megaman Powered Up)_52
+    21300106: Mode construction (Megaman Powered Up)_53
+    21300108: Mode construction (Megaman Powered Up)_54
+    21300110: Mode construction (Megaman Powered Up)_55
+    21300112: Mode construction (Megaman Powered Up)_56
+    21300114: Mode construction (Megaman Powered Up)_57
+    21300116: Mode construction (Megaman Powered Up)_58
+    21300118: Mode construction (Megaman Powered Up)_59
+    21300120: Mode construction (Megaman Powered Up)_60
+    21300122: Mode construction (Megaman Powered Up)_61
+    21300124: Mode construction (Megaman Powered Up)_62
+    21300126: Mode construction (Megaman Powered Up)_63
+    21300128: Mode construction (Megaman Powered Up)_64
+    21300130: Mode construction (Megaman Powered Up)_65
+    21300132: Mode construction (Megaman Powered Up)_66
+    21300134: Mode construction (Megaman Powered Up)_67
+    21300136: Mode construction (Megaman Powered Up)_68
+    21300138: Mode construction (Megaman Powered Up)_69
+    21300140: Mode construction (Megaman Powered Up)_70
+    21300142: Mode construction (Megaman Powered Up)_71
+    21300144: Mode construction (Megaman Powered Up)_72
+    21300146: Mode construction (Megaman Powered Up)_73
+    21300148: Mode construction (Megaman Powered Up)_74
+    21300150: Mode construction (Megaman Powered Up)_75
+    21300152: Mode construction (Megaman Powered Up)_76
+    21300154: Mode construction (Megaman Powered Up)_77
+    21300156: Mode construction (Megaman Powered Up)_78
+    21300158: Mode construction (Megaman Powered Up)_79
+    21300160: Mode construction (Megaman Powered Up)_80
+    21300162: Mode construction (Megaman Powered Up)_81
+    21300164: Mode construction (Megaman Powered Up)_82
+    21300166: Mode construction (Megaman Powered Up)_83
+    21300168: Mode construction (Megaman Powered Up)_84
+    21300170: Mode construction (Megaman Powered Up)_85
+    21300172: Mode construction (Megaman Powered Up)_86
+    21300174: Mode construction (Megaman Powered Up)_87
+    21300176: Mode construction (Megaman Powered Up)_88
+    21300178: Mode construction (Megaman Powered Up)_89
+    21300180: Mode construction (Megaman Powered Up)_90
+    21300182: Mode construction (Megaman Powered Up)_91
+    21300184: Mode construction (Megaman Powered Up)_92
+    21300186: Mode construction (Megaman Powered Up)_93
+    21300188: Mode construction (Megaman Powered Up)_94
+    21300190: Mode construction (Megaman Powered Up)_95
+    21300192: Mode construction (Megaman Powered Up)_96
+    21300194: Mode construction (Megaman Powered Up)_97
+    21300196: Mode construction (Megaman Powered Up)_98
+    21300198: Mode construction (Megaman Powered Up)_99
+    21300200: Mode construction (Megaman Powered Up)_100
+    21300202: Mode construction (Megaman Powered Up)_101
+    21300204: Mode construction (Megaman Powered Up)_102
+    21300206: Mode construction (Megaman Powered Up)_103
+    21300208: Mode construction (Megaman Powered Up)_104
+    21300210: Mode construction (Megaman Powered Up)_105
+    21300212: Mode construction (Megaman Powered Up)_106
+    21300214: Mode construction (Megaman Powered Up)_107
+    21300216: Mode construction (Megaman Powered Up)_108
+    21300218: Mode construction (Megaman Powered Up)_109
+    21300220: Mode construction (Megaman Powered Up)_110
+    21300222: Mode construction (Megaman Powered Up)_111
+    21300224: Mode construction (Megaman Powered Up)_112
+    21300226: Mode construction (Megaman Powered Up)_113
+    21300228: Mode construction (Megaman Powered Up)_114
+    21300230: Mode construction (Megaman Powered Up)_115
+    21300232: Mode construction (Megaman Powered Up)_116
+    21300234: Mode construction (Megaman Powered Up)_117
+    21300236: Mode construction (Megaman Powered Up)_118
+    21300238: Mode construction (Megaman Powered Up)_119
+    21300240: Mode construction (Megaman Powered Up)_120
+    21300242: Mode construction (Megaman Powered Up)_121
+    21300244: Mode construction (Megaman Powered Up)_122
+    21300246: Mode construction (Megaman Powered Up)_123
+    21300248: Mode construction (Megaman Powered Up)_124
+    21300250: Mode construction (Megaman Powered Up)_125
+    21300252: Mode construction (Megaman Powered Up)_126
+    21300254: Mode construction (Megaman Powered Up)_127
+    21300256: Mode construction (Megaman Powered Up)_128
+    21300258: Mode construction (Megaman Powered Up)_129
+    21300260: Mode construction (Megaman Powered Up)_130
+    21300262: Mode construction (Megaman Powered Up)_131
+    21300264: Mode construction (Megaman Powered Up)_132
+    21300266: Mode construction (Megaman Powered Up)_133
+    21300268: Mode construction (Megaman Powered Up)_134
+    21300270: Mode construction (Megaman Powered Up)_135
+    21300272: Mode construction (Megaman Powered Up)_136
+    21300274: Mode construction (Megaman Powered Up)_137
+    21300276: Mode construction (Megaman Powered Up)_138
+    21300278: Mode construction (Megaman Powered Up)_139
+    21300280: Mode construction (Megaman Powered Up)_140
+    21300282: Mode construction (Megaman Powered Up)_141
+    21300284: Mode construction (Megaman Powered Up)_142
+    21300286: Mode construction (Megaman Powered Up)_143
+    21300288: Mode construction (Megaman Powered Up)_144
+    21300290: Mode construction (Megaman Powered Up)_145
+    21300292: Mode construction (Megaman Powered Up)_146
+    21300294: Mode construction (Megaman Powered Up)_147
+    21300296: Mode construction (Megaman Powered Up)_148
+    21300298: Mode construction (Megaman Powered Up)_149
+    21300300: Mode construction (Megaman Powered Up)_150
+    21300302: Mode construction (Megaman Powered Up)_151
+    21300304: Mode construction (Megaman Powered Up)_152
+    21300306: Mode construction (Megaman Powered Up)_153
+    21300308: Mode construction (Megaman Powered Up)_154
+    21300310: Mode construction (Megaman Powered Up)_155
+    21300312: Mode construction (Megaman Powered Up)_156
+    21300314: Mode construction (Megaman Powered Up)_157
+    21300316: Mode construction (Megaman Powered Up)_158
+    21300318: Mode construction (Megaman Powered Up)_159
+    21300320: Mode construction (Megaman Powered Up)_160
+    21300322: Mode construction (Megaman Powered Up)_161
+    21300324: Mode construction (Megaman Powered Up)_162
+    21300326: Mode construction (Megaman Powered Up)_163
+    21300328: Mode construction (Megaman Powered Up)_164
+    21300330: Mode construction (Megaman Powered Up)_165
+    21300332: Mode construction (Megaman Powered Up)_166
+    21300334: Mode construction (Megaman Powered Up)_167
+    21300336: Mode construction (Megaman Powered Up)_168
+    21300338: Mode construction (Megaman Powered Up)_169
+    21300340: Mode construction (Megaman Powered Up)_170
+    21300342: Mode construction (Megaman Powered Up)_171
+    21300344: Mode construction (Megaman Powered Up)_172
+    21300346: Mode construction (Megaman Powered Up)_173
+    21300348: Mode construction (Megaman Powered Up)_174
+    21300350: Mode construction (Megaman Powered Up)_175
+    21300352: Mode construction (Megaman Powered Up)_176
+    21300354: Mode construction (Megaman Powered Up)_177
+    21300356: Mode construction (Megaman Powered Up)_178
+    21300358: Mode construction (Megaman Powered Up)_179
+    21300360: Mode construction (Megaman Powered Up)_180
+    21300362: Mode construction (Megaman Powered Up)_181
+    21300364: Mode construction (Megaman Powered Up)_182
+    21300366: Mode construction (Megaman Powered Up)_183
+    21300368: Mode construction (Megaman Powered Up)_184
+    21300370: Mode construction (Megaman Powered Up)_185
+    21300372: Mode construction (Megaman Powered Up)_186
+    21300374: Mode construction (Megaman Powered Up)_187
+    21300376: Mode construction (Megaman Powered Up)_188
+    21300378: Mode construction (Megaman Powered Up)_189
+    21300380: Mode construction (Megaman Powered Up)_190
+    21300382: Mode construction (Megaman Powered Up)_191
+    21300384: Mode construction (Megaman Powered Up)_192
+    21300386: Mode construction (Megaman Powered Up)_193
+    21300388: Mode construction (Megaman Powered Up)_194
+    21300390: Mode construction (Megaman Powered Up)_195
+    21300392: Mode construction (Megaman Powered Up)_196
+    21300394: Mode construction (Megaman Powered Up)_197
+    21300396: Mode construction (Megaman Powered Up)_198
+    21300398: Mode construction (Megaman Powered Up)_199
+    21300400: Mode construction (Megaman Powered Up)_200
+    21300402: Mode construction (Megaman Powered Up)_201
+    21300404: Mode construction (Megaman Powered Up)_202
+    21300406: Mode construction (Megaman Powered Up)_203
+    21300408: Mode construction (Megaman Powered Up)_204
+    21300410: Mode construction (Megaman Powered Up)_205
+    21300412: Mode construction (Megaman Powered Up)_206
+    21300414: Mode construction (Megaman Powered Up)_207
+    21300416: Mode construction (Megaman Powered Up)_208
+    21300418: Mode construction (Megaman Powered Up)_209
+    21300420: Mode construction (Megaman Powered Up)_210
+    21300422: Mode construction (Megaman Powered Up)_211
+    21300424: Mode construction (Megaman Powered Up)_212
+    21300426: Mode construction (Megaman Powered Up)_213
+    21300428: Mode construction (Megaman Powered Up)_214
+    21300430: Mode construction (Megaman Powered Up)_215
+    21300432: Mode construction (Megaman Powered Up)_216
+    21300434: Mode construction (Megaman Powered Up)_217
+    21300436: Mode construction (Megaman Powered Up)_218
+    21300438: Mode construction (Megaman Powered Up)_219
+    21300440: Mode construction (Megaman Powered Up)_220
+    21300442: Mode construction (Megaman Powered Up)_221
+    21300444: Mode construction (Megaman Powered Up)_222
+    21300446: Mode construction (Megaman Powered Up)_223
+    21300448: Mode construction (Megaman Powered Up)_224
+    21300450: Mode construction (Megaman Powered Up)_225
+    21300452: Mode construction (Megaman Powered Up)_226
+    21300454: Mode construction (Megaman Powered Up)_227
+    21300456: Mode construction (Megaman Powered Up)_228
+    21300458: Mode construction (Megaman Powered Up)_229
+    21300460: Mode construction (Megaman Powered Up)_230
+    21300462: Mode construction (Megaman Powered Up)_231
+    21300464: Mode construction (Megaman Powered Up)_232
+    21300466: Mode construction (Megaman Powered Up)_233
+    21300468: Mode construction (Megaman Powered Up)_234
+    21300470: Mode construction (Megaman Powered Up)_235
+    21300472: Mode construction (Megaman Powered Up)_236
+    21300474: Mode construction (Megaman Powered Up)_237
+    21300476: Mode construction (Megaman Powered Up)_238
+    21300478: Mode construction (Megaman Powered Up)_239
+    21300480: Mode construction (Megaman Powered Up)_240
+    21300482: Mode construction (Megaman Powered Up)_241
+    21300484: Mode construction (Megaman Powered Up)_242
+    21300486: Mode construction (Megaman Powered Up)_243
+    21300488: Mode construction (Megaman Powered Up)_244
+    21300490: Mode construction (Megaman Powered Up)_245
+    21300492: Mode construction (Megaman Powered Up)_246
+    21300494: Mode construction (Megaman Powered Up)_247
+    21300496: Mode construction (Megaman Powered Up)_248
+    21300498: Mode construction (Megaman Powered Up)_249
+    21300500: Mode construction (Megaman Powered Up)_250
+    21300502: Mode construction (Megaman Powered Up)_251
+    21300504: Mode construction (Megaman Powered Up)_252
+    21300506: Mode construction (Megaman Powered Up)_253
+    21300508: Mode construction (Megaman Powered Up)_254
+    21300510: Mode construction (Megaman Powered Up)_255
+    21300512: Mode construction (Megaman Powered Up)_256
+    21300514: Mode construction (Megaman Powered Up)_257
+    21300516: Mode construction (Megaman Powered Up)_258
+    21300518: Mode construction (Megaman Powered Up)_259
+    21300520: Mode construction (Megaman Powered Up)_260
+    21300522: Mode construction (Megaman Powered Up)_261
+    21300524: Mode construction (Megaman Powered Up)_262
+    21300526: Mode construction (Megaman Powered Up)_263
+    21300528: Mode construction (Megaman Powered Up)_264
+    21300530: Mode construction (Megaman Powered Up)_265
+    21300532: Mode construction (Megaman Powered Up)_266
+    21300534: Mode construction (Megaman Powered Up)_267
+    21300536: Mode construction (Megaman Powered Up)_268
+    21300538: Mode construction (Megaman Powered Up)_269
+    21300540: Mode construction (Megaman Powered Up)_270
+    21300542: Mode construction (Megaman Powered Up)_271
+    21300544: Mode construction (Megaman Powered Up)_272
+    21300546: Mode construction (Megaman Powered Up)_273
+    21300548: Mode construction (Megaman Powered Up)_274
+    21300550: Mode construction (Megaman Powered Up)_275
+    21300552: Mode construction (Megaman Powered Up)_276
+    21300554: Mode construction (Megaman Powered Up)_277
+    21300556: Mode construction (Megaman Powered Up)_278
+    21300558: Mode construction (Megaman Powered Up)_279
+    21300560: Mode construction (Megaman Powered Up)_280
+    21300562: Mode construction (Megaman Powered Up)_281
+    21300564: Mode construction (Megaman Powered Up)_282
+    21300566: Mode construction (Megaman Powered Up)_283
+    21300568: Mode construction (Megaman Powered Up)_284
+    21300570: Mode construction (Megaman Powered Up)_285
+    21300572: Mode construction (Megaman Powered Up)_286
+    21300574: Mode construction (Megaman Powered Up)_287
+    21300576: Mode construction (Megaman Powered Up)_288
+    21300578: Mode construction (Megaman Powered Up)_289
+    21300580: Mode construction (Megaman Powered Up)_290
+    21300582: Mode construction (Megaman Powered Up)_291
+    21300584: Mode construction (Megaman Powered Up)_292
+    21300586: Mode construction (Megaman Powered Up)_293
+    21300588: Mode construction (Megaman Powered Up)_294
+    21300590: Mode construction (Megaman Powered Up)_295
+    21300592: Mode construction (Megaman Powered Up)_296
+    21300594: Mode construction (Megaman Powered Up)_297
+    21300596: Mode construction (Megaman Powered Up)_298
+    21300598: Mode construction (Megaman Powered Up)_299
+    21300600: Mode construction (Megaman Powered Up)_300
+    21300602: Mode construction (Megaman Powered Up)_301
+    21300604: Mode construction (Megaman Powered Up)_302
+    21300606: Mode construction (Megaman Powered Up)_303
+    21300608: Mode construction (Megaman Powered Up)_304
+    21300610: Mode construction (Megaman Powered Up)_305
+    21300612: Mode construction (Megaman Powered Up)_306
+    21300614: Mode construction (Megaman Powered Up)_307
+    21300616: Mode construction (Megaman Powered Up)_308
+    21300618: Mode construction (Megaman Powered Up)_309
+    21300620: Mode construction (Megaman Powered Up)_310
+    21300622: Mode construction (Megaman Powered Up)_311
+    21300624: Mode construction (Megaman Powered Up)_312
+    21300626: Mode construction (Megaman Powered Up)_313
+    21300628: Mode construction (Megaman Powered Up)_314
+    21300630: Mode construction (Megaman Powered Up)_315
+    21300632: Mode construction (Megaman Powered Up)_316
+    21300634: Mode construction (Megaman Powered Up)_317
+    21300636: Mode construction (Megaman Powered Up)_318
+    21300638: Mode construction (Megaman Powered Up)_319
+    21300640: Mode construction (Megaman Powered Up)_320
+    21300642: Mode construction (Megaman Powered Up)_321
+    21300644: Mode construction (Megaman Powered Up)_322
+    21300646: Mode construction (Megaman Powered Up)_323
+    21300648: Mode construction (Megaman Powered Up)_324
+    21300650: Mode construction (Megaman Powered Up)_325
+    21300652: Mode construction (Megaman Powered Up)_326
+    21300654: Mode construction (Megaman Powered Up)_327
+    21300656: Mode construction (Megaman Powered Up)_328
+    21300658: Mode construction (Megaman Powered Up)_329
+    21300660: Mode construction (Megaman Powered Up)_330
+    21300662: Mode construction (Megaman Powered Up)_331
+    21300664: Mode construction (Megaman Powered Up)_332
+    21300666: Mode construction (Megaman Powered Up)_333
+    21300668: Mode construction (Megaman Powered Up)_334
+    21300670: Mode construction (Megaman Powered Up)_335
+    21300672: Mode construction (Megaman Powered Up)_336
+    21300674: Mode construction (Megaman Powered Up)_337
+    21300676: Mode construction (Megaman Powered Up)_338
+    21300678: Mode construction (Megaman Powered Up)_339
+    21300680: Mode construction (Megaman Powered Up)_340
+    21300682: Mode construction (Megaman Powered Up)_341
+    21300684: Mode construction (Megaman Powered Up)_342
+    21300686: Mode construction (Megaman Powered Up)_343
+    21300688: Mode construction (Megaman Powered Up)_344
+    21300690: Mode construction (Megaman Powered Up)_345
+    21300692: Mode construction (Megaman Powered Up)_346
+    21300694: Mode construction (Megaman Powered Up)_347
+    21300696: Mode construction (Megaman Powered Up)_348
+    21300698: Mode construction (Megaman Powered Up)_349
+    21300700: Mode construction (Megaman Powered Up)_350
+    21300702: Mode construction (Megaman Powered Up)_351
+    21300704: Mode construction (Megaman Powered Up)_352
+    21300706: Mode construction (Megaman Powered Up)_353
+    21300708: Mode construction (Megaman Powered Up)_354
+    21300710: Mode construction (Megaman Powered Up)_355
+    21300712: Mode construction (Megaman Powered Up)_356
+    21300714: Mode construction (Megaman Powered Up)_357
+    21300716: Mode construction (Megaman Powered Up)_358
+    21300718: Mode construction (Megaman Powered Up)_359
+    21300720: Mode construction (Megaman Powered Up)_360
+    21300722: Mode construction (Megaman Powered Up)_361
+    21300724: Mode construction (Megaman Powered Up)_362
+    21300726: Mode construction (Megaman Powered Up)_363
+    21300728: Mode construction (Megaman Powered Up)_364
+    21300730: Mode construction (Megaman Powered Up)_365
+    21300732: Mode construction (Megaman Powered Up)_366
+    21300734: Mode construction (Megaman Powered Up)_367
+    21300736: Mode construction (Megaman Powered Up)_368
+    21300738: Mode construction (Megaman Powered Up)_369
+    21300740: Mode construction (Megaman Powered Up)_370
+    21300742: Mode construction (Megaman Powered Up)_371
+    21300744: Mode construction (Megaman Powered Up)_372
+    21300746: Mode construction (Megaman Powered Up)_373
+    21300748: Mode construction (Megaman Powered Up)_374
+    21300750: Mode construction (Megaman Powered Up)_375
+    21300752: Mode construction (Megaman Powered Up)_376
+    21300754: Mode construction (Megaman Powered Up)_377
+    21300756: Mode construction (Megaman Powered Up)_378
+    21300758: Mode construction (Megaman Powered Up)_379
+    21300760: Mode construction (Megaman Powered Up)_380
+    21300762: Mode construction (Megaman Powered Up)_381
+    21300764: Mode construction (Megaman Powered Up)_382
+    21300766: Mode construction (Megaman Powered Up)_383
+    21300768: Mode construction (Megaman Powered Up)_384
+    21300770: Mode construction (Megaman Powered Up)_385
+    21300772: Mode construction (Megaman Powered Up)_386
+    21300774: Mode construction (Megaman Powered Up)_387
+    21300776: Mode construction (Megaman Powered Up)_388
+    21300778: Mode construction (Megaman Powered Up)_389
+    21300780: Mode construction (Megaman Powered Up)_390
+    21300782: Mode construction (Megaman Powered Up)_391
+    21300784: Mode construction (Megaman Powered Up)_392
+    21300786: Mode construction (Megaman Powered Up)_393
+    21300788: Mode construction (Megaman Powered Up)_394
+    21300790: Mode construction (Megaman Powered Up)_395
+    21300792: Mode construction (Megaman Powered Up)_396
+    21300794: Mode construction (Megaman Powered Up)_397
+    21300796: Mode construction (Megaman Powered Up)_398
+    21300798: Mode construction (Megaman Powered Up)_399
+    21300800: Mode construction (Megaman Powered Up)_400
+    21300802: Mode construction (Megaman Powered Up)_401
+    21300804: Mode construction (Megaman Powered Up)_402
+    21300806: Mode construction (Megaman Powered Up)_403
+    21300808: Mode construction (Megaman Powered Up)_404
+    21300810: Mode construction (Megaman Powered Up)_405
+    21300812: Mode construction (Megaman Powered Up)_406
+    21300814: Mode construction (Megaman Powered Up)_407
+    21300816: Mode construction (Megaman Powered Up)_408
+    21300818: Mode construction (Megaman Powered Up)_409
+    21300820: Mode construction (Megaman Powered Up)_410
+    21300822: Mode construction (Megaman Powered Up)_411
+    21300824: Mode construction (Megaman Powered Up)_412
+    21300826: Mode construction (Megaman Powered Up)_413
+    21300828: Mode construction (Megaman Powered Up)_414
+    21300830: Mode construction (Megaman Powered Up)_415
+    21300832: Mode construction (Megaman Powered Up)_416
+    21300834: Mode construction (Megaman Powered Up)_417
+    21300836: Mode construction (Megaman Powered Up)_418
+    21300838: Mode construction (Megaman Powered Up)_419
+    21300840: Mode construction (Megaman Powered Up)_420
+    21300842: Mode construction (Megaman Powered Up)_421
+    21300844: Mode construction (Megaman Powered Up)_422
+    21300846: Mode construction (Megaman Powered Up)_423
+    21300848: Mode construction (Megaman Powered Up)_424
+    21300850: Mode construction (Megaman Powered Up)_425
+    21300852: Mode construction (Megaman Powered Up)_426
+    21300854: Mode construction (Megaman Powered Up)_427
+    21300856: Mode construction (Megaman Powered Up)_428
+    21300858: Mode construction (Megaman Powered Up)_429
+    21300860: Mode construction (Megaman Powered Up)_430
+    21300862: Mode construction (Megaman Powered Up)_431
+    21300864: Mode construction (Megaman Powered Up)_432
+    21300866: Mode construction (Megaman Powered Up)_433
+    21300868: Mode construction (Megaman Powered Up)_434
+    21300870: Mode construction (Megaman Powered Up)_435
+    21300872: Mode construction (Megaman Powered Up)_436
+    21300874: Mode construction (Megaman Powered Up)_437
+    21300876: Mode construction (Megaman Powered Up)_438
+    21300878: Mode construction (Megaman Powered Up)_439
+    21300880: Mode construction (Megaman Powered Up)_440
+    21300882: Mode construction (Megaman Powered Up)_441
+    21300884: Mode construction (Megaman Powered Up)_442
+    21300886: Mode construction (Megaman Powered Up)_443
+    21300888: Mode construction (Megaman Powered Up)_444
+    21300890: Mode construction (Megaman Powered Up)_445
+    21300892: Mode construction (Megaman Powered Up)_446
+    21300894: Mode construction (Megaman Powered Up)_447
+    21300896: Mode construction (Megaman Powered Up)_448
+    21300898: Mode construction (Megaman Powered Up)_449
+    21300900: Mode construction (Megaman Powered Up)_450
+    21300902: Mode construction (Megaman Powered Up)_451
+    21300904: Mode construction (Megaman Powered Up)_452
+    21300906: Mode construction (Megaman Powered Up)_453
+    21300908: Mode construction (Megaman Powered Up)_454
+    21300910: Mode construction (Megaman Powered Up)_455
+    21300912: Mode construction (Megaman Powered Up)_456
+    21300914: Mode construction (Megaman Powered Up)_457
+    21300916: Mode construction (Megaman Powered Up)_458
+    21300918: Mode construction (Megaman Powered Up)_459
+    21300920: Mode construction (Megaman Powered Up)_460
+    21300922: Mode construction (Megaman Powered Up)_461
+    21300924: Mode construction (Megaman Powered Up)_462
+    21300926: Mode construction (Megaman Powered Up)_463
+    21300928: Mode construction (Megaman Powered Up)_464
+    21300930: Mode construction (Megaman Powered Up)_465
+    21300932: Mode construction (Megaman Powered Up)_466
+    21300934: Mode construction (Megaman Powered Up)_467
+    21300936: Mode construction (Megaman Powered Up)_468
+    21300938: Mode construction (Megaman Powered Up)_469
+    21300940: Mode construction (Megaman Powered Up)_470
+    21300942: Mode construction (Megaman Powered Up)_471
+    21300944: Mode construction (Megaman Powered Up)_472
+    21300946: Mode construction (Megaman Powered Up)_473
+    21300948: Mode construction (Megaman Powered Up)_474
+    21300950: Mode construction (Megaman Powered Up)_475
+    21300952: Mode construction (Megaman Powered Up)_476
+    21300954: Mode construction (Megaman Powered Up)_477
+    21300956: Mode construction (Megaman Powered Up)_478
+    21300958: Mode construction (Megaman Powered Up)_479
+    21300960: Mode construction (Megaman Powered Up)_480
+    21300962: Mode construction (Megaman Powered Up)_481
+    21300964: Mode construction (Megaman Powered Up)_482
+    21300966: Mode construction (Megaman Powered Up)_483
+    21300968: Mode construction (Megaman Powered Up)_484
+    21300970: Mode construction (Megaman Powered Up)_485
+    21300972: Mode construction (Megaman Powered Up)_486
+    21300974: Mode construction (Megaman Powered Up)_487
+    21300976: Mode construction (Megaman Powered Up)_488
+    21300978: Mode construction (Megaman Powered Up)_489
+    21300980: Mode construction (Megaman Powered Up)_490
+    21300982: Mode construction (Megaman Powered Up)_491
+    21300984: Mode construction (Megaman Powered Up)_492
+    21300986: Mode construction (Megaman Powered Up)_493
+    21300988: Mode construction (Megaman Powered Up)_494
+    21300990: Mode construction (Megaman Powered Up)_495
+    21300992: Mode construction (Megaman Powered Up)_496
+    21300994: Mode construction (Megaman Powered Up)_497
+    21300996: Mode construction (Megaman Powered Up)_498
+    21300998: Mode construction (Megaman Powered Up)_499
+    21301000: Mode construction (Megaman Powered Up)_500
+    21301002: Mode construction (Megaman Powered Up)_501
+    21301004: Mode construction (Megaman Powered Up)_502
+    21301006: Mode construction (Megaman Powered Up)_503
+    21301008: Mode construction (Megaman Powered Up)_504
+    21301010: Mode construction (Megaman Powered Up)_505
+    21301012: Mode construction (Megaman Powered Up)_506
+    21301014: Mode construction (Megaman Powered Up)_507
+    21301016: Mode construction (Megaman Powered Up)_508
+    21301018: Mode construction (Megaman Powered Up)_509
+    21301020: Mode construction (Megaman Powered Up)_510
+    21301022: Mode construction (Megaman Powered Up)_511
+    21301024: Mode construction (Megaman Powered Up)_512
+    21301026: Mode construction (Megaman Powered Up)_513
+    21301028: Mode construction (Megaman Powered Up)_514
+    21301030: Mode construction (Megaman Powered Up)_515
+    21301032: Mode construction (Megaman Powered Up)_516
+    21301034: Mode construction (Megaman Powered Up)_517
+    21301036: Mode construction (Megaman Powered Up)_518
+    21301038: Mode construction (Megaman Powered Up)_519
+    21301040: Mode construction (Megaman Powered Up)_520
+    21301042: Mode construction (Megaman Powered Up)_521
+    21301044: Mode construction (Megaman Powered Up)_522
+    21301046: Mode construction (Megaman Powered Up)_523
+    21301048: Mode construction (Megaman Powered Up)_524
+    21301050: Mode construction (Megaman Powered Up)_525
+    21301052: Mode construction (Megaman Powered Up)_526
+    21301054: Mode construction (Megaman Powered Up)_527
+    21301056: Mode construction (Megaman Powered Up)_528
+    21301058: Mode construction (Megaman Powered Up)_529
+    21301060: Mode construction (Megaman Powered Up)_530
+    21301062: Mode construction (Megaman Powered Up)_531
+    21301064: Mode construction (Megaman Powered Up)_532
+    21301066: Mode construction (Megaman Powered Up)_533
+    21301068: Mode construction (Megaman Powered Up)_534
+    21301070: Mode construction (Megaman Powered Up)_535
+    21301072: Mode construction (Megaman Powered Up)_536
+    21301074: Mode construction (Megaman Powered Up)_537
+    21301076: Mode construction (Megaman Powered Up)_538
+    21301078: Mode construction (Megaman Powered Up)_539
+    21301080: Mode construction (Megaman Powered Up)_540
+    21301082: Mode construction (Megaman Powered Up)_541
+    21301084: Mode construction (Megaman Powered Up)_542
+    21301086: Mode construction (Megaman Powered Up)_543
+    21301088: Mode construction (Megaman Powered Up)_544
+    21301090: Mode construction (Megaman Powered Up)_545
+    21301092: Mode construction (Megaman Powered Up)_546
+    21301094: Mode construction (Megaman Powered Up)_547
+    21301096: Mode construction (Megaman Powered Up)_548
+    21301098: Mode construction (Megaman Powered Up)_549
+    21301100: Mode construction (Megaman Powered Up)_550
+    21301102: Mode construction (Megaman Powered Up)_551
+    21301104: Mode construction (Megaman Powered Up)_552
+    21301106: Mode construction (Megaman Powered Up)_553
+    21301108: Mode construction (Megaman Powered Up)_554
+    21301110: Mode construction (Megaman Powered Up)_555
+    21301112: Mode construction (Megaman Powered Up)_556
+    21301114: Mode construction (Megaman Powered Up)_557
+    21301116: Mode construction (Megaman Powered Up)_558
+    21301118: Mode construction (Megaman Powered Up)_559
+    21301120: Mode construction (Megaman Powered Up)_560
+    21301122: Mode construction (Megaman Powered Up)_561
+    21301124: Mode construction (Megaman Powered Up)_562
+    21301126: Mode construction (Megaman Powered Up)_563
+    21301128: Mode construction (Megaman Powered Up)_564
+    21301130: Mode construction (Megaman Powered Up)_565
+    21301132: Mode construction (Megaman Powered Up)_566
+    21301134: Mode construction (Megaman Powered Up)_567
+    21301136: Mode construction (Megaman Powered Up)_568
+    21301138: Mode construction (Megaman Powered Up)_569
+    21301140: Mode construction (Megaman Powered Up)_570
+    21301142: Mode construction (Megaman Powered Up)_571
+    21301144: Mode construction (Megaman Powered Up)_572
+    21301146: Mode construction (Megaman Powered Up)_573
+    21301148: Mode construction (Megaman Powered Up)_574
+    21301150: Mode construction (Megaman Powered Up)_575
+    21301152: Mode construction (Megaman Powered Up)_576
+    21301154: Mode construction (Megaman Powered Up)_577
+    21301156: Mode construction (Megaman Powered Up)_578
+    21301158: Mode construction (Megaman Powered Up)_579
+    21301160: Mode construction (Megaman Powered Up)_580
+    21301162: Mode construction (Megaman Powered Up)_581
+    21301164: Mode construction (Megaman Powered Up)_582
+    21301166: Mode construction (Megaman Powered Up)_583
+    21301168: Mode construction (Megaman Powered Up)_584
+    21301170: Mode construction (Megaman Powered Up)_585
+    21301172: Mode construction (Megaman Powered Up)_586
+    21301174: Mode construction (Megaman Powered Up)_587
+    21301176: Mode construction (Megaman Powered Up)_588
+    21301178: Mode construction (Megaman Powered Up)_589
+    21301180: Mode construction (Megaman Powered Up)_590
+    21301182: Mode construction (Megaman Powered Up)_591
+    21301184: Mode construction (Megaman Powered Up)_592
+    21301186: Mode construction (Megaman Powered Up)_593
+    21301188: Mode construction (Megaman Powered Up)_594
+    21301190: Mode construction (Megaman Powered Up)_595
+    21301192: Mode construction (Megaman Powered Up)_596
+    21301194: Mode construction (Megaman Powered Up)_597
+    21301196: Mode construction (Megaman Powered Up)_598
+    21301198: Mode construction (Megaman Powered Up)_599
+    21301200: Mode construction (Megaman Powered Up)_600
+    21301202: Mode construction (Megaman Powered Up)_601
+    21301204: Mode construction (Megaman Powered Up)_602
+    21301206: Mode construction (Megaman Powered Up)_603
+    21301208: Mode construction (Megaman Powered Up)_604
+    21301210: Mode construction (Megaman Powered Up)_605
+    21301212: Mode construction (Megaman Powered Up)_606
+    21301214: Mode construction (Megaman Powered Up)_607
+    21301216: Mode construction (Megaman Powered Up)_608
+    21301218: Mode construction (Megaman Powered Up)_609
+    21301220: Mode construction (Megaman Powered Up)_610
+    21301222: Mode construction (Megaman Powered Up)_611
+    21301224: Mode construction (Megaman Powered Up)_612
+    21301226: Mode construction (Megaman Powered Up)_613
+    21301228: Mode construction (Megaman Powered Up)_614
+    21301230: Mode construction (Megaman Powered Up)_615
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Mode construction (Megaman Powered Up)_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 930
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_15
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_16
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_17
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 929
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 929
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_21
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 929
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_22
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 929
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_23
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 929
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_31
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_34
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_35
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_37
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_38
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_39
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_40
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_41
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 897
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_42
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 897
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_43
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 897
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_44
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 897
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_52
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_53
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_54
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_55
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_56
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_57
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_58
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_59
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_60
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 865
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_61
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 867
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_62
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 877
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_63
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 867
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_64
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 877
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_65
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_67
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 833
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_72
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_73
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_74
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_75
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_76
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_77
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 833
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_78
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 833
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_79
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 835
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_80
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 835
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_81
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 835
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_82
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 835
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_83
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_84
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_85
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_86
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_88
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_89
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_90
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_91
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_92
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_93
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_94
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 801
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_95
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_96
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_98
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_100
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_101
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_102
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 769
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_103
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_104
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 769
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_105
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_106
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_107
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_108
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_109
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_110
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 769
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_111
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 769
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_112
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 769
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_113
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 783
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_114
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 769
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_115
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 786
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_116
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 769
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_117
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 773
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_118
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 769
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_121
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_122
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_123
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_124
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_125
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_126
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 737
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_127
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_128
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_129
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_130
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_131
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_132
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_133
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_134
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_135
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 737
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_136
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 737
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_137
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 737
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_138
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 737
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_139
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 737
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_140
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_141
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_142
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_143
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_144
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_145
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_146
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_147
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 706
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_148
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_149
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_150
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_151
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_152
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_153
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_154
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_155
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_156
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 706
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_157
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 705
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_158
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 711
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_159
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 705
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_160
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 708
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_161
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_162
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_163
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_164
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_165
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_166
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_167
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 673
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_168
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_169
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_170
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_171
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_172
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_173
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 673
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_174
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 673
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_175
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 673
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_176
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 675
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_177
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 677
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_178
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 674
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_179
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_180
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_181
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_182
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_183
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_184
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_185
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_186
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_187
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_188
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_189
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_190
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 641
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_191
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_192
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_193
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_194
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_195
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_196
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_197
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_198
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 609
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_199
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 609
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_200
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 609
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_201
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 609
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_202
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 609
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_203
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_204
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_205
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_206
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_207
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_208
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_209
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 609
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_210
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 609
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_211
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 609
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_212
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 609
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_213
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 609
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_214
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 609
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_215
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_216
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_217
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_218
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_219
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_220
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_221
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_222
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 577
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_223
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 577
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_224
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 577
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_225
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_226
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_227
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_228
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_229
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_230
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_231
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_232
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_233
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_234
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 577
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_235
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 577
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_236
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 577
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_237
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 577
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_238
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 577
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_239
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_240
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_241
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_242
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_243
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_244
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_245
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_246
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 546
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_247
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 545
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_248
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 545
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_249
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_250
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_251
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_252
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_253
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_254
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_255
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_256
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_257
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 545
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_258
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 546
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_259
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 547
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_260
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 547
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_261
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 555
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_262
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 547
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_263
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_264
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_265
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_266
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_267
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_268
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_269
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 513
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_270
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 513
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_271
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 513
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_272
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 513
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_273
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 513
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_274
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_275
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_276
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_277
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_278
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_279
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 513
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_280
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 513
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_281
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 517
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_282
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 516
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_283
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 517
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_284
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 516
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_285
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_286
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_287
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_288
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_289
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_290
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_291
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_292
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_293
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_294
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_295
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_296
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_297
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 450
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_298
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_299
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_300
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_301
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_302
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_303
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_304
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 449
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_305
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 449
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_306
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 449
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_307
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 449
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_308
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 449
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_309
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_310
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_311
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_312
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_313
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_314
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_315
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_316
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 449
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_317
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 449
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_318
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_319
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_320
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_321
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_322
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_323
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_324
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_325
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_326
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_327
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_328
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 417
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_329
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 417
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_330
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 417
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_331
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_332
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 417
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_333
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_334
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_335
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_336
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_337
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_338
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_339
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_340
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 417
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_341
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_342
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_343
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_344
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 417
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_345
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_346
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_347
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_348
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_349
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_350
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_351
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_352
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 386
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_353
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 387
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_354
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 387
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_355
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 387
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_356
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 387
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_357
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_358
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_359
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_360
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_361
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_362
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_363
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_364
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 386
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_365
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_366
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_367
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_368
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_369
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_370
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_371
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_372
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_373
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_374
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_375
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 353
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_376
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 355
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_377
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 355
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_378
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 355
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_379
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 355
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_380
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_381
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_382
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_383
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_384
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_385
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_386
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 353
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_387
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_388
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_389
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_390
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 353
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_391
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_392
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_393
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_394
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_395
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_396
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_397
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_398
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_399
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_400
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_401
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_402
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_403
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_404
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_405
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_406
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_407
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_408
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_409
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_410
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 289
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_411
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_412
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 299
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_413
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_414
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 289
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_415
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_416
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_417
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_418
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_419
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_420
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_421
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_422
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_423
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 289
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_424
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_425
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 289
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_426
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 289
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_427
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 289
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_428
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_429
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_430
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_431
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_432
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_433
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_434
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_435
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 257
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_436
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 257
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_437
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 257
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_438
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_439
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_440
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_441
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_442
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_443
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_444
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_445
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_446
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_447
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 257
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_448
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 257
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_449
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 257
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_450
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_451
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 257
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_452
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_453
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_454
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_455
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_456
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_457
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_458
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_459
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 226
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_460
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 225
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_461
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 239
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_462
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_463
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_464
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_465
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_466
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_467
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_468
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_469
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_470
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_471
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 226
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_472
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 226
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_473
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 226
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_474
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 226
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_475
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 226
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_476
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_477
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_478
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_479
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_480
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_481
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_482
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_483
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 193
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_484
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 193
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_485
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_486
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_487
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_488
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_489
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_490
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_491
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_492
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 193
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_493
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_494
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 195
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_495
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_496
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 198
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_497
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 194
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_498
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_499
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_500
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_501
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_502
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_503
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_504
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_505
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_506
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_507
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_508
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 161
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_509
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 161
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_510
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_511
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_512
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_513
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_514
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_515
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_516
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_517
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_518
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_519
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_520
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_521
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_522
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_523
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_524
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_525
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_526
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_527
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_528
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_529
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 129
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_530
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 129
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_531
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 129
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_532
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 129
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_533
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 129
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_534
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_535
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_536
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_537
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_538
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_539
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_540
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_541
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_542
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_543
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_544
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_545
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_546
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_547
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_548
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_549
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_550
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_551
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_552
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_553
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 97
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_554
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 97
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_555
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 97
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_556
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_557
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 97
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_558
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_559
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_560
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_561
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_562
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_563
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_564
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_565
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_566
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_567
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_568
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_569
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_570
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_571
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_572
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_573
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_574
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_575
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 79
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_576
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_577
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 65
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_578
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 66
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_579
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 66
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_580
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 66
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_581
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 66
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_582
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_583
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_584
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_585
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_586
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_587
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_588
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 33
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_589
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_590
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_591
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_592
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_593
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_594
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_595
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_596
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_597
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 41
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_598
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 34
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_599
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_600
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 34
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_601
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 34
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_602
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 34
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_603
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 34
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_604
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_605
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_606
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_607
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_608
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_609
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_610
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_611
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_612
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_613
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_614
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mode construction (Megaman Powered Up)_615
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 9
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

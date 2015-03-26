@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: e890f386d277c2e46a08a0e4ba6c8355
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Alucard 4 (Castlevania, Symphony of the Night)_0
+    21300002: Alucard 4 (Castlevania, Symphony of the Night)_1
+    21300004: Alucard 4 (Castlevania, Symphony of the Night)_2
+    21300006: Alucard 4 (Castlevania, Symphony of the Night)_3
+    21300008: Alucard 4 (Castlevania, Symphony of the Night)_4
+    21300010: Alucard 4 (Castlevania, Symphony of the Night)_5
+    21300012: Alucard 4 (Castlevania, Symphony of the Night)_6
+    21300014: Alucard 4 (Castlevania, Symphony of the Night)_7
+    21300016: Alucard 4 (Castlevania, Symphony of the Night)_8
+    21300018: Alucard 4 (Castlevania, Symphony of the Night)_9
+    21300020: Alucard 4 (Castlevania, Symphony of the Night)_15
+    21300022: Alucard 4 (Castlevania, Symphony of the Night)_16
+    21300024: Alucard 4 (Castlevania, Symphony of the Night)_17
+    21300026: Alucard 4 (Castlevania, Symphony of the Night)_18
+    21300028: Alucard 4 (Castlevania, Symphony of the Night)_23
+    21300030: Alucard 4 (Castlevania, Symphony of the Night)_24
+    21300032: Alucard 4 (Castlevania, Symphony of the Night)_25
+    21300034: Alucard 4 (Castlevania, Symphony of the Night)_26
+    21300036: Alucard 4 (Castlevania, Symphony of the Night)_31
+    21300038: Alucard 4 (Castlevania, Symphony of the Night)_32
+    21300040: Alucard 4 (Castlevania, Symphony of the Night)_33
+    21300042: Alucard 4 (Castlevania, Symphony of the Night)_34
+    21300044: Alucard 4 (Castlevania, Symphony of the Night)_35
+    21300046: Alucard 4 (Castlevania, Symphony of the Night)_38
+    21300048: Alucard 4 (Castlevania, Symphony of the Night)_39
+    21300050: Alucard 4 (Castlevania, Symphony of the Night)_40
+    21300052: Alucard 4 (Castlevania, Symphony of the Night)_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 253
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 253
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 253
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 253
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 253
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 253
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 253
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_7
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 253
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 253
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 276
+        width: 50
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 187
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 187
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 187
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 209
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 122
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 122
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 122
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_26
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 140
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 57
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_33
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 57
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 57
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 72
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_38
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Alucard 4 (Castlevania, Symphony of the Night)_41
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 18
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

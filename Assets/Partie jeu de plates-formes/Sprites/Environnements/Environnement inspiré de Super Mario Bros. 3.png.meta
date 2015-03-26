@@ -1,0 +1,5855 @@
+fileFormatVersion: 2
+guid: e8088ecca9586bd4ca00f882522faeb7
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Environnement inspir\xE9 de Super Mario Bros. 3_0"
+    21300002: "Environnement inspir\xE9 de Super Mario Bros. 3_1"
+    21300004: "Environnement inspir\xE9 de Super Mario Bros. 3_2"
+    21300006: "Environnement inspir\xE9 de Super Mario Bros. 3_3"
+    21300008: "Environnement inspir\xE9 de Super Mario Bros. 3_4"
+    21300010: "Environnement inspir\xE9 de Super Mario Bros. 3_5"
+    21300012: "Environnement inspir\xE9 de Super Mario Bros. 3_6"
+    21300014: "Environnement inspir\xE9 de Super Mario Bros. 3_7"
+    21300016: "Environnement inspir\xE9 de Super Mario Bros. 3_8"
+    21300018: "Environnement inspir\xE9 de Super Mario Bros. 3_9"
+    21300020: "Environnement inspir\xE9 de Super Mario Bros. 3_10"
+    21300022: "Environnement inspir\xE9 de Super Mario Bros. 3_11"
+    21300024: "Environnement inspir\xE9 de Super Mario Bros. 3_12"
+    21300026: "Environnement inspir\xE9 de Super Mario Bros. 3_13"
+    21300028: "Environnement inspir\xE9 de Super Mario Bros. 3_14"
+    21300030: "Environnement inspir\xE9 de Super Mario Bros. 3_15"
+    21300032: "Environnement inspir\xE9 de Super Mario Bros. 3_16"
+    21300034: "Environnement inspir\xE9 de Super Mario Bros. 3_17"
+    21300036: "Environnement inspir\xE9 de Super Mario Bros. 3_18"
+    21300038: "Environnement inspir\xE9 de Super Mario Bros. 3_19"
+    21300040: "Environnement inspir\xE9 de Super Mario Bros. 3_20"
+    21300042: "Environnement inspir\xE9 de Super Mario Bros. 3_21"
+    21300044: "Environnement inspir\xE9 de Super Mario Bros. 3_22"
+    21300046: "Environnement inspir\xE9 de Super Mario Bros. 3_23"
+    21300048: "Environnement inspir\xE9 de Super Mario Bros. 3_24"
+    21300050: "Environnement inspir\xE9 de Super Mario Bros. 3_25"
+    21300052: "Environnement inspir\xE9 de Super Mario Bros. 3_26"
+    21300054: "Environnement inspir\xE9 de Super Mario Bros. 3_27"
+    21300056: "Environnement inspir\xE9 de Super Mario Bros. 3_28"
+    21300058: "Environnement inspir\xE9 de Super Mario Bros. 3_29"
+    21300060: "Environnement inspir\xE9 de Super Mario Bros. 3_30"
+    21300062: "Environnement inspir\xE9 de Super Mario Bros. 3_31"
+    21300064: "Environnement inspir\xE9 de Super Mario Bros. 3_32"
+    21300066: "Environnement inspir\xE9 de Super Mario Bros. 3_33"
+    21300068: "Environnement inspir\xE9 de Super Mario Bros. 3_34"
+    21300070: "Environnement inspir\xE9 de Super Mario Bros. 3_35"
+    21300072: "Environnement inspir\xE9 de Super Mario Bros. 3_36"
+    21300074: "Environnement inspir\xE9 de Super Mario Bros. 3_37"
+    21300076: "Environnement inspir\xE9 de Super Mario Bros. 3_38"
+    21300078: "Environnement inspir\xE9 de Super Mario Bros. 3_39"
+    21300080: "Environnement inspir\xE9 de Super Mario Bros. 3_40"
+    21300082: "Environnement inspir\xE9 de Super Mario Bros. 3_41"
+    21300084: "Environnement inspir\xE9 de Super Mario Bros. 3_42"
+    21300086: "Environnement inspir\xE9 de Super Mario Bros. 3_43"
+    21300088: "Environnement inspir\xE9 de Super Mario Bros. 3_44"
+    21300090: "Environnement inspir\xE9 de Super Mario Bros. 3_45"
+    21300092: "Environnement inspir\xE9 de Super Mario Bros. 3_46"
+    21300094: "Environnement inspir\xE9 de Super Mario Bros. 3_47"
+    21300096: "Environnement inspir\xE9 de Super Mario Bros. 3_48"
+    21300098: "Environnement inspir\xE9 de Super Mario Bros. 3_49"
+    21300100: "Environnement inspir\xE9 de Super Mario Bros. 3_50"
+    21300102: "Environnement inspir\xE9 de Super Mario Bros. 3_51"
+    21300104: "Environnement inspir\xE9 de Super Mario Bros. 3_52"
+    21300106: "Environnement inspir\xE9 de Super Mario Bros. 3_53"
+    21300108: "Environnement inspir\xE9 de Super Mario Bros. 3_54"
+    21300110: "Environnement inspir\xE9 de Super Mario Bros. 3_55"
+    21300112: "Environnement inspir\xE9 de Super Mario Bros. 3_56"
+    21300114: "Environnement inspir\xE9 de Super Mario Bros. 3_57"
+    21300116: "Environnement inspir\xE9 de Super Mario Bros. 3_58"
+    21300118: "Environnement inspir\xE9 de Super Mario Bros. 3_59"
+    21300120: "Environnement inspir\xE9 de Super Mario Bros. 3_60"
+    21300122: "Environnement inspir\xE9 de Super Mario Bros. 3_61"
+    21300124: "Environnement inspir\xE9 de Super Mario Bros. 3_62"
+    21300126: "Environnement inspir\xE9 de Super Mario Bros. 3_63"
+    21300128: "Environnement inspir\xE9 de Super Mario Bros. 3_64"
+    21300130: "Environnement inspir\xE9 de Super Mario Bros. 3_65"
+    21300132: "Environnement inspir\xE9 de Super Mario Bros. 3_66"
+    21300134: "Environnement inspir\xE9 de Super Mario Bros. 3_67"
+    21300136: "Environnement inspir\xE9 de Super Mario Bros. 3_68"
+    21300138: "Environnement inspir\xE9 de Super Mario Bros. 3_69"
+    21300140: "Environnement inspir\xE9 de Super Mario Bros. 3_70"
+    21300142: "Environnement inspir\xE9 de Super Mario Bros. 3_71"
+    21300144: "Environnement inspir\xE9 de Super Mario Bros. 3_72"
+    21300146: "Environnement inspir\xE9 de Super Mario Bros. 3_73"
+    21300148: "Environnement inspir\xE9 de Super Mario Bros. 3_74"
+    21300150: "Environnement inspir\xE9 de Super Mario Bros. 3_75"
+    21300152: "Environnement inspir\xE9 de Super Mario Bros. 3_76"
+    21300154: "Environnement inspir\xE9 de Super Mario Bros. 3_77"
+    21300156: "Environnement inspir\xE9 de Super Mario Bros. 3_78"
+    21300158: "Environnement inspir\xE9 de Super Mario Bros. 3_79"
+    21300160: "Environnement inspir\xE9 de Super Mario Bros. 3_80"
+    21300162: "Environnement inspir\xE9 de Super Mario Bros. 3_81"
+    21300164: "Environnement inspir\xE9 de Super Mario Bros. 3_82"
+    21300166: "Environnement inspir\xE9 de Super Mario Bros. 3_83"
+    21300168: "Environnement inspir\xE9 de Super Mario Bros. 3_84"
+    21300170: "Environnement inspir\xE9 de Super Mario Bros. 3_85"
+    21300172: "Environnement inspir\xE9 de Super Mario Bros. 3_86"
+    21300174: "Environnement inspir\xE9 de Super Mario Bros. 3_87"
+    21300176: "Environnement inspir\xE9 de Super Mario Bros. 3_88"
+    21300178: "Environnement inspir\xE9 de Super Mario Bros. 3_89"
+    21300180: "Environnement inspir\xE9 de Super Mario Bros. 3_90"
+    21300182: "Environnement inspir\xE9 de Super Mario Bros. 3_91"
+    21300184: "Environnement inspir\xE9 de Super Mario Bros. 3_92"
+    21300186: "Environnement inspir\xE9 de Super Mario Bros. 3_93"
+    21300188: "Environnement inspir\xE9 de Super Mario Bros. 3_94"
+    21300190: "Environnement inspir\xE9 de Super Mario Bros. 3_95"
+    21300192: "Environnement inspir\xE9 de Super Mario Bros. 3_96"
+    21300194: "Environnement inspir\xE9 de Super Mario Bros. 3_97"
+    21300196: "Environnement inspir\xE9 de Super Mario Bros. 3_98"
+    21300198: "Environnement inspir\xE9 de Super Mario Bros. 3_99"
+    21300200: "Environnement inspir\xE9 de Super Mario Bros. 3_100"
+    21300202: "Environnement inspir\xE9 de Super Mario Bros. 3_101"
+    21300204: "Environnement inspir\xE9 de Super Mario Bros. 3_102"
+    21300206: "Environnement inspir\xE9 de Super Mario Bros. 3_103"
+    21300208: "Environnement inspir\xE9 de Super Mario Bros. 3_104"
+    21300210: "Environnement inspir\xE9 de Super Mario Bros. 3_105"
+    21300212: "Environnement inspir\xE9 de Super Mario Bros. 3_106"
+    21300214: "Environnement inspir\xE9 de Super Mario Bros. 3_107"
+    21300216: "Environnement inspir\xE9 de Super Mario Bros. 3_108"
+    21300218: "Environnement inspir\xE9 de Super Mario Bros. 3_109"
+    21300220: "Environnement inspir\xE9 de Super Mario Bros. 3_110"
+    21300222: "Environnement inspir\xE9 de Super Mario Bros. 3_111"
+    21300224: "Environnement inspir\xE9 de Super Mario Bros. 3_112"
+    21300226: "Environnement inspir\xE9 de Super Mario Bros. 3_113"
+    21300228: "Environnement inspir\xE9 de Super Mario Bros. 3_114"
+    21300230: "Environnement inspir\xE9 de Super Mario Bros. 3_115"
+    21300232: "Environnement inspir\xE9 de Super Mario Bros. 3_116"
+    21300234: "Environnement inspir\xE9 de Super Mario Bros. 3_117"
+    21300236: "Environnement inspir\xE9 de Super Mario Bros. 3_118"
+    21300238: "Environnement inspir\xE9 de Super Mario Bros. 3_119"
+    21300240: "Environnement inspir\xE9 de Super Mario Bros. 3_120"
+    21300242: "Environnement inspir\xE9 de Super Mario Bros. 3_121"
+    21300244: "Environnement inspir\xE9 de Super Mario Bros. 3_122"
+    21300246: "Environnement inspir\xE9 de Super Mario Bros. 3_123"
+    21300248: "Environnement inspir\xE9 de Super Mario Bros. 3_124"
+    21300250: "Environnement inspir\xE9 de Super Mario Bros. 3_125"
+    21300252: "Environnement inspir\xE9 de Super Mario Bros. 3_126"
+    21300254: "Environnement inspir\xE9 de Super Mario Bros. 3_127"
+    21300256: "Environnement inspir\xE9 de Super Mario Bros. 3_128"
+    21300258: "Environnement inspir\xE9 de Super Mario Bros. 3_129"
+    21300260: "Environnement inspir\xE9 de Super Mario Bros. 3_130"
+    21300262: "Environnement inspir\xE9 de Super Mario Bros. 3_131"
+    21300264: "Environnement inspir\xE9 de Super Mario Bros. 3_132"
+    21300266: "Environnement inspir\xE9 de Super Mario Bros. 3_133"
+    21300268: "Environnement inspir\xE9 de Super Mario Bros. 3_134"
+    21300270: "Environnement inspir\xE9 de Super Mario Bros. 3_135"
+    21300272: "Environnement inspir\xE9 de Super Mario Bros. 3_136"
+    21300274: "Environnement inspir\xE9 de Super Mario Bros. 3_137"
+    21300276: "Environnement inspir\xE9 de Super Mario Bros. 3_138"
+    21300278: "Environnement inspir\xE9 de Super Mario Bros. 3_139"
+    21300280: "Environnement inspir\xE9 de Super Mario Bros. 3_140"
+    21300282: "Environnement inspir\xE9 de Super Mario Bros. 3_141"
+    21300284: "Environnement inspir\xE9 de Super Mario Bros. 3_142"
+    21300286: "Environnement inspir\xE9 de Super Mario Bros. 3_143"
+    21300288: "Environnement inspir\xE9 de Super Mario Bros. 3_144"
+    21300290: "Environnement inspir\xE9 de Super Mario Bros. 3_145"
+    21300292: "Environnement inspir\xE9 de Super Mario Bros. 3_146"
+    21300294: "Environnement inspir\xE9 de Super Mario Bros. 3_147"
+    21300296: "Environnement inspir\xE9 de Super Mario Bros. 3_148"
+    21300298: "Environnement inspir\xE9 de Super Mario Bros. 3_149"
+    21300300: "Environnement inspir\xE9 de Super Mario Bros. 3_150"
+    21300302: "Environnement inspir\xE9 de Super Mario Bros. 3_151"
+    21300304: "Environnement inspir\xE9 de Super Mario Bros. 3_152"
+    21300306: "Environnement inspir\xE9 de Super Mario Bros. 3_153"
+    21300308: "Environnement inspir\xE9 de Super Mario Bros. 3_154"
+    21300310: "Environnement inspir\xE9 de Super Mario Bros. 3_155"
+    21300312: "Environnement inspir\xE9 de Super Mario Bros. 3_156"
+    21300314: "Environnement inspir\xE9 de Super Mario Bros. 3_157"
+    21300316: "Environnement inspir\xE9 de Super Mario Bros. 3_158"
+    21300318: "Environnement inspir\xE9 de Super Mario Bros. 3_159"
+    21300320: "Environnement inspir\xE9 de Super Mario Bros. 3_160"
+    21300322: "Environnement inspir\xE9 de Super Mario Bros. 3_161"
+    21300324: "Environnement inspir\xE9 de Super Mario Bros. 3_162"
+    21300326: "Environnement inspir\xE9 de Super Mario Bros. 3_163"
+    21300328: "Environnement inspir\xE9 de Super Mario Bros. 3_164"
+    21300330: "Environnement inspir\xE9 de Super Mario Bros. 3_165"
+    21300332: "Environnement inspir\xE9 de Super Mario Bros. 3_166"
+    21300334: "Environnement inspir\xE9 de Super Mario Bros. 3_167"
+    21300336: "Environnement inspir\xE9 de Super Mario Bros. 3_168"
+    21300338: "Environnement inspir\xE9 de Super Mario Bros. 3_169"
+    21300340: "Environnement inspir\xE9 de Super Mario Bros. 3_170"
+    21300342: "Environnement inspir\xE9 de Super Mario Bros. 3_171"
+    21300344: "Environnement inspir\xE9 de Super Mario Bros. 3_172"
+    21300346: "Environnement inspir\xE9 de Super Mario Bros. 3_173"
+    21300348: "Environnement inspir\xE9 de Super Mario Bros. 3_174"
+    21300350: "Environnement inspir\xE9 de Super Mario Bros. 3_175"
+    21300352: "Environnement inspir\xE9 de Super Mario Bros. 3_176"
+    21300354: "Environnement inspir\xE9 de Super Mario Bros. 3_177"
+    21300356: "Environnement inspir\xE9 de Super Mario Bros. 3_178"
+    21300358: "Environnement inspir\xE9 de Super Mario Bros. 3_179"
+    21300360: "Environnement inspir\xE9 de Super Mario Bros. 3_180"
+    21300362: "Environnement inspir\xE9 de Super Mario Bros. 3_181"
+    21300364: "Environnement inspir\xE9 de Super Mario Bros. 3_182"
+    21300366: "Environnement inspir\xE9 de Super Mario Bros. 3_183"
+    21300368: "Environnement inspir\xE9 de Super Mario Bros. 3_184"
+    21300370: "Environnement inspir\xE9 de Super Mario Bros. 3_185"
+    21300372: "Environnement inspir\xE9 de Super Mario Bros. 3_186"
+    21300374: "Environnement inspir\xE9 de Super Mario Bros. 3_187"
+    21300376: "Environnement inspir\xE9 de Super Mario Bros. 3_188"
+    21300378: "Environnement inspir\xE9 de Super Mario Bros. 3_189"
+    21300380: "Environnement inspir\xE9 de Super Mario Bros. 3_190"
+    21300382: "Environnement inspir\xE9 de Super Mario Bros. 3_191"
+    21300384: "Environnement inspir\xE9 de Super Mario Bros. 3_192"
+    21300386: "Environnement inspir\xE9 de Super Mario Bros. 3_193"
+    21300388: "Environnement inspir\xE9 de Super Mario Bros. 3_194"
+    21300390: "Environnement inspir\xE9 de Super Mario Bros. 3_195"
+    21300392: "Environnement inspir\xE9 de Super Mario Bros. 3_196"
+    21300394: "Environnement inspir\xE9 de Super Mario Bros. 3_197"
+    21300396: "Environnement inspir\xE9 de Super Mario Bros. 3_198"
+    21300398: "Environnement inspir\xE9 de Super Mario Bros. 3_199"
+    21300400: "Environnement inspir\xE9 de Super Mario Bros. 3_200"
+    21300402: "Environnement inspir\xE9 de Super Mario Bros. 3_201"
+    21300404: "Environnement inspir\xE9 de Super Mario Bros. 3_202"
+    21300406: "Environnement inspir\xE9 de Super Mario Bros. 3_203"
+    21300408: "Environnement inspir\xE9 de Super Mario Bros. 3_204"
+    21300410: "Environnement inspir\xE9 de Super Mario Bros. 3_206"
+    21300412: "Environnement inspir\xE9 de Super Mario Bros. 3_207"
+    21300414: "Environnement inspir\xE9 de Super Mario Bros. 3_208"
+    21300416: "Environnement inspir\xE9 de Super Mario Bros. 3_209"
+    21300418: "Environnement inspir\xE9 de Super Mario Bros. 3_210"
+    21300420: "Environnement inspir\xE9 de Super Mario Bros. 3_211"
+    21300422: "Environnement inspir\xE9 de Super Mario Bros. 3_212"
+    21300424: "Environnement inspir\xE9 de Super Mario Bros. 3_213"
+    21300426: "Environnement inspir\xE9 de Super Mario Bros. 3_214"
+    21300428: "Environnement inspir\xE9 de Super Mario Bros. 3_215"
+    21300430: "Environnement inspir\xE9 de Super Mario Bros. 3_216"
+    21300432: "Environnement inspir\xE9 de Super Mario Bros. 3_217"
+    21300434: "Environnement inspir\xE9 de Super Mario Bros. 3_218"
+    21300436: "Environnement inspir\xE9 de Super Mario Bros. 3_219"
+    21300438: "Environnement inspir\xE9 de Super Mario Bros. 3_220"
+    21300440: "Environnement inspir\xE9 de Super Mario Bros. 3_221"
+    21300442: "Environnement inspir\xE9 de Super Mario Bros. 3_222"
+    21300444: "Environnement inspir\xE9 de Super Mario Bros. 3_223"
+    21300446: "Environnement inspir\xE9 de Super Mario Bros. 3_224"
+    21300448: "Environnement inspir\xE9 de Super Mario Bros. 3_225"
+    21300450: "Environnement inspir\xE9 de Super Mario Bros. 3_226"
+    21300452: "Environnement inspir\xE9 de Super Mario Bros. 3_227"
+    21300454: "Environnement inspir\xE9 de Super Mario Bros. 3_228"
+    21300456: "Environnement inspir\xE9 de Super Mario Bros. 3_229"
+    21300458: "Environnement inspir\xE9 de Super Mario Bros. 3_230"
+    21300460: "Environnement inspir\xE9 de Super Mario Bros. 3_231"
+    21300462: "Environnement inspir\xE9 de Super Mario Bros. 3_232"
+    21300464: "Environnement inspir\xE9 de Super Mario Bros. 3_233"
+    21300466: "Environnement inspir\xE9 de Super Mario Bros. 3_234"
+    21300468: "Environnement inspir\xE9 de Super Mario Bros. 3_235"
+    21300470: "Environnement inspir\xE9 de Super Mario Bros. 3_236"
+    21300472: "Environnement inspir\xE9 de Super Mario Bros. 3_237"
+    21300474: "Environnement inspir\xE9 de Super Mario Bros. 3_238"
+    21300476: "Environnement inspir\xE9 de Super Mario Bros. 3_239"
+    21300478: "Environnement inspir\xE9 de Super Mario Bros. 3_240"
+    21300480: "Environnement inspir\xE9 de Super Mario Bros. 3_241"
+    21300482: "Environnement inspir\xE9 de Super Mario Bros. 3_242"
+    21300484: "Environnement inspir\xE9 de Super Mario Bros. 3_243"
+    21300486: "Environnement inspir\xE9 de Super Mario Bros. 3_244"
+    21300488: "Environnement inspir\xE9 de Super Mario Bros. 3_245"
+    21300490: "Environnement inspir\xE9 de Super Mario Bros. 3_246"
+    21300492: "Environnement inspir\xE9 de Super Mario Bros. 3_247"
+    21300494: "Environnement inspir\xE9 de Super Mario Bros. 3_248"
+    21300496: "Environnement inspir\xE9 de Super Mario Bros. 3_249"
+    21300498: "Environnement inspir\xE9 de Super Mario Bros. 3_250"
+    21300500: "Environnement inspir\xE9 de Super Mario Bros. 3_251"
+    21300502: "Environnement inspir\xE9 de Super Mario Bros. 3_252"
+    21300504: "Environnement inspir\xE9 de Super Mario Bros. 3_253"
+    21300506: "Environnement inspir\xE9 de Super Mario Bros. 3_254"
+    21300508: "Environnement inspir\xE9 de Super Mario Bros. 3_255"
+    21300510: "Environnement inspir\xE9 de Super Mario Bros. 3_256"
+    21300512: "Environnement inspir\xE9 de Super Mario Bros. 3_257"
+    21300514: "Environnement inspir\xE9 de Super Mario Bros. 3_258"
+    21300516: "Environnement inspir\xE9 de Super Mario Bros. 3_259"
+    21300518: "Environnement inspir\xE9 de Super Mario Bros. 3_260"
+    21300520: "Environnement inspir\xE9 de Super Mario Bros. 3_261"
+    21300522: "Environnement inspir\xE9 de Super Mario Bros. 3_262"
+    21300524: "Environnement inspir\xE9 de Super Mario Bros. 3_263"
+    21300526: "Environnement inspir\xE9 de Super Mario Bros. 3_264"
+    21300528: "Environnement inspir\xE9 de Super Mario Bros. 3_265"
+    21300530: "Environnement inspir\xE9 de Super Mario Bros. 3_266"
+    21300532: "Environnement inspir\xE9 de Super Mario Bros. 3_267"
+    21300534: "Environnement inspir\xE9 de Super Mario Bros. 3_268"
+    21300536: "Environnement inspir\xE9 de Super Mario Bros. 3_269"
+    21300538: "Environnement inspir\xE9 de Super Mario Bros. 3_270"
+    21300540: "Environnement inspir\xE9 de Super Mario Bros. 3_271"
+    21300542: "Environnement inspir\xE9 de Super Mario Bros. 3_272"
+    21300544: "Environnement inspir\xE9 de Super Mario Bros. 3_273"
+    21300546: "Environnement inspir\xE9 de Super Mario Bros. 3_274"
+    21300548: "Environnement inspir\xE9 de Super Mario Bros. 3_275"
+    21300550: "Environnement inspir\xE9 de Super Mario Bros. 3_276"
+    21300552: "Environnement inspir\xE9 de Super Mario Bros. 3_277"
+    21300554: "Environnement inspir\xE9 de Super Mario Bros. 3_278"
+    21300556: "Environnement inspir\xE9 de Super Mario Bros. 3_279"
+    21300558: "Environnement inspir\xE9 de Super Mario Bros. 3_280"
+    21300560: "Environnement inspir\xE9 de Super Mario Bros. 3_281"
+    21300562: "Environnement inspir\xE9 de Super Mario Bros. 3_282"
+    21300564: "Environnement inspir\xE9 de Super Mario Bros. 3_283"
+    21300566: "Environnement inspir\xE9 de Super Mario Bros. 3_284"
+    21300568: "Environnement inspir\xE9 de Super Mario Bros. 3_285"
+    21300570: "Environnement inspir\xE9 de Super Mario Bros. 3_286"
+    21300572: "Environnement inspir\xE9 de Super Mario Bros. 3_287"
+    21300574: "Environnement inspir\xE9 de Super Mario Bros. 3_288"
+    21300576: "Environnement inspir\xE9 de Super Mario Bros. 3_289"
+    21300578: "Environnement inspir\xE9 de Super Mario Bros. 3_290"
+    21300580: "Environnement inspir\xE9 de Super Mario Bros. 3_291"
+    21300582: "Environnement inspir\xE9 de Super Mario Bros. 3_292"
+    21300584: "Environnement inspir\xE9 de Super Mario Bros. 3_293"
+    21300586: "Environnement inspir\xE9 de Super Mario Bros. 3_294"
+    21300588: "Environnement inspir\xE9 de Super Mario Bros. 3_295"
+    21300590: "Environnement inspir\xE9 de Super Mario Bros. 3_296"
+    21300592: "Environnement inspir\xE9 de Super Mario Bros. 3_297"
+    21300594: "Environnement inspir\xE9 de Super Mario Bros. 3_298"
+    21300596: "Environnement inspir\xE9 de Super Mario Bros. 3_299"
+    21300598: "Environnement inspir\xE9 de Super Mario Bros. 3_300"
+    21300600: "Environnement inspir\xE9 de Super Mario Bros. 3_301"
+    21300602: "Environnement inspir\xE9 de Super Mario Bros. 3_302"
+    21300604: "Environnement inspir\xE9 de Super Mario Bros. 3_303"
+    21300606: "Environnement inspir\xE9 de Super Mario Bros. 3_304"
+    21300608: "Environnement inspir\xE9 de Super Mario Bros. 3_305"
+    21300610: "Environnement inspir\xE9 de Super Mario Bros. 3_306"
+    21300612: "Environnement inspir\xE9 de Super Mario Bros. 3_307"
+    21300614: "Environnement inspir\xE9 de Super Mario Bros. 3_308"
+    21300616: "Environnement inspir\xE9 de Super Mario Bros. 3_309"
+    21300618: "Environnement inspir\xE9 de Super Mario Bros. 3_310"
+    21300620: "Environnement inspir\xE9 de Super Mario Bros. 3_311"
+    21300622: "Environnement inspir\xE9 de Super Mario Bros. 3_312"
+    21300624: "Environnement inspir\xE9 de Super Mario Bros. 3_313"
+    21300626: "Environnement inspir\xE9 de Super Mario Bros. 3_314"
+    21300628: "Environnement inspir\xE9 de Super Mario Bros. 3_315"
+    21300630: "Environnement inspir\xE9 de Super Mario Bros. 3_316"
+    21300632: "Environnement inspir\xE9 de Super Mario Bros. 3_317"
+    21300634: "Environnement inspir\xE9 de Super Mario Bros. 3_318"
+    21300636: "Environnement inspir\xE9 de Super Mario Bros. 3_319"
+    21300638: "Environnement inspir\xE9 de Super Mario Bros. 3_320"
+    21300640: "Environnement inspir\xE9 de Super Mario Bros. 3_321"
+    21300642: "Environnement inspir\xE9 de Super Mario Bros. 3_322"
+    21300644: "Environnement inspir\xE9 de Super Mario Bros. 3_323"
+    21300646: "Environnement inspir\xE9 de Super Mario Bros. 3_324"
+    21300648: "Environnement inspir\xE9 de Super Mario Bros. 3_325"
+    21300650: "Environnement inspir\xE9 de Super Mario Bros. 3_326"
+    21300652: "Environnement inspir\xE9 de Super Mario Bros. 3_327"
+    21300654: "Environnement inspir\xE9 de Super Mario Bros. 3_328"
+    21300656: "Environnement inspir\xE9 de Super Mario Bros. 3_329"
+    21300658: "Environnement inspir\xE9 de Super Mario Bros. 3_330"
+    21300660: "Environnement inspir\xE9 de Super Mario Bros. 3_331"
+    21300662: "Environnement inspir\xE9 de Super Mario Bros. 3_332"
+    21300664: "Environnement inspir\xE9 de Super Mario Bros. 3_333"
+    21300666: "Environnement inspir\xE9 de Super Mario Bros. 3_334"
+    21300668: "Environnement inspir\xE9 de Super Mario Bros. 3_335"
+    21300670: "Environnement inspir\xE9 de Super Mario Bros. 3_336"
+    21300672: "Environnement inspir\xE9 de Super Mario Bros. 3_337"
+    21300674: "Environnement inspir\xE9 de Super Mario Bros. 3_338"
+    21300676: "Environnement inspir\xE9 de Super Mario Bros. 3_339"
+    21300678: "Environnement inspir\xE9 de Super Mario Bros. 3_340"
+    21300680: "Environnement inspir\xE9 de Super Mario Bros. 3_341"
+    21300682: "Environnement inspir\xE9 de Super Mario Bros. 3_342"
+    21300684: "Environnement inspir\xE9 de Super Mario Bros. 3_343"
+    21300686: "Environnement inspir\xE9 de Super Mario Bros. 3_344"
+    21300688: "Environnement inspir\xE9 de Super Mario Bros. 3_345"
+    21300690: "Environnement inspir\xE9 de Super Mario Bros. 3_346"
+    21300692: "Environnement inspir\xE9 de Super Mario Bros. 3_347"
+    21300694: "Environnement inspir\xE9 de Super Mario Bros. 3_348"
+    21300696: "Environnement inspir\xE9 de Super Mario Bros. 3_349"
+    21300698: "Environnement inspir\xE9 de Super Mario Bros. 3_350"
+    21300700: "Environnement inspir\xE9 de Super Mario Bros. 3_351"
+    21300702: "Environnement inspir\xE9 de Super Mario Bros. 3_352"
+    21300704: "Environnement inspir\xE9 de Super Mario Bros. 3_353"
+    21300706: "Environnement inspir\xE9 de Super Mario Bros. 3_354"
+    21300708: "Environnement inspir\xE9 de Super Mario Bros. 3_355"
+    21300710: "Environnement inspir\xE9 de Super Mario Bros. 3_356"
+    21300712: "Environnement inspir\xE9 de Super Mario Bros. 3_357"
+    21300714: "Environnement inspir\xE9 de Super Mario Bros. 3_358"
+    21300716: "Environnement inspir\xE9 de Super Mario Bros. 3_359"
+    21300718: "Environnement inspir\xE9 de Super Mario Bros. 3_360"
+    21300720: "Environnement inspir\xE9 de Super Mario Bros. 3_361"
+    21300722: "Environnement inspir\xE9 de Super Mario Bros. 3_362"
+    21300724: "Environnement inspir\xE9 de Super Mario Bros. 3_363"
+    21300726: "Environnement inspir\xE9 de Super Mario Bros. 3_364"
+    21300728: "Environnement inspir\xE9 de Super Mario Bros. 3_365"
+    21300730: "Environnement inspir\xE9 de Super Mario Bros. 3_366"
+    21300732: "Environnement inspir\xE9 de Super Mario Bros. 3_367"
+    21300734: "Environnement inspir\xE9 de Super Mario Bros. 3_368"
+    21300736: "Environnement inspir\xE9 de Super Mario Bros. 3_369"
+    21300738: "Environnement inspir\xE9 de Super Mario Bros. 3_370"
+    21300740: "Environnement inspir\xE9 de Super Mario Bros. 3_371"
+    21300742: "Environnement inspir\xE9 de Super Mario Bros. 3_372"
+    21300744: "Environnement inspir\xE9 de Super Mario Bros. 3_373"
+    21300746: "Environnement inspir\xE9 de Super Mario Bros. 3_374"
+    21300748: "Environnement inspir\xE9 de Super Mario Bros. 3_375"
+    21300750: "Environnement inspir\xE9 de Super Mario Bros. 3_376"
+    21300752: "Environnement inspir\xE9 de Super Mario Bros. 3_377"
+    21300754: "Environnement inspir\xE9 de Super Mario Bros. 3_378"
+    21300756: "Environnement inspir\xE9 de Super Mario Bros. 3_379"
+    21300758: "Environnement inspir\xE9 de Super Mario Bros. 3_380"
+    21300760: "Environnement inspir\xE9 de Super Mario Bros. 3_381"
+    21300762: "Environnement inspir\xE9 de Super Mario Bros. 3_382"
+    21300764: "Environnement inspir\xE9 de Super Mario Bros. 3_383"
+    21300766: "Environnement inspir\xE9 de Super Mario Bros. 3_384"
+    21300768: "Environnement inspir\xE9 de Super Mario Bros. 3_385"
+    21300770: "Environnement inspir\xE9 de Super Mario Bros. 3_386"
+    21300772: "Environnement inspir\xE9 de Super Mario Bros. 3_387"
+    21300774: "Environnement inspir\xE9 de Super Mario Bros. 3_388"
+    21300776: "Environnement inspir\xE9 de Super Mario Bros. 3_389"
+    21300778: "Environnement inspir\xE9 de Super Mario Bros. 3_390"
+    21300780: "Environnement inspir\xE9 de Super Mario Bros. 3_391"
+    21300782: "Environnement inspir\xE9 de Super Mario Bros. 3_392"
+    21300784: "Environnement inspir\xE9 de Super Mario Bros. 3_393"
+    21300786: "Environnement inspir\xE9 de Super Mario Bros. 3_394"
+    21300788: "Environnement inspir\xE9 de Super Mario Bros. 3_395"
+    21300790: "Environnement inspir\xE9 de Super Mario Bros. 3_396"
+    21300792: "Environnement inspir\xE9 de Super Mario Bros. 3_397"
+    21300794: "Environnement inspir\xE9 de Super Mario Bros. 3_398"
+    21300796: "Environnement inspir\xE9 de Super Mario Bros. 3_399"
+    21300798: "Environnement inspir\xE9 de Super Mario Bros. 3_400"
+    21300800: "Environnement inspir\xE9 de Super Mario Bros. 3_401"
+    21300802: "Environnement inspir\xE9 de Super Mario Bros. 3_402"
+    21300804: "Environnement inspir\xE9 de Super Mario Bros. 3_403"
+    21300806: "Environnement inspir\xE9 de Super Mario Bros. 3_404"
+    21300808: "Environnement inspir\xE9 de Super Mario Bros. 3_405"
+    21300810: "Environnement inspir\xE9 de Super Mario Bros. 3_406"
+    21300812: "Environnement inspir\xE9 de Super Mario Bros. 3_407"
+    21300814: "Environnement inspir\xE9 de Super Mario Bros. 3_408"
+    21300816: "Environnement inspir\xE9 de Super Mario Bros. 3_409"
+    21300818: "Environnement inspir\xE9 de Super Mario Bros. 3_410"
+    21300820: "Environnement inspir\xE9 de Super Mario Bros. 3_411"
+    21300822: "Environnement inspir\xE9 de Super Mario Bros. 3_412"
+    21300824: "Environnement inspir\xE9 de Super Mario Bros. 3_413"
+    21300826: "Environnement inspir\xE9 de Super Mario Bros. 3_414"
+    21300828: "Environnement inspir\xE9 de Super Mario Bros. 3_415"
+    21300830: "Environnement inspir\xE9 de Super Mario Bros. 3_416"
+    21300832: "Environnement inspir\xE9 de Super Mario Bros. 3_417"
+    21300834: "Environnement inspir\xE9 de Super Mario Bros. 3_418"
+    21300836: "Environnement inspir\xE9 de Super Mario Bros. 3_419"
+    21300838: "Environnement inspir\xE9 de Super Mario Bros. 3_420"
+    21300840: "Environnement inspir\xE9 de Super Mario Bros. 3_421"
+    21300842: "Environnement inspir\xE9 de Super Mario Bros. 3_422"
+    21300844: "Environnement inspir\xE9 de Super Mario Bros. 3_423"
+    21300846: "Environnement inspir\xE9 de Super Mario Bros. 3_424"
+    21300848: "Environnement inspir\xE9 de Super Mario Bros. 3_425"
+    21300850: "Environnement inspir\xE9 de Super Mario Bros. 3_426"
+    21300852: "Environnement inspir\xE9 de Super Mario Bros. 3_427"
+    21300854: "Environnement inspir\xE9 de Super Mario Bros. 3_428"
+    21300856: "Environnement inspir\xE9 de Super Mario Bros. 3_429"
+    21300858: "Environnement inspir\xE9 de Super Mario Bros. 3_430"
+    21300860: "Environnement inspir\xE9 de Super Mario Bros. 3_431"
+    21300862: "Environnement inspir\xE9 de Super Mario Bros. 3_432"
+    21300864: "Environnement inspir\xE9 de Super Mario Bros. 3_433"
+    21300866: "Environnement inspir\xE9 de Super Mario Bros. 3_434"
+    21300868: "Environnement inspir\xE9 de Super Mario Bros. 3_435"
+    21300870: "Environnement inspir\xE9 de Super Mario Bros. 3_436"
+    21300872: "Environnement inspir\xE9 de Super Mario Bros. 3_437"
+    21300874: "Environnement inspir\xE9 de Super Mario Bros. 3_438"
+    21300876: "Environnement inspir\xE9 de Super Mario Bros. 3_439"
+    21300878: "Environnement inspir\xE9 de Super Mario Bros. 3_440"
+    21300880: "Environnement inspir\xE9 de Super Mario Bros. 3_441"
+    21300882: "Environnement inspir\xE9 de Super Mario Bros. 3_442"
+    21300884: "Environnement inspir\xE9 de Super Mario Bros. 3_443"
+    21300886: "Environnement inspir\xE9 de Super Mario Bros. 3_444"
+    21300888: "Environnement inspir\xE9 de Super Mario Bros. 3_445"
+    21300890: "Environnement inspir\xE9 de Super Mario Bros. 3_446"
+    21300892: "Environnement inspir\xE9 de Super Mario Bros. 3_447"
+    21300894: "Environnement inspir\xE9 de Super Mario Bros. 3_448"
+    21300896: "Environnement inspir\xE9 de Super Mario Bros. 3_449"
+    21300898: "Environnement inspir\xE9 de Super Mario Bros. 3_450"
+    21300900: "Environnement inspir\xE9 de Super Mario Bros. 3_451"
+    21300902: "Environnement inspir\xE9 de Super Mario Bros. 3_452"
+    21300904: "Environnement inspir\xE9 de Super Mario Bros. 3_453"
+    21300906: "Environnement inspir\xE9 de Super Mario Bros. 3_454"
+    21300908: "Environnement inspir\xE9 de Super Mario Bros. 3_455"
+    21300910: "Environnement inspir\xE9 de Super Mario Bros. 3_456"
+    21300912: "Environnement inspir\xE9 de Super Mario Bros. 3_457"
+    21300914: "Environnement inspir\xE9 de Super Mario Bros. 3_458"
+    21300916: "Environnement inspir\xE9 de Super Mario Bros. 3_459"
+    21300918: "Environnement inspir\xE9 de Super Mario Bros. 3_460"
+    21300920: "Environnement inspir\xE9 de Super Mario Bros. 3_461"
+    21300922: "Environnement inspir\xE9 de Super Mario Bros. 3_462"
+    21300924: "Environnement inspir\xE9 de Super Mario Bros. 3_463"
+    21300926: "Environnement inspir\xE9 de Super Mario Bros. 3_464"
+    21300928: "Environnement inspir\xE9 de Super Mario Bros. 3_465"
+    21300930: "Environnement inspir\xE9 de Super Mario Bros. 3_466"
+    21300932: "Environnement inspir\xE9 de Super Mario Bros. 3_467"
+    21300934: "Environnement inspir\xE9 de Super Mario Bros. 3_468"
+    21300936: "Environnement inspir\xE9 de Super Mario Bros. 3_469"
+    21300938: "Environnement inspir\xE9 de Super Mario Bros. 3_470"
+    21300940: "Environnement inspir\xE9 de Super Mario Bros. 3_471"
+    21300942: "Environnement inspir\xE9 de Super Mario Bros. 3_472"
+    21300944: "Environnement inspir\xE9 de Super Mario Bros. 3_473"
+    21300946: "Environnement inspir\xE9 de Super Mario Bros. 3_474"
+    21300948: "Environnement inspir\xE9 de Super Mario Bros. 3_475"
+    21300950: "Environnement inspir\xE9 de Super Mario Bros. 3_476"
+    21300952: "Environnement inspir\xE9 de Super Mario Bros. 3_477"
+    21300954: "Environnement inspir\xE9 de Super Mario Bros. 3_478"
+    21300956: "Environnement inspir\xE9 de Super Mario Bros. 3_479"
+    21300958: "Environnement inspir\xE9 de Super Mario Bros. 3_480"
+    21300960: "Environnement inspir\xE9 de Super Mario Bros. 3_481"
+    21300962: "Environnement inspir\xE9 de Super Mario Bros. 3_482"
+    21300964: "Environnement inspir\xE9 de Super Mario Bros. 3_483"
+    21300966: "Environnement inspir\xE9 de Super Mario Bros. 3_484"
+    21300968: "Environnement inspir\xE9 de Super Mario Bros. 3_485"
+    21300970: "Environnement inspir\xE9 de Super Mario Bros. 3_486"
+    21300972: "Environnement inspir\xE9 de Super Mario Bros. 3_487"
+    21300974: "Environnement inspir\xE9 de Super Mario Bros. 3_488"
+    21300976: "Environnement inspir\xE9 de Super Mario Bros. 3_489"
+    21300978: "Environnement inspir\xE9 de Super Mario Bros. 3_490"
+    21300980: "Environnement inspir\xE9 de Super Mario Bros. 3_491"
+    21300982: "Environnement inspir\xE9 de Super Mario Bros. 3_492"
+    21300984: "Environnement inspir\xE9 de Super Mario Bros. 3_493"
+    21300986: "Environnement inspir\xE9 de Super Mario Bros. 3_494"
+    21300988: "Environnement inspir\xE9 de Super Mario Bros. 3_495"
+    21300990: "Environnement inspir\xE9 de Super Mario Bros. 3_496"
+    21300992: "Environnement inspir\xE9 de Super Mario Bros. 3_497"
+    21300994: "Environnement inspir\xE9 de Super Mario Bros. 3_498"
+    21300996: "Environnement inspir\xE9 de Super Mario Bros. 3_499"
+    21300998: "Environnement inspir\xE9 de Super Mario Bros. 3_500"
+    21301000: "Environnement inspir\xE9 de Super Mario Bros. 3_501"
+    21301002: "Environnement inspir\xE9 de Super Mario Bros. 3_502"
+    21301004: "Environnement inspir\xE9 de Super Mario Bros. 3_503"
+    21301006: "Environnement inspir\xE9 de Super Mario Bros. 3_504"
+    21301008: "Environnement inspir\xE9 de Super Mario Bros. 3_505"
+    21301010: "Environnement inspir\xE9 de Super Mario Bros. 3_506"
+    21301012: "Environnement inspir\xE9 de Super Mario Bros. 3_507"
+    21301014: "Environnement inspir\xE9 de Super Mario Bros. 3_508"
+    21301016: "Environnement inspir\xE9 de Super Mario Bros. 3_509"
+    21301018: "Environnement inspir\xE9 de Super Mario Bros. 3_510"
+    21301020: "Environnement inspir\xE9 de Super Mario Bros. 3_511"
+    21301022: "Environnement inspir\xE9 de Super Mario Bros. 3_512"
+    21301024: "Environnement inspir\xE9 de Super Mario Bros. 3_513"
+    21301026: "Environnement inspir\xE9 de Super Mario Bros. 3_514"
+    21301028: "Environnement inspir\xE9 de Super Mario Bros. 3_515"
+    21301030: "Environnement inspir\xE9 de Super Mario Bros. 3_516"
+    21301032: "Environnement inspir\xE9 de Super Mario Bros. 3_517"
+    21301034: "Environnement inspir\xE9 de Super Mario Bros. 3_518"
+    21301036: "Environnement inspir\xE9 de Super Mario Bros. 3_519"
+    21301038: "Environnement inspir\xE9 de Super Mario Bros. 3_520"
+    21301040: "Environnement inspir\xE9 de Super Mario Bros. 3_521"
+    21301042: "Environnement inspir\xE9 de Super Mario Bros. 3_522"
+    21301044: "Environnement inspir\xE9 de Super Mario Bros. 3_523"
+    21301046: "Environnement inspir\xE9 de Super Mario Bros. 3_524"
+    21301048: "Environnement inspir\xE9 de Super Mario Bros. 3_525"
+    21301050: "Environnement inspir\xE9 de Super Mario Bros. 3_526"
+    21301052: "Environnement inspir\xE9 de Super Mario Bros. 3_527"
+    21301054: "Environnement inspir\xE9 de Super Mario Bros. 3_528"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_0"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 473
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_1"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_2"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_3"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_4"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_5"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_6"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_7"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_8"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_9"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 473
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_10"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_11"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_12"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 473
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_13"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 473
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_14"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 473
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_15"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 473
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_16"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_17"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_18"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 473
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_19"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 473
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_20"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 473
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_21"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_22"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_23"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_24"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 473
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_25"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_26"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_27"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_28"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_29"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 455
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_30"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_31"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 455
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_32"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_33"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_34"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_35"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_36"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_37"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_38"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_39"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_40"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_41"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_42"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_43"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_44"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_45"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_46"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_47"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_48"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 455
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_49"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 455
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_50"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_51"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_52"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_53"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_54"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 437
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_55"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_56"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 437
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_57"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_58"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_59"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_60"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_61"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_62"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_63"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_64"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_65"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_66"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_67"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_68"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_69"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_70"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_71"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_72"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_73"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 437
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_74"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 437
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_75"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_76"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_77"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_78"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_79"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_80"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_81"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_82"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 427
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_83"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_84"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_85"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 427
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_86"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 431
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_87"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 427
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_88"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 423
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_89"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_90"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_91"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 423
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_92"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 427
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_93"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 431
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_94"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 419
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_95"
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 427
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_96"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 427
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_97"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 427
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_98"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 419
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_99"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 419
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_100"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 401
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_101"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_102"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_103"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_104"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_105"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_106"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_107"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 401
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_108"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 401
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_109"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_110"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_111"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 401
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_112"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 401
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_113"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_114"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_115"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_116"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_117"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_118"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_119"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_120"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 401
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_121"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_122"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 401
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_123"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 401
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_124"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 401
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_125"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_126"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_127"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_128"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_129"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_130"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_131"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_132"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 383
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_133"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_134"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_135"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_136"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_137"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 383
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_138"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_139"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_140"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_141"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_142"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_143"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_144"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_145"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_146"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_147"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_148"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_149"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 383
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_150"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_151"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_152"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 365
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_153"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 373
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_154"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_155"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_156"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 373
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_157"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 365
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_158"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 365
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_159"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_160"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_161"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 365
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_162"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 365
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_163"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_164"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_165"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_166"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_167"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_168"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_169"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_170"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_171"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_172"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 365
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_173"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_174"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 347
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_175"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_176"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 347
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_177"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 347
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_178"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_179"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 347
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_180"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 347
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_181"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_182"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_183"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_184"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_185"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 347
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_186"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_187"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_188"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 355
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_189"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_190"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_191"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 355
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_192"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 359
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_193"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 329
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_194"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_195"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 329
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_196"
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 329
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_197"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_198"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 329
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_199"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_200"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_201"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 329
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_202"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 329
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_203"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_204"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_206"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_207"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_208"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_209"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 311
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_210"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 311
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_211"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_212"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_213"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_214"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_215"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_216"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_217"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_218"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_219"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_220"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_221"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_222"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 311
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_223"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_224"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_225"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 311
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_226"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 311
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_227"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 311
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_228"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 311
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_229"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_230"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 311
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_231"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 311
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_232"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 311
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_233"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 311
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_234"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 293
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_235"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 293
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_236"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_237"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_238"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_239"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_240"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_241"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_242"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 293
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_243"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_244"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 293
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_245"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_246"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_247"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_248"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_249"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_250"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_251"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_252"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_253"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_254"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_255"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_256"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_257"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_258"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_259"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 275
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_260"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 275
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_261"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_262"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_263"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_264"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_265"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_266"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_267"
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 275
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_268"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_269"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 275
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_270"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_271"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_272"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_273"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_274"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_275"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_276"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_277"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_278"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_279"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_280"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_281"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_282"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_283"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_284"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_285"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_286"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_287"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_288"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_289"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_290"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_291"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 265
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_292"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_293"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_294"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 265
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_295"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 269
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_296"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 265
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_297"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 261
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_298"
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_299"
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_300"
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 261
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_301"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 265
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_302"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 269
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_303"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 257
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_304"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 257
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_305"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_306"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_307"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_308"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_309"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_310"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_311"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_312"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_313"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_314"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_315"
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_316"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_317"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_318"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_319"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_320"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_321"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_322"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_323"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_324"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_325"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_326"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 211
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_327"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_328"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_329"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 211
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_330"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_331"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_332"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_333"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_334"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_335"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_336"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_337"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_338"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_339"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_340"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_341"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_342"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_343"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 185
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_344"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 175
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_345"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_346"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 175
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_347"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_348"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_349"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_350"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_351"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 167
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_352"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_353"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 149
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_354"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 149
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_355"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_356"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_357"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_358"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_359"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 157
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_360"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_361"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 149
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_362"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_363"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_364"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_365"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_366"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_367"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_368"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_369"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 131
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_370"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_371"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_372"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 131
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_373"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_374"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 131
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_375"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 131
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_376"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_377"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_378"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 131
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_379"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 131
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_380"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 131
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_381"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_382"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 131
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_383"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_384"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_385"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_386"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_387"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_388"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_389"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_390"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_391"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_392"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_393"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_394"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_395"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_396"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_397"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_398"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_399"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_400"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_401"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_402"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 113
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_403"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 113
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_404"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_405"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_406"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_407"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_408"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_409"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_410"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_411"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_412"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_413"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_414"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_415"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_416"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_417"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_418"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_419"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_420"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_421"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 95
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_422"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 95
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_423"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_424"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_425"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_426"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_427"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_428"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 85
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_429"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_430"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_431"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 85
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_432"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 89
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_433"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 85
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_434"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 81
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_435"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_436"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_437"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 81
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_438"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 85
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_439"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 89
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_440"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_441"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_442"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_443"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_444"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_445"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_446"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_447"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_448"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_449"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 59
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_450"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_451"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_452"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 59
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_453"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 59
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_454"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 59
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_455"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 59
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_456"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_457"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_458"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 59
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_459"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 59
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_460"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 59
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_461"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_462"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_463"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_464"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_465"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_466"
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_467"
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_468"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_469"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_470"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_471"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_472"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_473"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_474"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_475"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_476"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_477"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_478"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_479"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_480"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_481"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_482"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_483"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_484"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_485"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_486"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_487"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_488"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_489"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_490"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_491"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_492"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_493"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_494"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_495"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_496"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_497"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_498"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_499"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_500"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_501"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_502"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_503"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_504"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_505"
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_506"
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_507"
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_508"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 13
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_509"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_510"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_511"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 13
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_512"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_513"
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 13
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_514"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 9
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_515"
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_516"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_517"
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 9
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_518"
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 13
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_519"
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 17
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_520"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_521"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_522"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_523"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 218
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_524"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_525"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 203
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_526"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_527"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "Environnement inspir\xE9 de Super Mario Bros. 3_528"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 221
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

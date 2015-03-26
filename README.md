@@ -18,7 +18,7 @@ Jeu vidéo reposant sur l'idée de la séparation en un monde réel (phases d'in
 ****** DATES ET DURÉE ******<br>
 ********************************<br>
 
-Du 2 septembre 2014 au 18 décembre 2014.<br>
+Du 2 septembre au 18 décembre 2014.<br>
 3 mois et demi.
 
 ********************<br>

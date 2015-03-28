@@ -1,5 +1,5 @@
 # Machinae
-Jeu vidéo mêlant infiltration et jeu de plates-formes.
+Jeu vidéo mêlant les genres de l'infiltration et du jeu de plates-formes.
 
 ******************************************************<br>
 ****** MATIÈRE ET DÉTAILS TECHNIQUES ******<br>
